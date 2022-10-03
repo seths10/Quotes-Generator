@@ -1,5 +1,45 @@
 const quotes = [
 	{
+		text: 'The journey of a thousand miles begins with one step.',
+		author: 'Lao Tzu',
+	},
+	{
+		text: 'That which does not kill us makes us stronger.',
+		author: 'Friedrich Nietzsche',
+	},
+	{
+		text: 'Life is what happens when you’re busy making other plans.',
+		author: 'John Lennon',
+	},
+	{
+		text: 'When the going gets tough, the tough get going.',
+		author: 'Joe Kennedy',
+	},
+	{
+		text: 'You must be the change you wish to see in the world.',
+		author: 'Mahatma Gandhi',
+	},
+	{
+		text: 'You only live once, but if you do it right, once is enough.',
+		author: 'Mae West',
+	},
+	{
+		text: 'Tough times never last but tough people do.',
+		author: 'Robert H. Schuller',
+	},
+	{
+		text: 'Get busy living or get busy dying.',
+		author: 'Stephen King',
+	},
+	{
+		text: 'Whether you think you can or you think you can’t, you’re right.',
+		author: 'Henry Ford',
+	},
+	{
+		text: 'Tis better to have loved and lost than to have never loved at all.',
+		author: 'Alrded Lord Tennyson',
+	},
+	{
 		text: 'Genius is one percent inspiration and ninety-nine percent perspiration.',
 		author: 'Thomas Edison',
 	},
