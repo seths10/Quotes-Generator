@@ -591,4 +591,44 @@ const quotes = [
 		text: "You can do what's reasonable or you can decide what's possible.",
 		author: null,
 	},
+	{
+		text: "Make your life a dream, and a dream, a reality.",
+		author: "Antoine de Saint-Exupéry"
+	},
+	{
+		text: "Music is the langage of emotions.",
+		author: "Emmanuel Kant"
+	},
+	{
+		text: "Imagination is more important than knowledge.",
+		author: "Albert Einstein"
+	},
+	{
+		text: "If you want peace, prepare for war.",
+		author: "Jules César"
+	},
+	{
+		text: "It's the Hell of the poor that makes the Heavens of the Rich.",
+		author: "Victor Hugo"
+	},
+	{
+		text: "There is no worst deaf that the ones who do not want to listen.",
+		author: "Molière"
+	},
+	{
+		text: "When we want we can, when we can we must.",
+		author: "Napoléon Bonaparte"
+	},
+	{
+		text: "I think, therefore I am.",
+		author: "René Descartes"
+	},
+	{
+		text: "Anyone who does not know history is doomed to relive it.",
+		author: "Karl Marx"
+	},
+	{
+		text: "Les promesses n'engagent que ceux qui les reçoivent",
+		author: "Chaques Chirac"
+	}
 ];
