@@ -628,7 +628,7 @@ const quotes = [
 		author: "Karl Marx"
 	},
 	{
-		text: "Les promesses n'engagent que ceux qui les reçoivent",
+		text: "Promises only bind those who receive them.",
 		author: "Chaques Chirac"
 	}
 ];
