@@ -629,6 +629,6 @@ const quotes = [
 	},
 	{
 		text: "Promises only bind those who receive them.",
-		author: "Chaques Chirac"
+		author: "Jacques Chirac"
 	}
 ];
