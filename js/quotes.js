@@ -1218,6 +1218,18 @@ const quotes = [
 	{
 		text: "Promises only bind those who receive them.",
 		author: "Jacques Chirac"
+	},
+	{
+		text: "People won't have time for you if you are always angry or complaining.",
+		author: "Stephen Hawking"
+	},
+	{
+		text: "Keep your face to the sunshine and you cannot see a shadow.",
+		author: "Hellen Keller"
+	},
+	{
+		text: "Sometimes we stare so long at a door that is closing that we see too late the one that is open.",
+		author: "Alexander Graham Bell"
 	}
 
 ];
