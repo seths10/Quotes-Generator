@@ -1,5 +1,9 @@
 const quotes = [
   {
+    text: "If you wish to make an apple pie from scratch, you must first invent the universe",
+    author: "Carl Sagan"
+  },
+  {
     text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
     author: "Thomas Edison",
   },
