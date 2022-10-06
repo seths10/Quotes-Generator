@@ -1250,6 +1250,25 @@ const quotes = [
   {
     text: "The last of human freedoms—the ability to choose ones attitude in a given set of circumstances.",
     author: "Viktor E. Frankl",
-  }
-
+  },
+  {
+	text: "Leadership is hard to define and good leadership even harder. But if you can get people to follow you to the ends of the earth, you are a great leader.",
+    author: "Indra Nooyi",
+  },
+  {
+    text: "It isn't what we say or think that defines us, but what we do.",
+    author: "Jane Austen",
+  },
+  {
+	text: "There is no charm equal to tenderness of heart.",
+    author: "Jane Austen",
+  },
+  {
+	text: "We have all a better guide in ourselves, if we would attend to it, than any other person can be.",
+    author: "Jane Austen",
+  },  
+  {
+  text: "Evil is not something superhuman, it's something less than human.",
+  author: "Agatha Christie",
+  },
 ];
