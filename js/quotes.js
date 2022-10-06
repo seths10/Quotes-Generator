@@ -1250,6 +1250,10 @@ const quotes = [
   {
     text: "The last of human freedoms—the ability to choose ones attitude in a given set of circumstances.",
     author: "Viktor E. Frankl",
+  },
+  {
+    text: "Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.",
+    author: "Dr. A.P.J Abdul Kalam",
   }
 
 ];
