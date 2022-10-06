@@ -1234,6 +1234,26 @@ const quotes = [
 	{
 		text: "Sometimes we stare so long at a door that is closing that we see too late the one that is open.",
 		author: "Alexander Graham Bell"
+	},
+	{
+		text:"Winning isnt everything, but wanting it is.",
+		author:"Arnold Palmer"
+
+	},
+	{
+		text:"You can never cross the ocean unless you have the courage to lose sight of the shore.",
+		author:"Christopher Columbus"
+
+	},
+	{
+		text:"Great sea captains are made in rough waters and deep seas.",
+		author:"Kathryn Kuhlman"
+
+	},
+	{
+		text:"Smooth sea never made a skillful sailor.",
+		author:"Anonymous"
+
 	}
 
 ];
