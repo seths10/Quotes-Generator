@@ -1250,6 +1250,10 @@ const quotes = [
   {
     text: "The last of human freedoms—the ability to choose ones attitude in a given set of circumstances.",
     author: "Viktor E. Frankl",
-  }
+  },
+  {
+    text: "Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot it becomes the teapot. Now, water can flow or it can crash. Be water, my friend.",
+    author: "Bruce Lee",
+  },
 
 ];
