@@ -1236,6 +1236,7 @@ const quotes = [
 		author: "Alexander Graham Bell"
 	},
 	{
+
 		text:"Winning isnt everything, but wanting it is.",
 		author:"Arnold Palmer"
 
@@ -1254,6 +1255,25 @@ const quotes = [
 		text:"Smooth sea never made a skillful sailor.",
 		author:"Anonymous"
 
-	}
+	},
+  {
+
+    text: "I am always doing that which I cannot do, in order that I may learn how to do it.",
+    author: "Pablo Picasso",
+  },
+  {
+    text: "A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.",
+    author: "Mahatma Gandhi",
+  },
+  {
+    text: "The greatest weapon against stress is our ability to choose one thought over another.",
+    author: "William James",
+  },
+  {
+    text: "The last of human freedoms—the ability to choose ones attitude in a given set of circumstances.",
+    author: "Viktor E. Frankl",
+  }
+
+
 
 ];
