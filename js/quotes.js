@@ -1272,8 +1272,52 @@ const quotes = [
   {
     text: "The last of human freedoms—the ability to choose ones attitude in a given set of circumstances.",
     author: "Viktor E. Frankl",
-  }
-
-
-
+  },
+  {
+	  text: "Leadership is hard to define and good leadership even harder. But if you can get people to follow you to the ends of the earth, you are a great leader.",
+    author: "Indra Nooyi",
+  },
+  {
+    text: "It isn't what we say or think that defines us, but what we do.",
+    author: "Jane Austen",
+  },
+  {
+	text: "There is no charm equal to tenderness of heart.",
+    author: "Jane Austen",
+  },
+  {
+	text: "We have all a better guide in ourselves, if we would attend to it, than any other person can be.",
+    author: "Jane Austen",
+  },  
+  {
+  text: "Evil is not something superhuman, it's something less than human.",
+  author: "Agatha Christie",
+  },
+  text: "Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot it becomes the teapot. Now, water can flow or it can crash. Be water, my friend.",
+    author: "Bruce Lee",
+  },
+	{
+		text: "We all live in a house on fire, no fire department to call, no way out.",
+		author: "Tennessee Williams"
+	},
+	{
+		text: "All truths are easy to understand once they are discovered. The point is to discover them.",
+		author: "Galileo Galilei"
+	},
+	{
+		text: "Hunting is not a sport. In a sport, both sides should know they're in the game.",
+		author: "Paul Rodriguez"
+	},
+	{
+		text: "No matter how dark the moment, love and hope are always possible.",
+		author: "George Chakiris"
+	},
+	{
+		text: "All humanity is one undivided and indivisible family. I cannot detach myself from the wickedest soul.",
+		author: "Mahatma Gandhi"
+	},
+	{
+		text: "It is a wise father that knows his own child.",
+		author: "William Shakespeare"
+	}
 ];
