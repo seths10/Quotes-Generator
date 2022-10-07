@@ -1320,5 +1320,10 @@ const quotes = [
 	{
 		text: "It is a wise father that knows his own child.",
 		author: "William Shakespeare"
+	},
+	{
+		text: "I'd rather be someone that's underrated than overrated.",
+		author: "Clint Dempsey"
 	}
+
 ];
