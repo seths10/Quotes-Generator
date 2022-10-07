@@ -1252,6 +1252,7 @@ const quotes = [
     author: "Viktor E. Frankl",
   },
   {
+
 	text: "Leadership is hard to define and good leadership even harder. But if you can get people to follow you to the ends of the earth, you are a great leader.",
     author: "Indra Nooyi",
   },
@@ -1270,5 +1271,8 @@ const quotes = [
   {
   text: "Evil is not something superhuman, it's something less than human.",
   author: "Agatha Christie",
+  },
+  text: "Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot it becomes the teapot. Now, water can flow or it can crash. Be water, my friend.",
+    author: "Bruce Lee",
   },
 ];
