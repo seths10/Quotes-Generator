@@ -1320,5 +1320,9 @@ const quotes = [
 	{
 		text: "It is a wise father that knows his own child.",
 		author: "William Shakespeare"
-	}
+	},
+	{
+    		text: "There is no avoiding war; it can only be postponed to the advantage of others.",
+    		author: "Niccolo Machiavelli"
+  	},
 ];
