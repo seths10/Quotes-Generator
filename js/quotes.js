@@ -1236,6 +1236,28 @@ const quotes = [
 		author: "Alexander Graham Bell"
 	},
 	{
+
+		text:"Winning isnt everything, but wanting it is.",
+		author:"Arnold Palmer"
+
+	},
+	{
+		text:"You can never cross the ocean unless you have the courage to lose sight of the shore.",
+		author:"Christopher Columbus"
+
+	},
+	{
+		text:"Great sea captains are made in rough waters and deep seas.",
+		author:"Kathryn Kuhlman"
+
+	},
+	{
+		text:"Smooth sea never made a skillful sailor.",
+		author:"Anonymous"
+
+	},
+  {
+
     text: "I am always doing that which I cannot do, in order that I may learn how to do it.",
     author: "Pablo Picasso",
   },
@@ -1252,8 +1274,7 @@ const quotes = [
     author: "Viktor E. Frankl",
   },
   {
-
-	text: "Leadership is hard to define and good leadership even harder. But if you can get people to follow you to the ends of the earth, you are a great leader.",
+	  text: "Leadership is hard to define and good leadership even harder. But if you can get people to follow you to the ends of the earth, you are a great leader.",
     author: "Indra Nooyi",
   },
   {
@@ -1298,5 +1319,5 @@ const quotes = [
 	{
 		text: "It is a wise father that knows his own child.",
 		author: "William Shakespeare"
-	},
+	}
 ];
