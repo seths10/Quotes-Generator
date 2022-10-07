@@ -1250,6 +1250,23 @@ const quotes = [
   {
     text: "The last of human freedoms—the ability to choose ones attitude in a given set of circumstances.",
     author: "Viktor E. Frankl",
-  }
+  },
+  {
+    text : "First make the change easy (warning: this might be hard), then make the easy change.",
+    author : "Kent Beck"
+  },
+  {
+    text : "Before software can be reusable it first has to be usable.", 
+    author : "Ralph Johnson"
+  },
+  {
+    text : "If it hurts, do it more frequently, and bring the pain forward.", 
+    author : "Jez Humble"
+  },
+  {
+    text : "Good programmers know what to write. Great ones know what to rewrite and reuse.",
+    author : "Eric S. Raymond"
+  } 
+  
 
 ];
