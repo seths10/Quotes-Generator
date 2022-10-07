@@ -1320,5 +1320,9 @@ const quotes = [
 	{
 		text: "It is a wise father that knows his own child.",
 		author: "William Shakespeare"
+	},
+	{
+		text: "Strike me down, and I will become more powerful than you could possibly imagine.",
+		author: "Obi-Wan Kenobi"
 	}
 ];
