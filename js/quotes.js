@@ -1236,7 +1236,26 @@ const quotes = [
 		author: "Alexander Graham Bell"
 	},
 	{
-
+    text: "I am always doing that which I cannot do, in order that I may learn how to do it.",
+    author: "Pablo Picasso",
+  },
+  {
+    text: "A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.",
+    author: "Mahatma Gandhi",
+  },
+  {
+    text: "The greatest weapon against stress is our ability to choose one thought over another.",
+    author: "William James",
+  },
+  {
+    text: "The last of human freedoms—the ability to choose ones attitude in a given set of circumstances.",
+    author: "Viktor E. Frankl",
+  },
+  {
+    text: "Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.",
+    author: "Dr. A.P.J Abdul Kalam",
+  },
+{
 		text: "Winning isnt everything, but wanting it is.",
 		author: "Arnold Palmer"
 
