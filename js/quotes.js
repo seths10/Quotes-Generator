@@ -300,6 +300,10 @@ const quotes = [
 		author: "Maya Angelou",
 	},
 	{
+		text: "Your mind is for having ideas, not holding them.",
+		author: "David Allen",
+	},
+	{
 		text: "Important principles may, and must, be inflexible.",
 		author: "Abraham Lincoln",
 	},
