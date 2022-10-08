@@ -99,3 +99,11 @@ Now submit the pull request.
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
+## Run In Docker
+```
+docker build -t quotegen ./
+docker run -p 8080:80 quotegen
+```
+
+Then open localhost:8080 from local browser.
