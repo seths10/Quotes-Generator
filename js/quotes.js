@@ -1236,28 +1236,58 @@ const quotes = [
 		author: "Alexander Graham Bell"
 	},
 	{
-
+    text: "I am always doing that which I cannot do, in order that I may learn how to do it.",
+    author: "Pablo Picasso",
+  },
+  {
+    text: "A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.",
+    author: "Mahatma Gandhi",
+  },
+  {
+    text: "The greatest weapon against stress is our ability to choose one thought over another.",
+    author: "William James",
+  },
+  {
+    text: "The last of human freedoms—the ability to choose ones attitude in a given set of circumstances.",
+    author: "Viktor E. Frankl",
+  },
+  {
+    text : "First make the change easy (warning: this might be hard), then make the easy change.",
+    author : "Kent Beck"
+  },
+  {
+    text : "Before software can be reusable it first has to be usable.", 
+    author : "Ralph Johnson"
+  },
+  {
+    text : "If it hurts, do it more frequently, and bring the pain forward.", 
+    author : "Jez Humble"
+  },
+  {
+    text : "Good programmers know what to write. Great ones know what to rewrite and reuse.",
+    author : "Eric S. Raymond"
+  },
+  {
+    text: "Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.",
+    author: "Dr. A.P.J Abdul Kalam",
+  },
+{
 		text: "Winning isnt everything, but wanting it is.",
 		author: "Arnold Palmer"
-
 	},
 	{
 		text: "You can never cross the ocean unless you have the courage to lose sight of the shore.",
 		author: "Christopher Columbus"
-
 	},
 	{
 		text: "Great sea captains are made in rough waters and deep seas.",
 		author: "Kathryn Kuhlman"
-
 	},
 	{
 		text: "Smooth sea never made a skillful sailor.",
 		author: "Anonymous"
-
 	},
 	{
-
 		text: "I am always doing that which I cannot do, in order that I may learn how to do it.",
 		author: "Pablo Picasso",
 	},
@@ -1436,5 +1466,21 @@ const quotes = [
 	{
 		text: "I don't think the human race will survive the next thousand years, unless we spread into space.",
 		author: "Stephen Hawking"
-	}
+},
+{
+    		text: "There is no avoiding war; it can only be postponed to the advantage of others.",
+    		author: "Niccolo Machiavelli"
+  	},
+{
+		text: "Life is trying things to see if they work.",
+		author: "Ray Bradbury"
+	},
+  {
+		text: "Strike me down, and I will become more powerful than you could possibly imagine.",
+		author: "Obi-Wan Kenobi"
+    },
+    {
+		text: "I'd rather be someone that's underrated than overrated.",
+		author: "Clint Dempsey"
+	  }
 ];
