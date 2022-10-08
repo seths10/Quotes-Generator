@@ -164,6 +164,14 @@ const quotes = [
 		author: "V. Naipaul",
 	},
 	{
+		text: "When you have a dream, you've got to grab it and never let go.",
+		author: "Carol Burnett",
+	},
+	{
+		text: "There is nothing impossible to they who will try.",
+		author: "Alexander the Great",
+	},
+	{
 		text: "Never mistake activity for achievement.",
 		author: "John Wooden",
 	},
