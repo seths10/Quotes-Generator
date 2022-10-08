@@ -1324,5 +1324,13 @@ const quotes = [
 	{
 		text: "Life is trying things to see if they work.",
 		author: "Ray Bradbury"
-	}
+	},
+  {
+		text: "Strike me down, and I will become more powerful than you could possibly imagine.",
+		author: "Obi-Wan Kenobi"
+    },
+    {
+		text: "I'd rather be someone that's underrated than overrated.",
+		author: "Clint Dempsey"
+	  }
 ];
