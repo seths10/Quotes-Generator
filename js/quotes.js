@@ -1322,6 +1322,10 @@ const quotes = [
 		author: "William Shakespeare"
 	},
 	{
+    		text: "There is no avoiding war; it can only be postponed to the advantage of others.",
+    		author: "Niccolo Machiavelli"
+  	},
+{
 		text: "Life is trying things to see if they work.",
 		author: "Ray Bradbury"
 	},
