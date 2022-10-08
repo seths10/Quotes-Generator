@@ -204,6 +204,10 @@ const quotes = [
 		author: "Michael Korda",
 	},
 	{
+		text: "All endings are also beginnings. We just don't know it at the time.",
+		author: "Mitch Albom",
+	},
+	{
 		text: "Learn from yesterday, live for today, hope for tomorrow.",
 		author: "Albert Einstein",
 	},
