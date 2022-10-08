@@ -1252,31 +1252,42 @@ const quotes = [
     author: "Viktor E. Frankl",
   },
   {
+    text : "First make the change easy (warning: this might be hard), then make the easy change.",
+    author : "Kent Beck"
+  },
+  {
+    text : "Before software can be reusable it first has to be usable.", 
+    author : "Ralph Johnson"
+  },
+  {
+    text : "If it hurts, do it more frequently, and bring the pain forward.", 
+    author : "Jez Humble"
+  },
+  {
+    text : "Good programmers know what to write. Great ones know what to rewrite and reuse.",
+    author : "Eric S. Raymond"
+  },
+  {
     text: "Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.",
     author: "Dr. A.P.J Abdul Kalam",
   },
 {
 		text: "Winning isnt everything, but wanting it is.",
 		author: "Arnold Palmer"
-
 	},
 	{
 		text: "You can never cross the ocean unless you have the courage to lose sight of the shore.",
 		author: "Christopher Columbus"
-
 	},
 	{
 		text: "Great sea captains are made in rough waters and deep seas.",
 		author: "Kathryn Kuhlman"
-
 	},
 	{
 		text: "Smooth sea never made a skillful sailor.",
 		author: "Anonymous"
-
 	},
 	{
-
 		text: "I am always doing that which I cannot do, in order that I may learn how to do it.",
 		author: "Pablo Picasso",
 	},
