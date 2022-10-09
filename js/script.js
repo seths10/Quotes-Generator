@@ -1,18 +1,43 @@
-let btn = document.querySelector('#Qbtn');
-let quote = document.querySelector('.quote');
-let writer = document.querySelector('.writer');
-let twitterBtn = document.querySelector('#Tbtn');
+let btn = document.querySelector("#Qbtn");
+let quote = document.querySelector(".quote");
+let writer = document.querySelector(".writer");
+let twitterBtn = document.querySelector("#Tbtn");
+let mode = document.getElementById("mode");
+let buttons = document.querySelectorAll(".allBtn");
 
-btn.addEventListener('click', function () {
-	let random = Math.floor(Math.random() * quotes.length);
-	quote.innerHTML = quotes[random].text;
-	writer.innerHTML = '-' + quotes[random].author;
+btn.addEventListener("click", function () {
+  let random = Math.floor(Math.random() * quotes.length);
+  quote.innerHTML = quotes[random].text;
+  writer.innerHTML = "-" + quotes[random].author;
 });
 
-twitterBtn.addEventListener('click', tweetQuote());
+twitterBtn.addEventListener("click", tweetQuote());
 
 // Tweet Quote
 function tweetQuote() {
-	const twitterUrl = `https://twitter.com/intent/tweet?text=${quote.innerText} ${writer.innerText}`;
-	window.open(twitterUrl, '_blank');
+  const twitterUrl = `https://twitter.com/intent/tweet?text=${quote.innerText} ${writer.innerText}`;
+  window.open(twitterUrl, "_blank");
 }
+
+// change mode
+mode.addEventListener("click", () => {
+  let element = document.body;
+  element.classList.toggle("dark");
+
+  let buttons = document.querySelectorAll(".allBtn");
+  let modeText = document.querySelector("#modeText");
+
+  for (let i = 0; i < buttons.length; i++) {
+    if (buttons[i].style.backgroundColor !== "white") {
+      buttons[i].style.backgroundColor = "white";
+      buttons[i].style.color = "#222";
+      modeText.innerHTML = "Dark Mode";
+      mode.style.borderColor = "black";
+    } else {
+      buttons[i].style.backgroundColor = "hsl(25, 97%, 53%)";
+      buttons[i].style.color = "#fff";
+      modeText.innerHTML = "Light Mode";
+      mode.style.borderColor = "white";
+    }
+  }
+});

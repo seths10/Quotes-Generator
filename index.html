@@ -1,40 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<title>Quotes Generator</title>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"/>
-        <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
-		<link rel="stylesheet" href="styles/style.css" />
-	</head>
-	<body>
-		<div class="container">
-			<div class="header">
-				<h2>Quote Generator</h2>
-			</div>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Quotes Generator</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="icons/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+  <body>
+    <div id="mode">
+      <i class="far fa-lightbulb" id="modeIcon"></i>
+      <p id="modeText">Light Mode</p>
+    </div>
+    <div class="container">
+      <div class="header">
+        <h2>Quote Generator</h2>
+      </div>
 
-			<div class="main-content">
-				<div class="text-area">
-					<span class="quote"
-						>"Life is what happens when you're busy making other plans"</span
-					>
-				</div>
+      <div class="main-content">
+        <div class="text-area">
+          <span class="quote"
+            >"Life is what happens when you're busy making other plans"</span
+          >
+        </div>
 
-				<div class="writer"> - John Lennon</div>
+        <div class="writer">- John Lennon</div>
 
-				<div class="button-area">
-					<div class="btn">
-						<button id="Qbtn">Generate</button>
-						<button id="Tbtn" title="Tweet This!">
-                            <i class="fab fa-twitter"></i>
-                            Tweet This
-                        </button>
-					</div>
-				</div>
-			</div>
-		</div>
+        <div class="button-area">
+          <div>
+            <button id="Qbtn" class="allBtn">Generate</button>
+            <button id="Tbtn" class="allBtn" title="Tweet This!">
+              <i class="fab fa-twitter"></i>
+              Tweet This
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-		<script src="js/quotes.js"></script>
-		<script src="js/script.js"></script>
-	</body>
+    <script src="js/quotes.js"></script>
+    <script src="js/script.js"></script>
+  </body>
 </html>

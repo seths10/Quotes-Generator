@@ -1,75 +1,110 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: montserrat;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: montserrat;
 }
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(15, 17, 19);
-    height: 100vh;    
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(15, 17, 19);
+  color: white;
+  height: 100vh;
 }
+
+.dark {
+  background-color: #fff;
+  color: #222;
+}
+
 .container {
-	width: 550px;
-	height: 450px;
+  width: 550px;
+  height: 450px;
 }
 .header {
-	text-align: center;
-	margin-bottom: 50px;
+  text-align: center;
+  margin-bottom: 50px;
 }
+
 .header h2 {
-    font-weight: 800;
-    color: #fff;
-    font-size: 40px;
+  font-weight: 800;
+  font-size: 40px;
 }
+
 .main-content {
-	width: 100%;
-	height: 300px;
-	padding: 50px 40px;
-	background-color: hsl(208, 18%, 12%);
-	border-radius: 15px;
-	box-shadow: 0 25px 31px 0 rgba(0,0,0,0.3);
+  width: 100%;
+  padding: 50px 40px;
+  background-color: hsl(208, 18%, 12%);
+  border-radius: 15px;
+  box-shadow: 0 25px 31px 0 rgba(0, 0, 0, 0.3);
+}
+
+@media screen and (max-width: 500px) {
+  .main-content {
+    width: 85%;
+    margin: 0 auto;
+  }
 }
 
 .text-area {
-	text-align: center;
-	font-size: 25px;
-	color: #fff;
-	line-height: 1.5;
-    
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  line-height: 1.5;
 }
+
 .text-area .icon {
-    margin-right: 5px;
+  margin-right: 5px;
 }
 
 .main-content .writer {
-    text-transform: uppercase;
-	letter-spacing: 5px;
-	color: rgb(0, 136, 255);
-	text-align: center;
-	margin-top: 20px;
-	font-size: 25px;
-	
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: rgb(0, 136, 255);
+  text-align: center;
+  margin-top: 20px;
+  font-size: 25px;
 }
 .main-content .button-area {
-	display: grid;
-	place-items: center;
-	margin-top: 20px;
-	padding: 10px 0;
+  display: grid;
+  place-items: center;
+  margin-top: 20px;
+  padding: 10px 0;
 }
-.button-area .btn button {
-    background-color: hsl(25,97%,53%);
-    color: #fff;
-    border-radius: 5px;
-    font-size: 16px;
-    cursor: pointer;
-    border: none;
-    outline: none;
-    padding: 10px 15px;
-    
+
+.allBtn {
+  background-color: hsl(25, 97%, 53%);
+  color: #fff;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  padding: 10px 15px;
 }
+
+#mode {
+  position: absolute;
+  top: 30px;
+  right: 50px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  border: 1px solid white;
+  padding: 10px;
+}
+
+#modeIcon {
+  font-size: 25px;
+}
+
+#modeText {
+  margin-left: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
 .button-area button:active {
-    background-color: rgba(215, 97, 12, 0.879);
+  background-color: rgba(215, 97, 12, 0.879);
 }
