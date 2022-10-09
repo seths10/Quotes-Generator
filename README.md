@@ -2,7 +2,7 @@
 
 This is a website for generating random quotes which can be tweeted.
 
-PLease give this project a star 🌟 and don't forget to follow me 😊. 
+Please give this project a star 🌟 and don't forget to follow me 😊. 
 
 If you are looking to make your first contribution, follow the steps below. 
 Check the CONTRIBUTING.md file file if you are already familiar with the git workflow.
@@ -99,3 +99,11 @@ Now submit the pull request.
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
+## Run In Docker
+```
+docker build -t quotegen ./
+docker run -p 8080:80 quotegen
+```
+
+Then open localhost:8080 from local browser.
