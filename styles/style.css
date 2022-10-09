@@ -42,8 +42,9 @@ body {
 
 @media screen and (max-width: 500px) {
   .main-content {
-    width: 85%;
+    width: 90%;
     margin: 0 auto;
+    text-align: center;
   }
 }
 
