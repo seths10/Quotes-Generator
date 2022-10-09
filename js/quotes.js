@@ -1,5 +1,9 @@
 const quotes = [
 	{
+		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
+		author: "Emil Cioran"
+	},
+	{
 		text: "If you wish to make an apple pie from scratch, you must first invent the universe",
 		author: "Carl Sagan"
 	},
