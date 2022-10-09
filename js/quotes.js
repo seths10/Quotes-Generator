@@ -1,4 +1,7 @@
 const quotes = [
+	{	text: "Everything in moderation, including moderation.",
+	 	author: "Oscar Wilde"
+	},
 	{
 		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
 		author: "Emil Cioran"
