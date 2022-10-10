@@ -1574,4 +1574,16 @@ const quotes = [
 		text: "Dream as if you'll live forever. Live as if you'll die today.",
 		author: "John Agyekum Kufuor"
 	},
+  {
+		text: "Success is not final, failure is not fatal. It is the courage to continue that counts.",
+		author: "Winston Churchill"
+  },
+  {
+	text: "Success is not final, failure is not fatal. It is the courage to continue that counts.",
+	author: "Winston Churchill"
+  },
+  {
+	text: "Never give up on something that you can't go a day without thinking about.",
+	author: "Winston Churchill"
+  },
 ];
