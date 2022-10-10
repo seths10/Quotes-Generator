@@ -1,4 +1,11 @@
 const quotes = [
+	{	text: "Everything in moderation, including moderation.",
+	 	author: "Oscar Wilde"
+	},
+	{
+		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
+		author: "Emil Cioran"
+	},
 	{
 		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
 		author: "Emil Cioran"
@@ -7,6 +14,10 @@ const quotes = [
 		text: "If you wish to make an apple pie from scratch, you must first invent the universe",
 		author: "Carl Sagan"
 	},
+        {     
+                text: "As you walk down the fairway of life you must smell the roses, for you only get to play one round.",
+                author: "Ben Hogan"
+        },
 	{
 		text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
 		author: "Thomas Edison",
@@ -1605,5 +1616,5 @@ const quotes = [
 	{
 		text: "Children are not colouring books. You don't get to fill them with your favourite colours.",
 		author: "Khaled Hosseini",
-	},
+	}
 ];
