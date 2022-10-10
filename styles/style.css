@@ -68,11 +68,27 @@ body {
   margin-top: 20px;
   font-size: 25px;
 }
+
 .main-content .button-area {
-  display: grid;
-  place-items: center;
-  margin-top: 20px;
-  padding: 10px 0;
+	display: grid;
+	place-items: center;
+	margin-top: 20px;
+	padding: 10px 0;
+}
+
+.button-area .btn button {
+    background-color: #fb7413;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    display: grid;
+    place-items: center;
+    margin-top: 20px;
+    padding: 10px 0;
 }
 
 .allBtn {

@@ -7,11 +7,12 @@ let mode = document.getElementById("mode");
 let buttons = document.querySelectorAll(".allBtn");
 let copyBtn = document.querySelector('#Cbtn');
 
-
-btn.addEventListener("click", function () {
-  let random = Math.floor(Math.random() * quotes.length);
-  quote.innerHTML = quotes[random].text;
-  writer.innerHTML = "-" + quotes[random].author;
+btn.addEventListener('click', function () {
+	let random = Math.floor(Math.random() * quotes.length);
+	quote.innerHTML = quotes[random].text;
+	writer.innerHTML = '-' + quotes[random].author;
+	copyBtn.style.backgroundColor = '#fb7413';
+	copyBtn.innerHTML = "Copy to Clipboard";
 });
 
 
@@ -56,5 +57,6 @@ function copyQuote() {
 
 	// Copy quote to clipboard
 	navigator.clipboard.writeText(copiedQuote);
+	copyBtn.style.backgroundColor = '#74B72E';
+	copyBtn.innerHTML = "Copied to clipboard!!"; 
 }
-
