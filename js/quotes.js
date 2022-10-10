@@ -1,8 +1,23 @@
 const quotes = [
+	{	text: "Everything in moderation, including moderation.",
+	 	author: "Oscar Wilde"
+	},
+	{
+		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
+		author: "Emil Cioran"
+	},
+	{
+		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
+		author: "Emil Cioran"
+	},
 	{
 		text: "If you wish to make an apple pie from scratch, you must first invent the universe",
 		author: "Carl Sagan"
 	},
+        {     
+                text: "As you walk down the fairway of life you must smell the roses, for you only get to play one round.",
+                author: "Ben Hogan"
+        },
 	{
 		text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
 		author: "Thomas Edison",
@@ -1506,21 +1521,121 @@ const quotes = [
 	{
 		text: "I don't think the human race will survive the next thousand years, unless we spread into space.",
 		author: "Stephen Hawking"
-},
-{
-    		text: "There is no avoiding war; it can only be postponed to the advantage of others.",
-    		author: "Niccolo Machiavelli"
-  	},
-{
+  },
+  {
+    text: "There is no avoiding war; it can only be postponed to the advantage of others.",
+    author: "Niccolo Machiavelli"
+  },
+  {
 		text: "Life is trying things to see if they work.",
 		author: "Ray Bradbury"
 	},
   {
 		text: "Strike me down, and I will become more powerful than you could possibly imagine.",
 		author: "Obi-Wan Kenobi"
-    },
-    {
+  },
+  {
 		text: "I'd rather be someone that's underrated than overrated.",
 		author: "Clint Dempsey"
-	  }
+	},
+  {
+		text: "To live is to choose. But to choose well, you must know who you are and what you stand for, where you want to go and why you want to get there.",
+		author: "Kofi Annan"
+	},
+  {
+		text: "We need to keep hope alive and strive to do better.",
+		author: "Kofi Annan"
+	},
+  {
+    text: "Change is a process which has to be managed.",
+    author: "Kofi Annan"
+  },
+  {
+		text: "Freedom is not something that one people can bestow on another as a gift. Thy claim it as their own and none can keep it from them.",
+		author: "Kwame Nkrumah"
+	},
+  {
+    text: "Thought without practice is empty; and action without thought is blind.",
+    author: "Kwame Nkrumah"
+  },
+  {
+		text: "People are worms, and even the God who created them is immensely bored with their antics.",
+		author: "Ama Ata Aidoo"
+	},
+  {
+		text: "When evil men destroy, good men must build and bind.",
+		author: "Anas Aremeyaw Anas"
+	},
+  {
+		text: "The future belongs to those who believe in the beauty of their dreams.",
+		author: "John Agyekum Kufuor"
+	},
+  {
+		text: "All our dreams can come true, if we have the courage to pursue them.",
+		author: "John Agyekum Kufuor"
+	},
+  {
+		text: "Dream as if you'll live forever. Live as if you'll die today.",
+		author: "John Agyekum Kufuor"
+	},
+  {
+		text: "Success is not final, failure is not fatal. It is the courage to continue that counts.",
+		author: "Winston Churchill"
+  },
+  {
+		text: "Success is not final, failure is not fatal. It is the courage to continue that counts.",
+		author: "Winston Churchill"
+  },
+  {
+		text: "Never give up on something that you can't go a day without thinking about.",
+		author: "Winston Churchill"
+  },
+  {
+		text: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
+		author: "Dale Carnegie"
+  },
+  {
+		text: "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+		author: "Thomas Edison"
+  },
+	{	
+		text: "Most people are other people. Their thoughtx are someone else's opinions, their lives a mimicry, their passions a quotation.",
+		author: "Oskar Wilde",
+	},
+	{
+		text: "We accept the reality of the world with which we are presented. It's as simple as that.",
+		author: "The Truman Show",
+	},
+	{
+		text: "Who kills a man kills a reasonable creature, God's image; but he who destroys a good book, kills reason itself, kills the image of God, as it were, in the eye.",
+		author: "John Milton",
+	},
+	{
+		text: "We stopped looking for monsters under our bed when we realised that they were inside us.",
+		author: "Charles Darwin",
+	},
+	{
+		text: "Life isn't just about darkness or light, rather it's about finding light within the darkness.",
+		author: "Landon Parham",
+	},
+	{
+		text: "I have written you down. Now you will live forever.",
+		author: "Bastille",
+  },
+  {
+		text: "For sale: baby shoes, never worn.",
+		author: "Ernest Hemingway",
+	},
+	{
+		text: "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+		author: "Martin Luther King Jr.",
+	},
+	{
+		text: "Music is a hogher revelation than all wisdom and philosophy. Music is the electrical soil in which the spirit lives, thinks and invents.",
+		author: "Ludwig van Beethoven",
+	},
+	{
+		text: "Children are not colouring books. You don't get to fill them with your favourite colours.",
+		author: "Khaled Hosseini",
+	}
 ];
