@@ -1586,4 +1586,8 @@ const quotes = [
 	text: "Never give up on something that you can't go a day without thinking about.",
 	author: "Winston Churchill"
   },
+  {
+	text: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
+	author: "Dale Carnegie"
+  },
 ];
