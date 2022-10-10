@@ -1,4 +1,7 @@
 const quotes = [
+	{	text: "Everything in moderation, including moderation.",
+	 	author: "Oscar Wilde"
+	},
 	{
 		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
 		author: "Emil Cioran"
@@ -7,6 +10,10 @@ const quotes = [
 		text: "If you wish to make an apple pie from scratch, you must first invent the universe",
 		author: "Carl Sagan"
 	},
+        {     
+                text: "As you walk down the fairway of life you must smell the roses, for you only get to play one round.",
+                author: "Ben Hogan"
+        },
 	{
 		text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
 		author: "Thomas Edison",
@@ -1510,21 +1517,61 @@ const quotes = [
 	{
 		text: "I don't think the human race will survive the next thousand years, unless we spread into space.",
 		author: "Stephen Hawking"
-},
-{
-    		text: "There is no avoiding war; it can only be postponed to the advantage of others.",
-    		author: "Niccolo Machiavelli"
-  	},
-{
+  },
+  {
+    text: "There is no avoiding war; it can only be postponed to the advantage of others.",
+    author: "Niccolo Machiavelli"
+  },
+  {
 		text: "Life is trying things to see if they work.",
 		author: "Ray Bradbury"
 	},
   {
 		text: "Strike me down, and I will become more powerful than you could possibly imagine.",
 		author: "Obi-Wan Kenobi"
-    },
-    {
+  },
+  {
 		text: "I'd rather be someone that's underrated than overrated.",
 		author: "Clint Dempsey"
-	  }
+	},
+  {
+		text: "To live is to choose. But to choose well, you must know who you are and what you stand for, where you want to go and why you want to get there.",
+		author: "Kofi Annan"
+	},
+  {
+		text: "We need to keep hope alive and strive to do better.",
+		author: "Kofi Annan"
+	},
+  {
+    text: "Change is a process which has to be managed.",
+    author: "Kofi Annan"
+  },
+  {
+		text: "Freedom is not something that one people can bestow on another as a gift. Thy claim it as their own and none can keep it from them.",
+		author: "Kwame Nkrumah"
+	},
+  {
+    text: "Thought without practice is empty; and action without thought is blind.",
+    author: "Kwame Nkrumah"
+  },
+  {
+		text: "People are worms, and even the God who created them is immensely bored with their antics.",
+		author: "Ama Ata Aidoo"
+	},
+  {
+		text: "When evil men destroy, good men must build and bind.",
+		author: "Anas Aremeyaw Anas"
+	},
+  {
+		text: "The future belongs to those who believe in the beauty of their dreams.",
+		author: "John Agyekum Kufuor"
+	},
+  {
+		text: "All our dreams can come true, if we have the courage to pursue them.",
+		author: "John Agyekum Kufuor"
+	},
+  {
+		text: "Dream as if you'll live forever. Live as if you'll die today.",
+		author: "John Agyekum Kufuor"
+	},
 ];
