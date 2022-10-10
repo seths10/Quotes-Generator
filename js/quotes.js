@@ -1579,15 +1579,19 @@ const quotes = [
 		author: "Winston Churchill"
   },
   {
-	text: "Success is not final, failure is not fatal. It is the courage to continue that counts.",
-	author: "Winston Churchill"
+		text: "Success is not final, failure is not fatal. It is the courage to continue that counts.",
+		author: "Winston Churchill"
   },
   {
-	text: "Never give up on something that you can't go a day without thinking about.",
-	author: "Winston Churchill"
+		text: "Never give up on something that you can't go a day without thinking about.",
+		author: "Winston Churchill"
   },
   {
-	text: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
-	author: "Dale Carnegie"
+		text: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
+		author: "Dale Carnegie"
+  },
+  {
+		text: "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+		author: "Thomas Edison"
   },
 ];
