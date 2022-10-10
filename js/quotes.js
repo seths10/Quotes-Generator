@@ -1574,4 +1574,24 @@ const quotes = [
 		text: "Dream as if you'll live forever. Live as if you'll die today.",
 		author: "John Agyekum Kufuor"
 	},
+  {
+		text: "It's not what happens to you, but how you react to it that matters.",
+		author: "Epictetus"
+	},
+  {
+		text: "The only true wisdom is in knowing you know nothing.",
+		author: "Socrates"
+	},
+  {
+		text: "History repeats itself, first as tragedy, second as farce.",
+		author: "Karl Marx"
+	},
+  {
+		text: "To live is to suffer, to survive is to find some meaning in the suffering.",
+		author: "Friedrich Nietzsche"
+	},
+  {
+		text: "It does not matter how slowly you go as long as you do not stop.",
+		author: "Confucius"
+	},
 ];
