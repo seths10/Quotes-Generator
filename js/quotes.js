@@ -1,5 +1,9 @@
 const quotes = [
 	{
+		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
+		author: "Emil Cioran"
+	},
+	{
 		text: "If you wish to make an apple pie from scratch, you must first invent the universe",
 		author: "Carl Sagan"
 	},
@@ -164,6 +168,14 @@ const quotes = [
 		author: "V. Naipaul",
 	},
 	{
+		text: "When you have a dream, you've got to grab it and never let go.",
+		author: "Carol Burnett",
+	},
+	{
+		text: "There is nothing impossible to they who will try.",
+		author: "Alexander the Great",
+	},
+	{
 		text: "Never mistake activity for achievement.",
 		author: "John Wooden",
 	},
@@ -202,6 +214,10 @@ const quotes = [
 	{
 		text: "To succeed, we must first believe that we can.",
 		author: "Michael Korda",
+	},
+	{
+		text: "All endings are also beginnings. We just don't know it at the time.",
+		author: "Mitch Albom",
 	},
 	{
 		text: "Learn from yesterday, live for today, hope for tomorrow.",
@@ -286,6 +302,10 @@ const quotes = [
 	{
 		text: "I believe that every person is born with talent.",
 		author: "Maya Angelou",
+	},
+	{
+		text: "Your mind is for having ideas, not holding them.",
+		author: "David Allen",
 	},
 	{
 		text: "Important principles may, and must, be inflexible.",
@@ -1236,28 +1256,82 @@ const quotes = [
 		author: "Alexander Graham Bell"
 	},
 	{
-
+    text: "I am always doing that which I cannot do, in order that I may learn how to do it.",
+    author: "Pablo Picasso",
+  },
+  {
+    text: "A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.",
+    author: "Mahatma Gandhi",
+  },
+  {
+    text: "The greatest weapon against stress is our ability to choose one thought over another.",
+    author: "William James",
+  },
+  {
+    text: "The last of human freedoms—the ability to choose ones attitude in a given set of circumstances.",
+    author: "Viktor E. Frankl",
+  },
+  {
+    text : "First make the change easy (warning: this might be hard), then make the easy change.",
+    author : "Kent Beck"
+  },
+  {
+    text : "Before software can be reusable it first has to be usable.", 
+    author : "Ralph Johnson"
+  },
+  {
+    text : "If it hurts, do it more frequently, and bring the pain forward.", 
+    author : "Jez Humble"
+  },
+  {
+    text : "Good programmers know what to write. Great ones know what to rewrite and reuse.",
+    author : "Eric S. Raymond"
+  },
+  {
+    text: "Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.",
+    author: "Dr. A.P.J Abdul Kalam",
+  },
+  {
+    text: "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.",
+    author: "Dr. A.P.J Abdul Kalam",
+  },
+  {
+    text: "To succeed in your mission, you must have single-minded devotion to your goal.",
+    author: "Dr. A.P.J Abdul Kalam",
+  },
+  {
+    text: "If you fail, never give up because FAIL means First Attempt In Learning.",
+    author: "Dr. A.P.J Abdul Kalam",
+  },
+  {
+    text: "Creativity is seeing the same thing but thinking differently.",
+    author: "Dr. A.P.J Abdul Kalam",
+  },
+  {
+    text: "Failure will never overtake me if my determination to succeed is strong enough.",
+    author: "Dr. A.P.J Abdul Kalam",
+  },
+  {
+    text: "All of us do not have equal talent. But , all of us have an equal opportunity to develop our talents.",
+    author: "Dr. A.P.J Abdul Kalam",
+  },
+{
 		text: "Winning isnt everything, but wanting it is.",
 		author: "Arnold Palmer"
-
 	},
 	{
 		text: "You can never cross the ocean unless you have the courage to lose sight of the shore.",
 		author: "Christopher Columbus"
-
 	},
 	{
 		text: "Great sea captains are made in rough waters and deep seas.",
 		author: "Kathryn Kuhlman"
-
 	},
 	{
 		text: "Smooth sea never made a skillful sailor.",
 		author: "Anonymous"
-
 	},
 	{
-
 		text: "I am always doing that which I cannot do, in order that I may learn how to do it.",
 		author: "Pablo Picasso",
 	},
@@ -1320,5 +1394,216 @@ const quotes = [
 	{
 		text: "It is a wise father that knows his own child.",
 		author: "William Shakespeare"
-	}
+	},
+	{
+		text: "Life will knock us down, but we can choose whether or not to stand back up.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "Sometimes it takes only one act of kindness and caring to change a person’s life.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "Do not let circumstances control you. You change your circumstances.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "Being still and doing nothing are two completely different things.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "Nothing makes me more determined to succeed than someone telling me something’s impossible.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "Family is not who’s blood is in you, is who you love and who loves you.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "Why did I become Jackie Chan? Mostly because I work very hard. When people were sleeping, I was still training.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "I never wanted to be the next Bruce Lee. I just wanted to be the first Jackie Chan.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "I hope next time when we meet, we won’t be fighting each other. Instead we will be drinking tea together.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "The best fights are ones we avoid.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "I prepare for the worst, but hope for the best.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "Don't wait for the change of circumstances. You change the circumstances",
+		author: "Jackie Chan"
+	},
+	{
+		text: "You don't get to do over parts or go back and change your path. Your life is decided by your character and the decisions you make in the moment.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "I only want my work to make people happy.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "If one does not attach himself to people and desires, never shall his heart be broken. But then, does he ever truly live?",
+		author: "Jackie Chan"
+	},
+	{
+		text: "Pain is my daily routine. As long as I don’t go to the hospital, it’s nothing for me.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "We learn martial arts as helping weakness. You never fight for people to get hurt. You’re always helping people.",
+		author: "Jackie Chan"
+	},
+	{
+		text: "Quiet people have the loudest minds.",
+		author: "Stephen Hawking"
+	},
+	{
+		text: "Life would be tragic if it weren't funny.",
+		author: "Stephen Hawking"
+	},
+	{
+		text: "Intelligence is the ability to adapt to change.",
+		author: "Stephen Hawking"
+	},
+	{
+		text: "The universe doesn't allow perfection.",
+		author: "Stephen Hawking"
+	},
+	{
+		text: "My goal is simple. It is a complete understanding of the universe, why it is as it is and why it exists at all.",
+		author: "Stephen Hawking"
+	},
+	{
+		text: "Although I cannot move and I have to speak through a computer, in my mind I am free",
+		author: "Stephen Hawking"
+	},
+	{
+		text: "If time travel is possible, where are the tourists from the future?",
+		author: "Stephen Hawking"
+	},
+	{
+		text: "People who boast about their I.Q. are losers.",
+		author: "Stephen Hawking"
+	},
+	{
+		text: "The thing about smart people is that they seem like crazy people to dumb people.",
+		author: "Stephen Hawking"
+	},
+	{
+		text: "I'm not afraid of death, but I'm in no hurry to die.",
+		author: "Stephen Hawking"
+	},
+	{
+		text: "Not only does God play dice but... he sometimes throws them where they cannot be seen.",
+		author: "Stephen Hawking"
+	},
+	{
+		text: "I don't think the human race will survive the next thousand years, unless we spread into space.",
+		author: "Stephen Hawking"
+  },
+  {
+    text: "There is no avoiding war; it can only be postponed to the advantage of others.",
+    author: "Niccolo Machiavelli"
+  },
+  {
+		text: "Life is trying things to see if they work.",
+		author: "Ray Bradbury"
+	},
+  {
+		text: "Strike me down, and I will become more powerful than you could possibly imagine.",
+		author: "Obi-Wan Kenobi"
+  },
+  {
+		text: "I'd rather be someone that's underrated than overrated.",
+		author: "Clint Dempsey"
+	},
+  {
+		text: "To live is to choose. But to choose well, you must know who you are and what you stand for, where you want to go and why you want to get there.",
+		author: "Kofi Annan"
+	},
+  {
+		text: "We need to keep hope alive and strive to do better.",
+		author: "Kofi Annan"
+	},
+  {
+    text: "Change is a process which has to be managed.",
+    author: "Kofi Annan"
+  },
+  {
+		text: "Freedom is not something that one people can bestow on another as a gift. Thy claim it as their own and none can keep it from them.",
+		author: "Kwame Nkrumah"
+	},
+  {
+    text: "Thought without practice is empty; and action without thought is blind.",
+    author: "Kwame Nkrumah"
+  },
+  {
+		text: "People are worms, and even the God who created them is immensely bored with their antics.",
+		author: "Ama Ata Aidoo"
+	},
+  {
+		text: "When evil men destroy, good men must build and bind.",
+		author: "Anas Aremeyaw Anas"
+	},
+  {
+		text: "The future belongs to those who believe in the beauty of their dreams.",
+		author: "John Agyekum Kufuor"
+	},
+  {
+		text: "All our dreams can come true, if we have the courage to pursue them.",
+		author: "John Agyekum Kufuor"
+	},
+  {
+		text: "Dream as if you'll live forever. Live as if you'll die today.",
+		author: "John Agyekum Kufuor"
+	},
+	{	
+		text: "Most people are other people. Their thoughtx are someone else's opinions, their lives a mimicry, their passions a quotation.",
+		author: "Oskar Wilde",
+	},
+	{
+		text: "We accept the reality of the world with which we are presented. It's as simple as that.",
+		author: "The Truman Show",
+	},
+	{
+		text: "Who kills a man kills a reasonable creature, God's image; but he who destroys a good book, kills reason itself, kills the image of God, as it were, in the eye.",
+		author: "John Milton",
+	},
+	{
+		text: "We stopped looking for monsters under our bed when we realised that they were inside us.",
+		author: "Charles Darwin",
+	},
+	{
+		text: "Life isn't just about darkness or light, rather it's about finding light within the darkness.",
+		author: "Landon Parham",
+	},
+	{
+		text: "I have written you down. Now you will live forever.",
+		author: "Bastille",
+	
+		text: "For sale: baby shoes, never worn.",
+		author: "Ernest Hemingway",
+	},
+	{
+		text: "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+		author: "Martin Luther King Jr.",
+	},
+	{
+		text: "Music is a hogher revelation than all wisdom and philosophy. Music is the electrical soil in which the spirit lives, thinks and invents.",
+		author: "Ludwig van Beethoven",
+	},
+	{
+		text: "Children are not colouring books. You don't get to fill them with your favourite colours.",
+		author: "Khaled Hosseini",
+	},
 ];
