@@ -1379,6 +1379,26 @@ const quotes = [
 		author: "Agatha Christie",
 	},
 	{
+		text: "It is never too late to be who you might have been.",
+		author: "George Elliot",
+	},
+	{
+		text: "Never let the odds keep you from doing what you know in your heart you were meant to do.",
+		author: "H. Jackson Brown",
+	},
+	{
+		text: "Success usually comes to those who are too busy looking for it.",
+		author: "Henry David Thoreau",
+	},
+	{
+		text: "I never dreamed about success. I worked for it.",
+		author: "Estee Lauder",
+	},
+	{
+		text: "Experience is a hard teacher because she gives the test first, the lesson afterwards.",
+		author: "Vernon Sanders Law",
+	},
+	{
 		text: "Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot it becomes the teapot. Now, water can flow or it can crash. Be water, my friend.",
 		author: "Bruce Lee",
 	},
