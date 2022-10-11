@@ -1637,5 +1637,25 @@ const quotes = [
 	{
 		text: "Children are not colouring books. You don't get to fill them with your favourite colours.",
 		author: "Khaled Hosseini",
+	},
+{
+  		text: "It's not what happens to you, but how you react to it that matters.",
+		author: "Epictetus"
+	},
+  {
+		text: "The only true wisdom is in knowing you know nothing.",
+		author: "Socrates"
+	},
+  {
+		text: "History repeats itself, first as tragedy, second as farce.",
+		author: "Karl Marx"
+	},
+  {
+		text: "To live is to suffer, to survive is to find some meaning in the suffering.",
+		author: "Friedrich Nietzsche"
+	},
+  {
+		text: "It does not matter how slowly you go as long as you do not stop.",
+		author: "Confucius"
 	}
 ];
