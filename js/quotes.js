@@ -1638,6 +1638,7 @@ const quotes = [
 		text: "Children are not colouring books. You don't get to fill them with your favourite colours.",
 		author: "Khaled Hosseini",
 	},
+{
   		text: "It's not what happens to you, but how you react to it that matters.",
 		author: "Epictetus"
 	},
