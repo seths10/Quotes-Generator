@@ -1677,5 +1677,9 @@ const quotes = [
   {
 		text: "It does not matter how slowly you go as long as you do not stop.",
 		author: "Confucius"
-	}
+	},
+	{ 
+                 text: "Be the change that you wish to see in the world.", 
+                 author: "Mahatma Gandhi" 
+         }
 ];
