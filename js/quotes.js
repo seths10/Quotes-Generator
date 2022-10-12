@@ -1677,5 +1677,9 @@ const quotes = [
   {
 		text: "It does not matter how slowly you go as long as you do not stop.",
 		author: "Confucius"
-	}
+	},
+	{
+		text: "I can't hold enough of you in my hands.",
+		author: "Franz Kafka",
+	},
 ];
