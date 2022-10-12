@@ -1677,5 +1677,13 @@ const quotes = [
   {
 		text: "It does not matter how slowly you go as long as you do not stop.",
 		author: "Confucius"
+	},
+  {
+		text: "We live in a world where people can ridicule you at the push of the button. They can question you at the push of a button.",
+		author: "Chadwick Boseman"
+	},
+  {
+		text: "The only difference between the hero and the villain is that the villain chooses to use that power in a way that is selfish and hurts other people.",
+		author: "Chadwick Boseman"
 	}
 ];
