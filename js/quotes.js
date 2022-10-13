@@ -1753,5 +1753,53 @@ const quotes = [
      {
 		text: "Never underestimate your problem or your ability to deal with it.",
 		author: "Robert Schuller"
+	},
+	{
+		text: "The best prophet of the future is the past.",
+		author: "Lord Byron"
+	},
+	{
+		text: "Be content with what you have; rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you",
+		author: "Plato"
+	},
+	{
+		text: "At the touch of love everyone becomes a poet.",
+		author: "Plato"
+	},
+	{
+		text: "One word frees us of all the weight and pain in life, that word is Love.",
+		author: "Sophocles"
+	},
+	{
+		text: "He who conquers himself is the mightiest warrior.",
+		author: "Confucius"
+	},
+	{
+		text: "True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.",
+		author: "Socrates"
+	},
+	{
+		text: "What we are today comes from our thoughts of yesterday, and our present thoughts build our life of tomorrow. Our life is the creation of our mind.",
+		author: "Gautama Buddha"
+	},
+	{
+		text: "First say to yourself what would you be; and then do what you need to do.",
+		author: "Epictetus"
+	},
+	{
+		text: "Music is a moral law. It gives soul to the universe, wings to the mind, flight to the imagination, and charm and gaiety to life and to everything.",
+		author: "Plato"
+	},
+	{
+		text: "The more sand had escaped from the hourglass of our life, the clearer we should see through it.",
+		author: "Niccolo Machiavelli"
+	},
+	{
+		text: "Life is pretty simple: You do some stuff. Most fails. Some works. You do more of what works. If it works big, others quickly copy it. Then you do something else. The trick is in doing something else.",
+		author: "Leonardo da Vinci"
+	},
+	{
+		text: "Be content with what you have; rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.",
+		author: "Lao Tzu"
 	}
 ];
