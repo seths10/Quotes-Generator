@@ -67,6 +67,26 @@ const quotes = [
 		author: "Byron Pulsifer",
 	},
 	{
+		text: "Life is a series of natural and spontaneous changes. Don't resist them - that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.",
+		author: "Lao Tzu",
+	},
+	{
+		text: "If you do not change direction, you may end up where you are heading.",
+		author: "Lao Tzu",
+	},
+	{
+		text: "To the mind that is still, the whole universe surrenders.",
+		author: "Lao Tzu",
+	},
+	{
+		text: "Nature does not hurry, yet everything is accomplished.",
+		author: "Lao Tzu",
+	},
+	{
+		text: "He who does not trust enough, Will not be trusted.",
+		author: "Lao Tzu",
+	},
+	{
 		text: "We can only learn to love by loving.",
 		author: "Iris Murdoch",
 	},
