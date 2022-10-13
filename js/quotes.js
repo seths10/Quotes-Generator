@@ -1685,5 +1685,29 @@ const quotes = [
   {
 		text: "The only difference between the hero and the villain is that the villain chooses to use that power in a way that is selfish and hurts other people.",
 		author: "Chadwick Boseman"
+	},
+	{
+		text:"If someone could only see my actions and not hear my words, what would they say are my priorities?",
+		 author:" James Clear"
+	},
+	{
+		text:"We are not given a short life, but we make it short, and we are not ill-supplied but wasteful of it.",
+		 author:"Null"
+	},
+	{
+		text:"The way to get started is to quit talking and begin doing.",
+		 author:"Walt Disney"
+	},
+	{
+		text:"Life is what happens when you're busy making other plans.",
+		 author:"John Lennon"
+	},
+	{
+		text:"You only live once - but if you work it right, once is enough.",
+		 author:"Joe E. Lewis"
+	},
+	{
+		text:"Fate chooses your relations, you choose your friends.",
+		 author:"Jacques Delille"
 	}
 ];
