@@ -67,6 +67,10 @@ const quotes = [
 		author: "Byron Pulsifer",
 	},
 	{
+		text: "Think how hard physics would be if particles could think",
+		author: "Murray Gell-Mann",
+    },
+{
 		text: "Life is a series of natural and spontaneous changes. Don't resist them - that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.",
 		author: "Lao Tzu",
 	},
