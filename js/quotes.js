@@ -1709,5 +1709,9 @@ const quotes = [
 	{
 		text:"Fate chooses your relations, you choose your friends.",
 		 author:"Jacques Delille"
+     },
+     {
+		text: "Never underestimate your problem or your ability to deal with it.",
+		author: "Robert Schuller"
 	}
 ];
