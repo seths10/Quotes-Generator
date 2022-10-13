@@ -67,6 +67,10 @@ const quotes = [
 		author: "Byron Pulsifer",
 	},
 	{
+		text: "Think how hard physics would be if particles could think",
+		author: "Murray Gell-Mann",
+	},
+	{
 		text: "We can only learn to love by loving.",
 		author: "Iris Murdoch",
 	},
