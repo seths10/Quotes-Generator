@@ -69,6 +69,26 @@ const quotes = [
 	{
 		text: "Think how hard physics would be if particles could think",
 		author: "Murray Gell-Mann",
+    },
+{
+		text: "Life is a series of natural and spontaneous changes. Don't resist them - that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.",
+		author: "Lao Tzu",
+	},
+	{
+		text: "If you do not change direction, you may end up where you are heading.",
+		author: "Lao Tzu",
+	},
+	{
+		text: "To the mind that is still, the whole universe surrenders.",
+		author: "Lao Tzu",
+	},
+	{
+		text: "Nature does not hurry, yet everything is accomplished.",
+		author: "Lao Tzu",
+	},
+	{
+		text: "He who does not trust enough, Will not be trusted.",
+		author: "Lao Tzu",
 	},
 	{
 		text: "We can only learn to love by loving.",
@@ -1681,5 +1701,61 @@ const quotes = [
   {
 		text: "It does not matter how slowly you go as long as you do not stop.",
 		author: "Confucius"
+	},
+	{ 
+                 text: "Be the change that you wish to see in the world.", 
+                 author: "Mahatma Gandhi" 
+         },
+	{
+		text: "I can't hold enough of you in my hands.",
+		author: "Franz Kafka",
+	},
+  {
+		text: "You make a choice: continue living your life feeling muddled in this abyss of self-misunderstanding, or you find your identity independent of it. You draw your own box.",
+		author: "Duchess Meghan"
+},
+	{
+		text: "I construct my memories with my present.",
+		author: "Jean-Paul Sartre"
+	},
+	{
+		text: "I am a man, Jupiter, and each man must invent his own path.",
+		author: "Jean-Paul Sartre"
+    },
+  {
+		text: "We live in a world where people can ridicule you at the push of the button. They can question you at the push of a button.",
+		author: "Chadwick Boseman"
+	},
+  {
+		text: "The only difference between the hero and the villain is that the villain chooses to use that power in a way that is selfish and hurts other people.",
+		author: "Chadwick Boseman"
+	},
+	{
+		text:"If someone could only see my actions and not hear my words, what would they say are my priorities?",
+		 author:" James Clear"
+	},
+	{
+		text:"We are not given a short life, but we make it short, and we are not ill-supplied but wasteful of it.",
+		 author:"Null"
+	},
+	{
+		text:"The way to get started is to quit talking and begin doing.",
+		 author:"Walt Disney"
+	},
+	{
+		text:"Life is what happens when you're busy making other plans.",
+		 author:"John Lennon"
+	},
+	{
+		text:"You only live once - but if you work it right, once is enough.",
+		 author:"Joe E. Lewis"
+	},
+	{
+		text:"Fate chooses your relations, you choose your friends.",
+		 author:"Jacques Delille"
+     },
+     {
+		text: "Never underestimate your problem or your ability to deal with it.",
+		author: "Robert Schuller"
 	}
 ];
