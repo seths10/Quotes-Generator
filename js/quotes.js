@@ -1677,5 +1677,13 @@ const quotes = [
   {
 		text: "It does not matter how slowly you go as long as you do not stop.",
 		author: "Confucius"
+	},
+	{
+		text: "I construct my memories with my present.",
+		author: "Jean-Paul Sartre"
+	},
+	{
+		text: "I am a man, Jupiter, and each man must invent his own path.",
+		author: "Jean-Paul Sartre"
 	}
 ];
