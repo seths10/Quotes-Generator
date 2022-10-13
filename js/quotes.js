@@ -1797,6 +1797,10 @@ const quotes = [
 	{
 		text: "The more sand had escaped from the hourglass of our life, the clearer we should see through it.",
 		author: "Niccolo Machiavelli"
-	}
+	},
+	{
+		test: "I have Nakama who are not strong... But I still want them to be with me! So I have to be stronger than anybody else... or else I'll lose them all!",
+		author: "Monkey D. Luffy"
+	},
 	
 ];
