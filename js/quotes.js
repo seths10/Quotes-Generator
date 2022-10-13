@@ -1685,5 +1685,9 @@ const quotes = [
   {
 		text: "The only difference between the hero and the villain is that the villain chooses to use that power in a way that is selfish and hurts other people.",
 		author: "Chadwick Boseman"
+	},
+	{
+		text: "Never underestimate your problem or your ability to deal with it.",
+		author: "Robert Schuller"
 	}
 ];
