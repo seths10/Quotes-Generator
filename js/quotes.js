@@ -1678,6 +1678,10 @@ const quotes = [
 		text: "It does not matter how slowly you go as long as you do not stop.",
 		author: "Confucius"
 	},
+  {
+		text: "You make a choice: continue living your life feeling muddled in this abyss of self-misunderstanding, or you find your identity independent of it. You draw your own box.",
+		author: "Duchess Meghan"
+},
 	{
 		text: "I construct my memories with my present.",
 		author: "Jean-Paul Sartre"
