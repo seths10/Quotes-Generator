@@ -1793,13 +1793,6 @@ const quotes = [
 	{
 		text: "The more sand had escaped from the hourglass of our life, the clearer we should see through it.",
 		author: "Niccolo Machiavelli"
-	},
-	{
-		text: "Life is pretty simple: You do some stuff. Most fails. Some works. You do more of what works. If it works big, others quickly copy it. Then you do something else. The trick is in doing something else.",
-		author: "Leonardo da Vinci"
-	},
-	{
-		text: "Be content with what you have; rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.",
-		author: "Lao Tzu"
 	}
+	
 ];
