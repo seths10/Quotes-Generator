@@ -1,6 +1,7 @@
 const quotes = [
-	{	text: "Everything in moderation, including moderation.",
-	 	author: "Oscar Wilde"
+	{
+		text: "Everything in moderation, including moderation.",
+		author: "Oscar Wilde"
 	},
 	{
 		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
@@ -14,10 +15,10 @@ const quotes = [
 		text: "If you wish to make an apple pie from scratch, you must first invent the universe",
 		author: "Carl Sagan"
 	},
-        {     
-                text: "As you walk down the fairway of life you must smell the roses, for you only get to play one round.",
-                author: "Ben Hogan"
-        },
+	{
+		text: "As you walk down the fairway of life you must smell the roses, for you only get to play one round.",
+		author: "Ben Hogan"
+	},
 	{
 		text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
 		author: "Thomas Edison",
@@ -69,8 +70,8 @@ const quotes = [
 	{
 		text: "Think how hard physics would be if particles could think",
 		author: "Murray Gell-Mann",
-    },
-{
+	},
+	{
 		text: "Life is a series of natural and spontaneous changes. Don't resist them - that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.",
 		author: "Lao Tzu",
 	},
@@ -1291,66 +1292,66 @@ const quotes = [
 		author: "Alexander Graham Bell"
 	},
 	{
-    text: "I am always doing that which I cannot do, in order that I may learn how to do it.",
-    author: "Pablo Picasso",
-  },
-  {
-    text: "A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.",
-    author: "Mahatma Gandhi",
-  },
-  {
-    text: "The greatest weapon against stress is our ability to choose one thought over another.",
-    author: "William James",
-  },
-  {
-    text: "The last of human freedoms—the ability to choose ones attitude in a given set of circumstances.",
-    author: "Viktor E. Frankl",
-  },
-  {
-    text : "First make the change easy (warning: this might be hard), then make the easy change.",
-    author : "Kent Beck"
-  },
-  {
-    text : "Before software can be reusable it first has to be usable.", 
-    author : "Ralph Johnson"
-  },
-  {
-    text : "If it hurts, do it more frequently, and bring the pain forward.", 
-    author : "Jez Humble"
-  },
-  {
-    text : "Good programmers know what to write. Great ones know what to rewrite and reuse.",
-    author : "Eric S. Raymond"
-  },
-  {
-    text: "Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.",
-    author: "Dr. A.P.J Abdul Kalam",
-  },
-  {
-    text: "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.",
-    author: "Dr. A.P.J Abdul Kalam",
-  },
-  {
-    text: "To succeed in your mission, you must have single-minded devotion to your goal.",
-    author: "Dr. A.P.J Abdul Kalam",
-  },
-  {
-    text: "If you fail, never give up because FAIL means First Attempt In Learning.",
-    author: "Dr. A.P.J Abdul Kalam",
-  },
-  {
-    text: "Creativity is seeing the same thing but thinking differently.",
-    author: "Dr. A.P.J Abdul Kalam",
-  },
-  {
-    text: "Failure will never overtake me if my determination to succeed is strong enough.",
-    author: "Dr. A.P.J Abdul Kalam",
-  },
-  {
-    text: "All of us do not have equal talent. But , all of us have an equal opportunity to develop our talents.",
-    author: "Dr. A.P.J Abdul Kalam",
-  },
-{
+		text: "I am always doing that which I cannot do, in order that I may learn how to do it.",
+		author: "Pablo Picasso",
+	},
+	{
+		text: "A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.",
+		author: "Mahatma Gandhi",
+	},
+	{
+		text: "The greatest weapon against stress is our ability to choose one thought over another.",
+		author: "William James",
+	},
+	{
+		text: "The last of human freedoms—the ability to choose ones attitude in a given set of circumstances.",
+		author: "Viktor E. Frankl",
+	},
+	{
+		text: "First make the change easy (warning: this might be hard), then make the easy change.",
+		author: "Kent Beck"
+	},
+	{
+		text: "Before software can be reusable it first has to be usable.",
+		author: "Ralph Johnson"
+	},
+	{
+		text: "If it hurts, do it more frequently, and bring the pain forward.",
+		author: "Jez Humble"
+	},
+	{
+		text: "Good programmers know what to write. Great ones know what to rewrite and reuse.",
+		author: "Eric S. Raymond"
+	},
+	{
+		text: "Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.",
+		author: "Dr. A.P.J Abdul Kalam",
+	},
+	{
+		text: "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.",
+		author: "Dr. A.P.J Abdul Kalam",
+	},
+	{
+		text: "To succeed in your mission, you must have single-minded devotion to your goal.",
+		author: "Dr. A.P.J Abdul Kalam",
+	},
+	{
+		text: "If you fail, never give up because FAIL means First Attempt In Learning.",
+		author: "Dr. A.P.J Abdul Kalam",
+	},
+	{
+		text: "Creativity is seeing the same thing but thinking differently.",
+		author: "Dr. A.P.J Abdul Kalam",
+	},
+	{
+		text: "Failure will never overtake me if my determination to succeed is strong enough.",
+		author: "Dr. A.P.J Abdul Kalam",
+	},
+	{
+		text: "All of us do not have equal talent. But , all of us have an equal opportunity to develop our talents.",
+		author: "Dr. A.P.J Abdul Kalam",
+	},
+	{
 		text: "Winning isnt everything, but wanting it is.",
 		author: "Arnold Palmer"
 	},
@@ -1565,84 +1566,84 @@ const quotes = [
 	{
 		text: "I don't think the human race will survive the next thousand years, unless we spread into space.",
 		author: "Stephen Hawking"
-  },
-  {
-    text: "There is no avoiding war; it can only be postponed to the advantage of others.",
-    author: "Niccolo Machiavelli"
-  },
-  {
+	},
+	{
+		text: "There is no avoiding war; it can only be postponed to the advantage of others.",
+		author: "Niccolo Machiavelli"
+	},
+	{
 		text: "Life is trying things to see if they work.",
 		author: "Ray Bradbury"
 	},
-  {
+	{
 		text: "Strike me down, and I will become more powerful than you could possibly imagine.",
 		author: "Obi-Wan Kenobi"
-  },
-  {
+	},
+	{
 		text: "I'd rather be someone that's underrated than overrated.",
 		author: "Clint Dempsey"
 	},
-  {
+	{
 		text: "To live is to choose. But to choose well, you must know who you are and what you stand for, where you want to go and why you want to get there.",
 		author: "Kofi Annan"
 	},
-  {
+	{
 		text: "We need to keep hope alive and strive to do better.",
 		author: "Kofi Annan"
 	},
-  {
-    text: "Change is a process which has to be managed.",
-    author: "Kofi Annan"
-  },
-  {
+	{
+		text: "Change is a process which has to be managed.",
+		author: "Kofi Annan"
+	},
+	{
 		text: "Freedom is not something that one people can bestow on another as a gift. Thy claim it as their own and none can keep it from them.",
 		author: "Kwame Nkrumah"
 	},
-  {
-    text: "Thought without practice is empty; and action without thought is blind.",
-    author: "Kwame Nkrumah"
-  },
-  {
+	{
+		text: "Thought without practice is empty; and action without thought is blind.",
+		author: "Kwame Nkrumah"
+	},
+	{
 		text: "People are worms, and even the God who created them is immensely bored with their antics.",
 		author: "Ama Ata Aidoo"
 	},
-  {
+	{
 		text: "When evil men destroy, good men must build and bind.",
 		author: "Anas Aremeyaw Anas"
 	},
-  {
+	{
 		text: "The future belongs to those who believe in the beauty of their dreams.",
 		author: "John Agyekum Kufuor"
 	},
-  {
+	{
 		text: "All our dreams can come true, if we have the courage to pursue them.",
 		author: "John Agyekum Kufuor"
 	},
-  {
+	{
 		text: "Dream as if you'll live forever. Live as if you'll die today.",
 		author: "John Agyekum Kufuor"
 	},
-  {
+	{
 		text: "Success is not final, failure is not fatal. It is the courage to continue that counts.",
 		author: "Winston Churchill"
-  },
-  {
+	},
+	{
 		text: "Success is not final, failure is not fatal. It is the courage to continue that counts.",
 		author: "Winston Churchill"
-  },
-  {
+	},
+	{
 		text: "Never give up on something that you can't go a day without thinking about.",
 		author: "Winston Churchill"
-  },
-  {
+	},
+	{
 		text: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
 		author: "Dale Carnegie"
-  },
-  {
+	},
+	{
 		text: "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
 		author: "Thomas Edison"
-  },
-	{	
+	},
+	{
 		text: "Most people are other people. Their thoughtx are someone else's opinions, their lives a mimicry, their passions a quotation.",
 		author: "Oskar Wilde",
 	},
@@ -1665,8 +1666,8 @@ const quotes = [
 	{
 		text: "I have written you down. Now you will live forever.",
 		author: "Bastille",
-  },
-  {
+	},
+	{
 		text: "For sale: baby shoes, never worn.",
 		author: "Ernest Hemingway",
 	},
@@ -1682,38 +1683,38 @@ const quotes = [
 		text: "Children are not colouring books. You don't get to fill them with your favourite colours.",
 		author: "Khaled Hosseini",
 	},
-{
-  		text: "It's not what happens to you, but how you react to it that matters.",
+	{
+		text: "It's not what happens to you, but how you react to it that matters.",
 		author: "Epictetus"
 	},
-  {
+	{
 		text: "The only true wisdom is in knowing you know nothing.",
 		author: "Socrates"
 	},
-  {
+	{
 		text: "History repeats itself, first as tragedy, second as farce.",
 		author: "Karl Marx"
 	},
-  {
+	{
 		text: "To live is to suffer, to survive is to find some meaning in the suffering.",
 		author: "Friedrich Nietzsche"
 	},
-  {
+	{
 		text: "It does not matter how slowly you go as long as you do not stop.",
 		author: "Confucius"
 	},
-	{ 
-                 text: "Be the change that you wish to see in the world.", 
-                 author: "Mahatma Gandhi" 
-         },
+	{
+		text: "Be the change that you wish to see in the world.",
+		author: "Mahatma Gandhi"
+	},
 	{
 		text: "I can't hold enough of you in my hands.",
 		author: "Franz Kafka",
 	},
-  {
+	{
 		text: "You make a choice: continue living your life feeling muddled in this abyss of self-misunderstanding, or you find your identity independent of it. You draw your own box.",
 		author: "Duchess Meghan"
-},
+	},
 	{
 		text: "I construct my memories with my present.",
 		author: "Jean-Paul Sartre"
@@ -1721,40 +1722,40 @@ const quotes = [
 	{
 		text: "I am a man, Jupiter, and each man must invent his own path.",
 		author: "Jean-Paul Sartre"
-    },
-  {
+	},
+	{
 		text: "We live in a world where people can ridicule you at the push of the button. They can question you at the push of a button.",
 		author: "Chadwick Boseman"
 	},
-  {
+	{
 		text: "The only difference between the hero and the villain is that the villain chooses to use that power in a way that is selfish and hurts other people.",
 		author: "Chadwick Boseman"
 	},
 	{
-		text:"If someone could only see my actions and not hear my words, what would they say are my priorities?",
-		 author:" James Clear"
+		text: "If someone could only see my actions and not hear my words, what would they say are my priorities?",
+		author: " James Clear"
 	},
 	{
-		text:"We are not given a short life, but we make it short, and we are not ill-supplied but wasteful of it.",
-		 author:"Null"
+		text: "We are not given a short life, but we make it short, and we are not ill-supplied but wasteful of it.",
+		author: "Null"
 	},
 	{
-		text:"The way to get started is to quit talking and begin doing.",
-		 author:"Walt Disney"
+		text: "The way to get started is to quit talking and begin doing.",
+		author: "Walt Disney"
 	},
 	{
-		text:"Life is what happens when you're busy making other plans.",
-		 author:"John Lennon"
+		text: "Life is what happens when you're busy making other plans.",
+		author: "John Lennon"
 	},
 	{
-		text:"You only live once - but if you work it right, once is enough.",
-		 author:"Joe E. Lewis"
+		text: "You only live once - but if you work it right, once is enough.",
+		author: "Joe E. Lewis"
 	},
 	{
-		text:"Fate chooses your relations, you choose your friends.",
-		 author:"Jacques Delille"
-     },
-     {
+		text: "Fate chooses your relations, you choose your friends.",
+		author: "Jacques Delille"
+	},
+	{
 		text: "Never underestimate your problem or your ability to deal with it.",
 		author: "Robert Schuller"
 	},
@@ -1802,5 +1803,64 @@ const quotes = [
 		test: "I have Nakama who are not strong... But I still want them to be with me! So I have to be stronger than anybody else... or else I'll lose them all!",
 		author: "Monkey D. Luffy"
 	},
-	
+  {
+		text: "I am the number one human being in music. That means any person that’s living or breathing is number two.",
+		author: "Kanye West"
+	},
+	{
+		text: "Kim has diarrhea a lot. Like way more than a normal person should have it.",
+		author: "Kanye West"
+	},
+	{
+		text: "Nothing in life is promised except death.",
+		author: "Kanye West"
+	},
+	{
+		text: "I love sleep; it's my favorite.",
+		author: "Kanye West"
+	},
+	{
+		text: "I refuse to accept other people's ideas of happiness for me. As if there's a 'one size fits all' standard for happiness.",
+		author: "Kanye West"
+	},
+	{
+		text: "People always tell you, 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be great! Be awesome! Be awesome!",
+		author: "Kanye West"
+	},
+	{
+		text: "My greatest pain in life is that I will never be able to see myself perform live.",
+		author: "Kanye West"
+	},
+	{
+		text: "For me to say I wasn’t a genius, I would just be lying to you and to myself.",
+		author: "Kanye West"
+	},
+	{
+		text: "I am Warhol! I am the number one most impactful artist of our generation. I am Shakespeare in the flesh. Walt Disney, Nike, Google.",
+		author: "Kanye West"
+	},
+	{
+		text: "You know, I’m a creative genius and there’s no other way to word it.",
+		author: "Kanye West"
+	},
+	{
+		text: "50 is Eminem’s favourite rapper. I’m my favourite rapper.",
+		author: "Kanye West"
+	},
+	{
+		text: "Kim has diarrhea a lot. Like way more than a normal person should have it.",
+		author: "Kanye West"
+	},
+	{
+		text: "I’m going down as a legend, whether or not you like me or not. I am the new Jim Morrison. I am the new Kurt Cobain.",
+		author: "Kanye West"
+	},
+	{
+		text: "There's no fangs. I don't have fangs. I'm a porcupine. I'm a blowfish. Like, I'm a — what's the fish that blows up? I'm a blowfish. I'm not a shark, I'm a blowfish.",
+		author: "Kanye West"
+	},
+	{
+		text: "I don’t want to say these really big, over-the-top statements that end up getting quoted.",
+		author: "Kanye West"
+	},
 ];
