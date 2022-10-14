@@ -1863,4 +1863,8 @@ const quotes = [
 		text: "I don’t want to say these really big, over-the-top statements that end up getting quoted.",
 		author: "Kanye West"
 	},
+	{
+		text: "No matter what people tell you, words and ideas can change the world.",
+		author: "Robin Williams"
+	}
 ];
