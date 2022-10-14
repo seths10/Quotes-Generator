@@ -1863,4 +1863,8 @@ const quotes = [
 		text: "I don’t want to say these really big, over-the-top statements that end up getting quoted.",
 		author: "Kanye West"
 	},
+	{
+		text: "Act as if what you do makes a difference. It does.",
+		author: "William James"
+	}
 ];
