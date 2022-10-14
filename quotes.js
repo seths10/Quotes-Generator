@@ -1801,6 +1801,10 @@ const quotes = [
 	{
 		text: "Everyone is born beautiful, some people just let the world turn them into something ugly.",
 		author: "Wiz Khalifa"
-	}
+	},
+	{
+		text: "We should never forget the inevitable, as we will lose everything eventually. So, why fret over any kind of security? The idea is to just fly and experience it all while it lasts. more sand had escaped from the hourglass of our life, the clearer we should see through it.",
+		author: "Sushant Singh Rajput"
+	},
 	
 ];
