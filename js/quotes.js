@@ -1800,6 +1800,10 @@ const quotes = [
 		author: "Niccolo Machiavelli"
 	},
 	{
+		test: "I have Nakama who are not strong... But I still want them to be with me! So I have to be stronger than anybody else... or else I'll lose them all!",
+		author: "Monkey D. Luffy"
+	},
+  {
 		text: "I am the number one human being in music. That means any person that’s living or breathing is number two.",
 		author: "Kanye West"
 	},
