@@ -1803,8 +1803,9 @@ const quotes = [
 		author: "Wiz Khalifa"
 	},
 	{
-		text: "We should never forget the inevitable, as we will lose everything eventually. So, why fret over any kind of security? The idea is to just fly and experience it all while it lasts. more sand had escaped from the hourglass of our life, the clearer we should see through it.",
-		author: "Sushant Singh Rajput"
+		text: "No man ever steps in the same river twice, for it's not the same river and he's not the same man.",
+		author: "Heraclitus"
 	},
+	
 	
 ];
