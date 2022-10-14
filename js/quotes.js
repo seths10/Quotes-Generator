@@ -1863,4 +1863,8 @@ const quotes = [
 		text: "I don’t want to say these really big, over-the-top statements that end up getting quoted.",
 		author: "Kanye West"
 	},
+	{
+		text: "I can accept failure. Everyone fails at something. But I can’t accept not trying.",
+		author: "Michael Jordan"
+	}
 ];
