@@ -1798,6 +1798,65 @@ const quotes = [
 	{
 		text: "The more sand had escaped from the hourglass of our life, the clearer we should see through it.",
 		author: "Niccolo Machiavelli"
-	}
-
+	},
+	{
+		text: "I am the number one human being in music. That means any person that’s living or breathing is number two.",
+		author: "Kanye West"
+	},
+	{
+		text: "Kim has diarrhea a lot. Like way more than a normal person should have it.",
+		author: "Kanye West"
+	},
+	{
+		text: "Nothing in life is promised except death.",
+		author: "Kanye West"
+	},
+	{
+		text: "I love sleep; it's my favorite.",
+		author: "Kanye West"
+	},
+	{
+		text: "I refuse to accept other people's ideas of happiness for me. As if there's a 'one size fits all' standard for happiness.",
+		author: "Kanye West"
+	},
+	{
+		text: "People always tell you, 'Be humble. Be humble.' When was the last time someone told you to be amazing? Be great! Be great! Be awesome! Be awesome!",
+		author: "Kanye West"
+	},
+	{
+		text: "My greatest pain in life is that I will never be able to see myself perform live.",
+		author: "Kanye West"
+	},
+	{
+		text: "For me to say I wasn’t a genius, I would just be lying to you and to myself.",
+		author: "Kanye West"
+	},
+	{
+		text: "I am Warhol! I am the number one most impactful artist of our generation. I am Shakespeare in the flesh. Walt Disney, Nike, Google.",
+		author: "Kanye West"
+	},
+	{
+		text: "You know, I’m a creative genius and there’s no other way to word it.",
+		author: "Kanye West"
+	},
+	{
+		text: "50 is Eminem’s favourite rapper. I’m my favourite rapper.",
+		author: "Kanye West"
+	},
+	{
+		text: "Kim has diarrhea a lot. Like way more than a normal person should have it.",
+		author: "Kanye West"
+	},
+	{
+		text: "I’m going down as a legend, whether or not you like me or not. I am the new Jim Morrison. I am the new Kurt Cobain.",
+		author: "Kanye West"
+	},
+	{
+		text: "There's no fangs. I don't have fangs. I'm a porcupine. I'm a blowfish. Like, I'm a — what's the fish that blows up? I'm a blowfish. I'm not a shark, I'm a blowfish.",
+		author: "Kanye West"
+	},
+	{
+		text: "I don’t want to say these really big, over-the-top statements that end up getting quoted.",
+		author: "Kanye West"
+	},
 ];
