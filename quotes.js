@@ -67,6 +67,30 @@ const quotes = [
 		author: "Byron Pulsifer",
 	},
 	{
+		text: "Think how hard physics would be if particles could think",
+		author: "Murray Gell-Mann",
+    },
+{
+		text: "Life is a series of natural and spontaneous changes. Don't resist them - that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.",
+		author: "Lao Tzu",
+	},
+	{
+		text: "If you do not change direction, you may end up where you are heading.",
+		author: "Lao Tzu",
+	},
+	{
+		text: "To the mind that is still, the whole universe surrenders.",
+		author: "Lao Tzu",
+	},
+	{
+		text: "Nature does not hurry, yet everything is accomplished.",
+		author: "Lao Tzu",
+	},
+	{
+		text: "He who does not trust enough, Will not be trusted.",
+		author: "Lao Tzu",
+	},
+	{
 		text: "We can only learn to love by loving.",
 		author: "Iris Murdoch",
 	},
@@ -1678,8 +1702,105 @@ const quotes = [
 		text: "It does not matter how slowly you go as long as you do not stop.",
 		author: "Confucius"
 	},
-  {
-		text: "Everyone is born beautiful, some people just let the world turn them into something ugly",
-		author: "Wiz Khalifa"
+	{ 
+                 text: "Be the change that you wish to see in the world.", 
+                 author: "Mahatma Gandhi" 
+         },
+	{
+		text: "I can't hold enough of you in my hands.",
+		author: "Franz Kafka",
 	},
+  {
+		text: "You make a choice: continue living your life feeling muddled in this abyss of self-misunderstanding, or you find your identity independent of it. You draw your own box.",
+		author: "Duchess Meghan"
+},
+	{
+		text: "I construct my memories with my present.",
+		author: "Jean-Paul Sartre"
+	},
+	{
+		text: "I am a man, Jupiter, and each man must invent his own path.",
+		author: "Jean-Paul Sartre"
+    },
+  {
+		text: "We live in a world where people can ridicule you at the push of the button. They can question you at the push of a button.",
+		author: "Chadwick Boseman"
+	},
+  {
+		text: "The only difference between the hero and the villain is that the villain chooses to use that power in a way that is selfish and hurts other people.",
+		author: "Chadwick Boseman"
+	},
+	{
+		text:"If someone could only see my actions and not hear my words, what would they say are my priorities?",
+		 author:" James Clear"
+	},
+	{
+		text:"We are not given a short life, but we make it short, and we are not ill-supplied but wasteful of it.",
+		 author:"Null"
+	},
+	{
+		text:"The way to get started is to quit talking and begin doing.",
+		 author:"Walt Disney"
+	},
+	{
+		text:"Life is what happens when you're busy making other plans.",
+		 author:"John Lennon"
+	},
+	{
+		text:"You only live once - but if you work it right, once is enough.",
+		 author:"Joe E. Lewis"
+	},
+	{
+		text:"Fate chooses your relations, you choose your friends.",
+		 author:"Jacques Delille"
+     },
+     {
+		text: "Never underestimate your problem or your ability to deal with it.",
+		author: "Robert Schuller"
+	},
+	{
+		text: "The best prophet of the future is the past.",
+		author: "Lord Byron"
+	},
+	{
+		text: "Be content with what you have; rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you",
+		author: "Plato"
+	},
+	{
+		text: "At the touch of love everyone becomes a poet.",
+		author: "Plato"
+	},
+	{
+		text: "One word frees us of all the weight and pain in life, that word is Love.",
+		author: "Sophocles"
+	},
+	{
+		text: "He who conquers himself is the mightiest warrior.",
+		author: "Confucius"
+	},
+	{
+		text: "True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.",
+		author: "Socrates"
+	},
+	{
+		text: "What we are today comes from our thoughts of yesterday, and our present thoughts build our life of tomorrow. Our life is the creation of our mind.",
+		author: "Gautama Buddha"
+	},
+	{
+		text: "First say to yourself what would you be; and then do what you need to do.",
+		author: "Epictetus"
+	},
+	{
+		text: "Music is a moral law. It gives soul to the universe, wings to the mind, flight to the imagination, and charm and gaiety to life and to everything.",
+		author: "Plato"
+	},
+	{
+		text: "The more sand had escaped from the hourglass of our life, the clearer we should see through it.",
+		author: "Niccolo Machiavelli"
+	},
+	{
+		text: "Everyone is born beautiful, some people just let the world turn them into something ugly.",
+		author: "Wiz Khalifa"
+	}
+	
 ];
