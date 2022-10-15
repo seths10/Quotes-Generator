@@ -1866,5 +1866,21 @@ const quotes = [
 	{
 		text: "No matter what people tell you, words and ideas can change the world.",
 		author: "Robin Williams"
+  },
+	{ 
+    text:  " That's one small step for a man, one giant leap for mankind .",
+	  author : "Neil Armstrong "
+  },
+	{
+		text: "I wish there was a way to know you're in the good old days before you've actually left them.",
+		author: "Andy Bernard"
+	},
+	{
+		text: "I'm not superstitious, but I am a little stitious.",
+		author: "Michael Scott"
+  },
+	{
+		text:  "Write it on your heart that every day is the best day in the year.",
+		author: "Ralph Waldo Emerson"
 	}
 ];
