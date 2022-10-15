@@ -1805,6 +1805,46 @@ const quotes = [
 	{
 		text: "No man ever steps in the same river twice, for it's not the same river and he's not the same man.",
 		author: "Heraclitus"
+	},
+	{
+		text: "Be Alone,that is the secret of invention;Be Alone,that is when ideas are born.",
+		author: "Nikola Tesla"
+	},
+	{
+		text: "And, when you want something, all the universe conspires in helping you to achieve it.",
+		author: "Paulo Coelho"
+	},
+	{
+		text: "Remember that wherever your heart is, there you will find your treasure.",
+		author: "Paulo Coelho"
+	},
+	{
+		text: "Many People are not wise enough to count life's blessings.They keep focusing instead on what the world has denied them.",
+		author: "Amish Tripathi"
+	},
+	{
+		text: "The Purpose is not the desitination but the journey itself. Only those who understand this simple truth can experience true happiness",
+		author: "Amish Tripathi"
+	},
+	{
+		text: "If you feel pain,you're human.If you feel other people's pain, you are Human Being",
+		Author: "Leo Tolstoy"
+	},
+	{
+		text: "A person's ethics and charecter are not tested in good times.It is only in bad times that a person shows how steadfast he is to his dharma",
+		Author: "Amish Tripathi"
+	},
+	{
+		text: "Everything is easy when you are busy but nothing is easy when you are lazy",
+		Author: "Swami Vivekananda"
+	},
+	{
+		text: "The greatest sin is to think that you are weak",
+		Author: "Swami Vivekananda"
+	},
+	{
+		text: "He who struggles is better than he who never attempts",
+		Author: "Swami Vivekananda"
 	}
 	
 	
