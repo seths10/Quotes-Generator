@@ -1801,6 +1801,11 @@ const quotes = [
 	{
 		text: "Everyone is born beautiful, some people just let the world turn them into something ugly.",
 		author: "Wiz Khalifa"
+	},
+	{
+		text: "No man ever steps in the same river twice, for it's not the same river and he's not the same man.",
+		author: "Heraclitus"
 	}
+	
 	
 ];
