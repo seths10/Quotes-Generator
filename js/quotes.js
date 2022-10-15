@@ -1863,9 +1863,16 @@ const quotes = [
 		text: "I don’t want to say these really big, over-the-top statements that end up getting quoted.",
 		author: "Kanye West"
 	},
-	
+	{
+		text: "I wish there was a way to know you're in the good old days before you've actually left them.",
+		author: "Andy Bernard"
+	},
+	{
+		text: "I'm not superstitious, but I am a little stitious.",
+		author: "Michael Scott"
+  },
 	{
 		text:  "Write it on your heart that every day is the best day in the year.",
 		author: "Ralph Waldo Emerson"
-	},
+	}
 ];
