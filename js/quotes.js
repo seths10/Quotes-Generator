@@ -1870,5 +1870,9 @@ const quotes = [
 	{
 		text: "I'm not superstitious, but I am a little stitious.",
 		author: "Michael Scott"
-	},
+  },
+	{
+		text:  "Write it on your heart that every day is the best day in the year.",
+		author: "Ralph Waldo Emerson"
+	}
 ];
