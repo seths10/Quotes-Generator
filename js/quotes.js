@@ -1863,6 +1863,10 @@ const quotes = [
 		text: "I don’t want to say these really big, over-the-top statements that end up getting quoted.",
 		author: "Kanye West"
 	},
+	{ 
+    text:  " That's one small step for a man, one giant leap for mankind .",
+	  author : "Neil Armstrong "
+  },
 	{
 		text: "I wish there was a way to know you're in the good old days before you've actually left them.",
 		author: "Andy Bernard"
