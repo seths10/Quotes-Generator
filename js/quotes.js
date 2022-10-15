@@ -1864,6 +1864,9 @@ const quotes = [
 		author: "Kanye West"
 	},
 	{
+		text: "Act as if what you do makes a difference. It does.",
+		author: "William James"
+  },
 		text: "No matter what people tell you, words and ideas can change the world.",
 		author: "Robin Williams"
   },
