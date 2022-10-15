@@ -1864,6 +1864,30 @@ const quotes = [
 		author: "Kanye West"
 	},
 	{
+		text:"Perform your obligatory duty, because action is indeed better than inaction.",
+		author: "Shri Krishna (Bhagavad Gita)"
+	},
+	{
+		text:"Man is made by his belief. As he believes, so he is.",
+		author: "Shri Krishna (Bhagavad Gita)"
+	},
+	{
+		text:"You are only entitled to the action, never to its fruits.",
+		author: "Shri Krishna (Bhagavad Gita)"
+	},
+	{
+		text:"Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good.",
+		author: "Shri Krishna (Bhagavad Gita)"
+	},
+	{
+		text:"Lust, anger and greed are the three gates to self-destructive hell.",
+		author: "Shri Krishna (Bhagavad Gita)"
+	},
+	{
+		text: "Change is the law of the universe. You can be a millionaire, or a pauper in an instant.",
+		author: "Shri Krishna (Bhagavad Gita)"
+  },
+  {
 		text: "I can accept failure. Everyone fails at something. But I can’t accept not trying.",
 		author: "Michael Jordan"
   },
