@@ -1864,7 +1864,10 @@ const quotes = [
 		author: "Kanye West"
 	},
 	{
-		text: "Act as if what you do makes a difference. It does.",
+		text: "I can accept failure. Everyone fails at something. But I can’t accept not trying.",
+		author: "Michael Jordan"
+  },
+  text: "Act as if what you do makes a difference. It does.",
 		author: "William James"
   },
 		text: "No matter what people tell you, words and ideas can change the world.",
