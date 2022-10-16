@@ -118,7 +118,17 @@ body {
   outline: none;
   padding: 10px 15px;
 }
+#category{
+  background-color: hsl(25, 97%, 53%);
+  color: #fff;
+  border-radius: 5px;
+  font-size: 16px;
 
+  cursor: pointer;
+  border: none;
+  outline: none;
+  padding: 10px 15px;
+}
 #mode {
   position: absolute;
   top: 30px;
