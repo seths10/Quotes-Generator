@@ -25,21 +25,21 @@ body {
   width: 40rem;
   height: fit-content;
   margin-left: auto;
-  margin-top: 15vh;
+  margin-top: 1vh;
   margin-right: auto;
 
 }
 .header {
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .header h2 {
   font-weight: 800;
 
-  color: #fff;
+  /* color: #fff; */
   font-size: 3rem;
-  text-shadow: -4px 1px #1c2eb9;
+  /* text-shadow: -4px 1px #1c2eb9; */
 
 }
 
@@ -86,6 +86,7 @@ body {
 
 .main-content .button-area {
   display: grid;
+  gap: 15px;
   place-items: center;
   margin-top: 20px;
   padding: 10px 0;

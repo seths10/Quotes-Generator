@@ -1,107 +1,110 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Quotes Generator</title>
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"
-    />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="icons/favicon-32x32.png"
-    />
-    <link rel="stylesheet" href="styles/style.css" />
-    <script src="https://cdn.jsdelivr.net/npm/text-image/dist/text-image.js"></script>
-  </head>
-  <body>
-    <div id="mode">
-      <i class="far fa-lightbulb" id="modeIcon"></i>
-      <p id="modeText">Light Mode</p>
-    </div>
-    <div class="container">
-      <div class="header">
-        <h2>Quote Generator</h2>
-      </div>
+	<head>
+		<meta charset="UTF-8" />
+		<title>Quotes Generator</title>
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"
+		/>
+		<link
+			rel="icon"
+			type="image/png"
+			sizes="32x32"
+			href="icons/favicon-32x32.png"
+		/>
+		<link rel="stylesheet" href="styles/style.css" />
+		<script src="https://cdn.jsdelivr.net/npm/text-image/dist/text-image.js"></script>
+	</head>
+	<body>
+		<div id="mode">
+			<i class="far fa-lightbulb" id="modeIcon"></i>
+			<p id="modeText">Light Mode</p>
+		</div>
+		<div class="container">
+			<div class="header">
+				<h2>Quote Generator</h2>
+			</div>
 
-      <div class="main-content">
-        <div class="text-area">
-          <span class="quote"
-            >"Life is what happens when you're busy making other plans"</span
-          >
-        </div>
+			<div class="main-content">
+				<div class="text-area">
+					<span class="quote"
+						>"Life is what happens when you're busy making other plans"</span
+					>
+				</div>
 
-        <div class="writer">-John Lennon</div>
+				<div class="writer">-John Lennon</div>
 
-        <div class="button-area">
-          <div>
-            <button id="Qbtn" class="allBtn">Generate</button>
-            <button id="Tbtn" class="allBtn" title="Tweet This!">
-              <i class="fab fa-twitter"></i>
-              Tweet This
-            </button>
-            <button id="Cbtn" class="allBtn" title="Copy This!">
-              <i class="fas fa-clipboard"></i>
-              Copy to Clipboard
-            </button>
-            <button
-              id="Cbtn"
-              class="allBtn"
-              title="Download This!"
-              onclick="downloadImage()"
-            >
-              <i class="fas fa-clipboard"></i>
-              Download Image
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
+				<div class="button-area">
+					<div>
+						<button id="Qbtn" class="allBtn">Generate</button>
+						<button id="Tbtn" class="allBtn" title="Tweet This!">
+							<i class="fab fa-twitter"></i>
+							Tweet This
+						</button>
+						<button id="Cbtn" class="allBtn" title="Copy This!">
+							<i class="fas fa-clipboard"></i>
+							Copy to Clipboard
+						</button>
+						
+					</div>
+					<div>
+						<button
+							id="Cbtn"
+							class="allBtn"
+							title="Download This!"
+							onclick="downloadImage()"
+						>
+							<i class="fas fa-clipboard"></i>
+							Download Image
+						</button>
+					</div>
+				</div>
+			</div>
+		</div>
 
-    <script src="js/quotes.js"></script>
-    <script src="js/script.js"></script>
-    <script>
-      const downloadImage = () => {
-        let text = document.querySelector('.quote').innerText;
-        let writer = String(document.querySelector('.writer').innerText);
-        // Add a line break after 10 words
-        let words = text.split(' ');
-        if (words.length > 10) {
-          let newWords = [];
-          let line = '';
-          for (let i = 0; i < words.length; i++) {
-            if (i % 10 === 0 && i !== 0) {
-              newWords.push(line);
-              line = '';
-            }
-            line += words[i] + ' ';
-          }
-          newWords.push(line);
-          text = newWords.join('\n');
-        }
-        var style = {
-          font: "'Helvetica Neue'",
-          align: 'center',
-          color: 'rgba(0, 0, 0, 1)',
-          size: 16,
-          background: 'rgba(255, 255, 255, 1)',
-          stroke: 0,
-          strokeColor: 'rgba(0, 0, 255, 1)',
-          lineHeight: '1.6em',
-          bold: false,
-          italic: false,
-        };
-        var textImage = TextImage(style);
-        var data = textImage.toDataURL(text + '\n' + writer, 'image/png', 0.8);
-        var link = document.createElement('a');
-        link.download = `${writer
-          .substring(1, writer.length)
-          .toLowerCase()}-quote.png`;
-        link.href = data;
-        link.click();
-      };
-    </script>
-  </body>
+		<script src="js/quotes.js"></script>
+		<script src="js/script.js"></script>
+		<script>
+			const downloadImage = () => {
+				let text = document.querySelector('.quote').innerText;
+				let writer = String(document.querySelector('.writer').innerText);
+				// Add a line break after 10 words
+				let words = text.split(' ');
+				if (words.length > 10) {
+					let newWords = [];
+					let line = '';
+					for (let i = 0; i < words.length; i++) {
+						if (i % 10 === 0 && i !== 0) {
+							newWords.push(line);
+							line = '';
+						}
+						line += words[i] + ' ';
+					}
+					newWords.push(line);
+					text = newWords.join('\n');
+				}
+				var style = {
+					font: "'Helvetica Neue'",
+					align: 'center',
+					color: 'rgba(0, 0, 0, 1)',
+					size: 16,
+					background: 'rgba(255, 255, 255, 1)',
+					stroke: 0,
+					strokeColor: 'rgba(0, 0, 255, 1)',
+					lineHeight: '1.6em',
+					bold: false,
+					italic: false,
+				};
+				var textImage = TextImage(style);
+				var data = textImage.toDataURL(text + '\n' + writer, 'image/png', 0.8);
+				var link = document.createElement('a');
+				link.download = `${writer
+					.substring(1, writer.length)
+					.toLowerCase()}-quote.png`;
+				link.href = data;
+				link.click();
+			};
+		</script>
+	</body>
 </html>
