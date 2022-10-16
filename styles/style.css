@@ -175,7 +175,7 @@ body {
   .main-content .writer {
     margin-top: 3rem;
     font-size: 2rem;
-    font-weight: boldS;
+    font-weight: bold;
   }
   .main-content .button-area {
     display: grid;
