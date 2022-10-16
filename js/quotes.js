@@ -1912,5 +1912,9 @@ const quotes = [
 	{
 		text:  "Write it on your heart that every day is the best day in the year.",
 		author: "Ralph Waldo Emerson"
+	},
+	{
+		text: "We accept the love we think we deserve",
+		author: "Todd Anderson"
 	}
 ];
