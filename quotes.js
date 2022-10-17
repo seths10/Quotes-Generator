@@ -1845,7 +1845,13 @@ const quotes = [
 	{
 		text: "He who struggles is better than he who never attempts",
 		Author: "Swami Vivekananda"
-	}
+	},
+	
+	{
+		text: "A room without books is like a body without a soul.",
+		Author: "Marcus Tullius Cicero"
+	},
+	
 	
 	
 ];
