@@ -1918,5 +1918,9 @@ const quotes = [
 	{
 		text: "We accept the love we think we deserve",
 		author: "Todd Anderson"
+	},
+	{
+		text:"Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.",
+		author: "Rabindranath Tagore"
 	}
 ];
