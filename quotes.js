@@ -1845,7 +1845,10 @@ const quotes = [
 	{
 		text: "He who struggles is better than he who never attempts",
 		Author: "Swami Vivekananda"
+	},
+	{
+		text: "Whoever is happy will make others happy too",
+		Author: "Anne Frank"
 	}
-	
 	
 ];
