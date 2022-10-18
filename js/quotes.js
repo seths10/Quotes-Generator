@@ -1966,5 +1966,47 @@ const quotes = [
 	{
 		text: "You have to dream before your dreams can come true",
 		author: "A. P. J. Abdul Kalam"
+	},
+	{
+		text: "When the going gets weird, the weird turn pro.",
+		author: "Hunter S. Thompson"
+	},
+	{
+		text: "There is nothing more helpless and irresponsible than a man in the depths of an ether binge.",
+		author: "Hunter S. Thompson"
+	},
+	{
+		text: "If you're going through hell, keep going.",
+		author: "Winston Churchill"
+	},
+	{
+		text: "Be happy for this moment. This moment is your life.",
+		author: "Omar Khayyam"
+	},
+	{
+		text: "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+		author: "Lao Tzu"
+	},
+	{
+		text: "Tis better to have loved and lost than never to have loved at all.",
+		author: "Alfred Lord Tennyson"
+	},
+	{
+		text: "Let us always meet each other with smile, for the smile is the beginning of love.",
+		author: "Mother Teresa"
+	},
+	{
+		text: "You can't blame gravity for falling in love.",
+		author: "Albert Einstein"
+	},
+	{
+		text: "Hope is a waking dream.",
+		author: "Aristotle"
+	},
+	{
+		text: "Hope is being able to see that there is light despite all of the darkness.",
+		author: "Desmond Tutu"
 	}
+
+	
 ];
