@@ -20,6 +20,10 @@ const quotes = [
 		author: "Ben Hogan"
 	},
 	{
+		text: "The art of life is to know how to enjoy a little and to endure very much.",
+		author: "William Hazlitt"
+	},
+	{
 		text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
 		author: "Thomas Edison",
 	},
