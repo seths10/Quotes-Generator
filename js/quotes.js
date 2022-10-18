@@ -1920,6 +1920,26 @@ const quotes = [
 		author: "Todd Anderson"
 	},
 	{
+		text:"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+		author: "James Cameron"
+	},
+	{
+		text: "Life is what happens when you're busy making other plans.",
+		author: "John Lennon"
+	},
+	{
+		text:  "You will face many defeats in life, but never let yourself be defeated.",
+		author: "Maya Angelou"
+	},
+	{
+		text: "The only impossible journey is the one you never begin.",
+		author: "Tony Robbins"
+	},
+	{
+		text: "The purpose of our lives is to be happy.",
+		author: "Dalai Lama"
+  },
+  {
 		text: "If you want to shine like a sun, first burn like a sun",
 		author: "A. P. J. Abdul Kalam"
 	},
