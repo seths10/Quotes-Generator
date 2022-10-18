@@ -2006,7 +2006,47 @@ const quotes = [
 	{
 		text: "Hope is being able to see that there is light despite all of the darkness.",
 		author: "Desmond Tutu"
-	}
+	},
+	{
+		text: "Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us.",
+		author: "Samuel Smiles"
+	},
+	{
+		text: "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.",
+		author: "Epicurus"
+	},
+	{
+		text:"Hope springs eternal in the human breast: Man never is, but always to be blest.",
+		author: "Alexander Pope"
+	},
+	{
+		text:"Hope is not the conviction that something will turn out well but the certainty that something makes sense, regardless of how it turns out.",
+		author: "Vaclav Havel"
+	},
+	{
+		text:"A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
+		author: "Elbert Hubbard"
+	},
+	{
+		text:"Strive not to be a success, but rather to be of value.",
+		author: "Albert Einstein"
+	},
+	{
+		text:"All you need in this life is ignorance and confidence, and then success is sure.",
+		author: "Mark Twain"
+	},
+	{
+		text:"He who has a why to live can bear almost any how.",
+		author: "Friedrich Nietzsche"
+	},
+	{
+		text:"To live is to suffer, to survive is to find some meaning in the suffering.",
+		author: "Friedrich Nietzsche"
+	},
+	{
+		text:"I'm not trying to be different. To me, I'm just being myself.",
+		author: "Jaylen Brown"
+	},
 
 	
 ];
