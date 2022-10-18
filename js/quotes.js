@@ -20,6 +20,10 @@ const quotes = [
 		author: "Ben Hogan"
 	},
 	{
+		text: "The art of life is to know how to enjoy a little and to endure very much.",
+		author: "William Hazlitt"
+	},
+	{
 		text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
 		author: "Thomas Edison",
 	},
@@ -1922,5 +1926,45 @@ const quotes = [
 	{
 		text:"Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.",
 		author: "Rabindranath Tagore"
+  },
+  {
+		text:"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+		author: "James Cameron"
+	},
+	{
+		text: "Life is what happens when you're busy making other plans.",
+		author: "John Lennon"
+	},
+	{
+		text:  "You will face many defeats in life, but never let yourself be defeated.",
+		author: "Maya Angelou"
+	},
+	{
+		text: "The only impossible journey is the one you never begin.",
+		author: "Tony Robbins"
+	},
+	{
+		text: "The purpose of our lives is to be happy.",
+		author: "Dalai Lama"
+  },
+  {
+		text: "If you want to shine like a sun, first burn like a sun",
+		author: "A. P. J. Abdul Kalam"
+	},
+	{
+		text: "Excellence is a continuous process and not an accident",
+		author: "A. P. J. Abdul Kalam"
+	},
+	{
+		text: "The youth need to be enabled to become job generators from job seekers",
+		author: "A. P. J. Abdul Kalam"
+	},
+	{
+		text: "Great dreams of great dreamers are always transcended",
+		author: "A. P. J. Abdul Kalam"
+	},
+	{
+		text: "You have to dream before your dreams can come true",
+		author: "A. P. J. Abdul Kalam"
 	}
 ];
