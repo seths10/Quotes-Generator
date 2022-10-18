@@ -1924,6 +1924,10 @@ const quotes = [
 		author: "Todd Anderson"
 	},
 	{
+		text:"Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.",
+		author: "Rabindranath Tagore"
+  },
+  {
 		text:"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
 		author: "James Cameron"
 	},
