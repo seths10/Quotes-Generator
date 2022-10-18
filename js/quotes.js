@@ -2127,4 +2127,44 @@ const quotes = [
     text: "The way to get started is to quit talking and begin doing.",
     author: "Walt Disney",
   },
+  {
+    text: "Money is a terrible master but an excellent servant.",
+    author: "P.T. Barnum",
+  },
+  {
+    text: "A man who pays his bills on time is soon forgotten.",
+    author: "Oscar Wilde",
+  },
+  {
+    text: "The most difficult thing is the decision to act, the rest is merely tenacity.",
+    author: "Amelia Earhart",
+  },
+  {
+    text: "Beware of little expenses; a small leak will sink a great ship.",
+    author: "Benjamin Franklin",
+  },
+  {
+    text: "You cannot escape the responsibility of tomorrow by evading it today.",
+    author: "Abraham Lincoln",
+  },
+  {
+    text: "The desire of gold is not for gold. It is for the means of freedom and benefit.",
+    author: "Ralph Waldo Emerson",
+  },
+  {
+    text: "To contract new debts is not the way to pay old ones.",
+    author: "George Washington",
+  },
+  {
+    text: "Fortune befriends the bold.",
+    author: "Emily Dickinson",
+  },
+  {
+    text: "When prosperity comes, do not use all of it.",
+    author: "Confucius",
+  },
+  {
+    text: "Do the best you can, and don’t take life too serious.",
+    author: "Will Rogers",
+  },
 ];
