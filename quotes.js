@@ -1853,5 +1853,9 @@ const quotes = [
 	{
 		text: "Whoever is happy will make others happy too",
 		Author: "Anne Frank"
+	},
+	{
+		text: "When you reach the end of your rope, tie a knot in it and hang on." 
+		author: "Franklin D. Roosevelt"
 	}
 ];
