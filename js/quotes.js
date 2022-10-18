@@ -1918,5 +1918,9 @@ const quotes = [
 	{
 		text: "We accept the love we think we deserve",
 		author: "Todd Anderson"
+	},
+	{
+		text: "When you reach the end of your rope, tie a knot in it and hang on." 
+		author: "Franklin D. Roosevelt"
 	}
 ];
