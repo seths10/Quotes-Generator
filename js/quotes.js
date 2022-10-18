@@ -1918,5 +1918,25 @@ const quotes = [
 	{
 		text: "We accept the love we think we deserve",
 		author: "Todd Anderson"
+	},
+	{
+		text: "If you want to shine like a sun, first burn like a sun",
+		author: "A. P. J. Abdul Kalam"
+	},
+	{
+		text: "Excellence is a continuous process and not an accident",
+		author: "A. P. J. Abdul Kalam"
+	},
+	{
+		text: "The youth need to be enabled to become job generators from job seekers",
+		author: "A. P. J. Abdul Kalam"
+	},
+	{
+		text: "Great dreams of great dreamers are always transcended",
+		author: "A. P. J. Abdul Kalam"
+	},
+	{
+		text: "You have to dream before your dreams can come true",
+		author: "A. P. J. Abdul Kalam"
 	}
 ];
