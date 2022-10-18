@@ -2087,4 +2087,44 @@ const quotes = [
     text: "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
     author: "Thomas A. Edison",
   },
+  {
+    text: "Play by the rules, but be ferocious.",
+    author: "Phil Knight",
+  },
+  {
+    text: "Business opportunities are like buses, there’s always another one coming",
+    author: "Richard Branson",
+  },
+  {
+    text: "Every problem is a gift—without problems we would not grow.",
+    author: "Anthony Robbins",
+  },
+  {
+    text: "Success usually comes to those who are too busy to be looking for it.",
+    author: "Henry David Thoreau",
+  },
+  {
+    text: "There’s no shortage of remarkable ideas, what’s missing is the will to execute them.",
+    author: "Seth Godin",
+  },
+  {
+    text: "I don’t know the word ‘quit.’ Either I never did, or I have abolished it.",
+    author: "Susan Butcher",
+  },
+  {
+    text: "If you really look closely, most overnight successes took a long time.",
+    author: "Steve Jobs",
+  },
+  {
+    text: "Even if you are on the right track, you’ll get run over if you just sit there",
+    author: "Will Rodgers",
+  },
+  {
+    text: "The first one gets the oyster, the second gets the shell.",
+    author: "Andrew Carnegie",
+  },
+  {
+    text: "The way to get started is to quit talking and begin doing.",
+    author: "Walt Disney",
+  },
 ];
