@@ -1966,5 +1966,15 @@ const quotes = [
 	{
 		text: "You have to dream before your dreams can come true",
 		author: "A. P. J. Abdul Kalam"
-	}
+	},
+        {
+  quote: "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
+  name: "Albert Einstein"
+}, {
+  quote: "“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”",
+  name: " Bernard M. Baruch"
+}, {
+  quote: "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
+  name: "Dr. Seuss"
+}
 ];
