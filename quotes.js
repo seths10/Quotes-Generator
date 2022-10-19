@@ -1853,5 +1853,9 @@ const quotes = [
 	{
 		text: "Whoever is happy will make others happy too",
 		Author: "Anne Frank"
+	},
+        {
+		text: "What color is your Bugatti!! ",
+		Author: "Andrew Tate"
 	}
 ];
