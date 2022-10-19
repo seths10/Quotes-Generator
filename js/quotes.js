@@ -1967,8 +1967,12 @@ const quotes = [
 		text: "You have to dream before your dreams can come true",
 		author: "A. P. J. Abdul Kalam"
 	},
-		{
+	{
 		text: "We pass through this world but once",
 		author: "Stephen Jay Gould"
-	}
+	},
+	{
+		text: "Live out of your imagination, not your history.",
+		author: "Stephen Covey"
+	},
 ];
