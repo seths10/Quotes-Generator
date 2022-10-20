@@ -109,15 +109,15 @@ const quotes = [
 	},
 	{
 		text: "Today is the tomorrow we worried about yesterday.",
-		author: null,
+		author: "Dale Carnegie",
 	},
 	{
 		text: "It's easier to see the mistakes on someone else's paper.",
-		author: null,
+		author: "Cynthia Lewis",
 	},
 	{
 		text: "Every man dies. Not every man really lives.",
-		author: null,
+		author: "William Wallace",
 	},
 	{
 		text: "To lead people walk behind them.",
@@ -397,7 +397,7 @@ const quotes = [
 	},
 	{
 		text: "It takes both sunshine and rain to make a rainbow.",
-		author: null,
+		author: "Roy T. Bennett",
 	},
 	{
 		text: "A beautiful thing is never perfect.",
@@ -752,18 +752,6 @@ const quotes = [
 		author: 'Wayne Dyer',
 	},
 	{
-		text: 'Today is the tomorrow we worried about yesterday.',
-		author: null,
-	},
-	{
-		text: "It's easier to see the mistakes on someone else's paper.",
-		author: null,
-	},
-	{
-		text: 'Every man dies. Not every man really lives.',
-		author: null,
-	},
-	{
 		text: 'To lead people walk behind them.',
 		author: 'Lao Tzu',
 	},
@@ -1022,10 +1010,6 @@ const quotes = [
 	{
 		text: 'A short saying often contains much wisdom.',
 		author: 'Sophocles',
-	},
-	{
-		text: 'It takes both sunshine and rain to make a rainbow.',
-		author: null,
 	},
 	{
 		text: 'A beautiful thing is never perfect.',
