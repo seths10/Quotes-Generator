@@ -1,4 +1,8 @@
 const quotes = [
+	{
+		text: "To see a world in a grain of sand And a heaven in a wild flower To hold infinity in the palm of your hand And eternity in an hour",
+		author: "William Blake"
+	},
 	{	text: "Everything in moderation, including moderation.",
 	 	author: "Oscar Wilde"
 	},
