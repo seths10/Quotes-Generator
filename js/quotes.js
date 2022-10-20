@@ -1967,6 +1967,14 @@ const quotes = [
 		text: "You have to dream before your dreams can come true",
 		author: "A. P. J. Abdul Kalam"
 	},
+		{
+		text: "Don't judge each day by the harvest you reap but by the seeds that you plant",
+		author: "Robert Louis Stevenson"
+	},
+	{
+		text: "When you reach the end of your rope, tie a knot in it and hang on",
+		author: "Franklin D. Roosevelt"
+	},
         {
   quote: "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
   name: "Albert Einstein"
