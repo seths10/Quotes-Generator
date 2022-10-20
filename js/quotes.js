@@ -1976,5 +1976,9 @@ const quotes = [
 }, {
   quote: "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
   name: "Dr. Seuss"
-}
+},
+	{
+		quote: "“Not all those who wander are lost.”",
+		name: "J.R.R. Tolkien"
+	}
 ];
