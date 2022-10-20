@@ -1976,5 +1976,21 @@ const quotes = [
 }, {
   quote: "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
   name: "Dr. Seuss"
-}
+	},
+	{
+		text: "Strength is Life, Weakness is Death. Expansion is Life, Contraction is Death. Love is Life, Hatred is Death.",
+		author: "Swami Vivekananda"
+	},
+	{
+		text: "Truth can be stated in a thousand different ways, yet each one can be true.",
+		author: "Swami Vivekananda"
+	},
+	{
+		text: "In a day, when you don't come across any problems - you can be sure that you are travelling in a wrong path.",
+		author: "Swami Vivekananda"
+	},
+	{
+		text: "Talk to yourself once in a day, otherwise you may miss meeting an intelligent person in this world.",
+		author: "Swami Vivekananda"
+	}
 ];
