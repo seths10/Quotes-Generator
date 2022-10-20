@@ -1966,5 +1966,46 @@ const quotes = [
 	{
 		text: "You have to dream before your dreams can come true",
 		author: "A. P. J. Abdul Kalam"
+	},
+	{
+		text: "We have to dare to be ourselves, however frightening or strange that self may prove to be.",
+		author: "May Sarton"
+	},
+	{
+		text: "There is nothing either good or bad, but thinking makes it so.",
+		author: "William Shakespeare"
+	},
+	{
+		text: "Man suffers only because he takes seriously what the gods made for fun.",
+		author: "Alan Wilson Watts"
+	},
+	{
+    text: "The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.",
+		author: "Carl Sagan"
+	},
+	{
+    text: "I was never aware of any other option but to question everything.",
+		author: "Noam Chomsky"
+	},
+	{
+    text: "The question isn't who is going to let me; it's who is going to stop me.",
+		author: "Ayn Rand"
+	},
+	{
+    text: "A surplus of effort could overcome a deficit of confidence.",
+		author: "Sonia Sotomayor"
+	},
+	{
+    text: "If your dreams do not scare you, they are not big enough",
+		author: "Ellen Johnson Sirleaf"
+	},
+	{
+    text: "Trying to define yourself is like trying to bite your own teeth.",
+		author: "Alan Wilson Watts"
+	},
+	{
+    text: "Muddy water is best cleared by leaving it alone.",
+		author: "Alan Wilson Watts"
 	}
+
 ];
