@@ -1980,5 +1980,9 @@ const quotes = [
    {
     text: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
     author: "Robert Louis Stevenson",
+   },
+   {
+    text: "I have learned over the years that when one's mind is made up, this diminishes fear.",
+    author: "Rosa Parks",
    }
 ];
