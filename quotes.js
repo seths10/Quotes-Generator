@@ -31,6 +31,10 @@ const quotes = [
 		author: "Abraham Lincoln",
 	},
 	{
+		text: "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
+		author: "Oprah Winfrey"
+	},
+	{
 		text: "Difficulties increase the nearer we get to the goal.",
 		author: "Johann Wolfgang von Goethe",
 	},
