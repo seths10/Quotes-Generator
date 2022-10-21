@@ -1853,5 +1853,9 @@ const quotes = [
 	{
 		text: "Whoever is happy will make others happy too",
 		Author: "Anne Frank"
+	},
+	{	text:"Education is the most powerful weapon which you can use to change the world",
+		Author: "Nelson Mandela"
+		
 	}
 ];
