@@ -2,6 +2,9 @@ const quotes = [
 	{	text: "Everything in moderation, including moderation.",
 	 	author: "Oscar Wilde"
 	},
+	{	text: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+	 	author: "Nelson Mandela"
+	},
 	{
 		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
 		author: "Emil Cioran"
