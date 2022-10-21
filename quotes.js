@@ -1853,5 +1853,9 @@ const quotes = [
 	{
 		text: "Whoever is happy will make others happy too",
 		Author: "Anne Frank"
-	}
+	},
+    {
+        text: "Take the attitude of a student, never be too big to ask questions, never know too much to learn something new.",
+        Author: "Augustine Og Mandino"
+    }
 ];
