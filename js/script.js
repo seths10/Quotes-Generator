@@ -8,11 +8,11 @@ let buttons = document.querySelectorAll(".allBtn");
 let copyBtn = document.querySelector('#Cbtn');
 
 btn.addEventListener('click', function () {
-	let random = Math.floor(Math.random() * quotes.length);
-	quote.innerHTML = quotes[random].text;
-	writer.innerHTML = '-' + quotes[random].author;
-	copyBtn.style.backgroundColor = '#fb7413';
-	copyBtn.innerHTML = "Copy to Clipboard";
+  let random = Math.floor(Math.random() * quotes.length);
+  quote.innerHTML = quotes[random].text;
+  writer.innerHTML = '-' + quotes[random].author;
+  copyBtn.style.backgroundColor = '#fb7413';
+  copyBtn.innerHTML = "Copy to Clipboard";
 });
 
 
@@ -52,11 +52,17 @@ mode.addEventListener("click", () => {
 
 // Copy to Clipboard button
 function copyQuote() {
-	// Get the quote
-	var copiedQuote = quote.innerHTML;
+  // Get the quote
 
-	// Copy quote to clipboard
-	navigator.clipboard.writeText(copiedQuote);
-	copyBtn.style.backgroundColor = '#74B72E';
-	copyBtn.innerHTML = "Copied to clipboard!!"; 
+  //Show popup notification
+  var x = document.getElementById("popup");
+  x.className = "show";
+  setTimeout(function () { x.className = x.className.replace("show", ""); }, 2000);
+
+  var copiedQuote = quote.innerHTML;
+
+  // Copy quote to clipboard
+  navigator.clipboard.writeText(copiedQuote);
+  copyBtn.style.backgroundColor = '#74B72E';
+  copyBtn.innerHTML = "Copied to clipboard!!";
 }
