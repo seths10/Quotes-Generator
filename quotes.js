@@ -1853,5 +1853,13 @@ const quotes = [
 	{
 		text: "Whoever is happy will make others happy too",
 		Author: "Anne Frank"
-	}
+	},
+        {
+                text: "I've noticed that worrying is like praying for what you don't want to happen.",
+                author: "Robert Downey Jr."
+        },
+        {
+                text: "The lesson is that you can still make mistakes and be forgiven.",
+                author: "Robert Downey Jr."
+        }
 ];
