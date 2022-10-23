@@ -22,6 +22,10 @@ const quotes = [
 		text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
 		author: "Thomas Edison",
 	},
+{ Text : " While coming to Earth, each person brings a lantern of aladdin ... but very few people can awaken sleeping monsters from that lamps."
+author: " Humayun Ahmed "
+},
+
 	{
 		text: "You can observe a lot just by watching.",
 		author: "Yogi Berra",
