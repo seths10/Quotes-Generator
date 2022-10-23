@@ -22,6 +22,10 @@ const quotes = [
 		text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
 		author: "Thomas Edison",
 	},
+{ Text : " While coming to Earth, each person brings a lantern of aladdin ... but very few people can awaken sleeping monsters from that lamps."
+author: " Humayun Ahmed "
+},
+
 	{
 		text: "You can observe a lot just by watching.",
 		author: "Yogi Berra",
@@ -29,6 +33,10 @@ const quotes = [
 	{
 		text: "A house divided against itself cannot stand.",
 		author: "Abraham Lincoln",
+	},
+	{
+		text: "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
+		author: "Oprah Winfrey"
 	},
 	{
 		text: "Difficulties increase the nearer we get to the goal.",
@@ -1682,8 +1690,8 @@ const quotes = [
 		text: "Children are not colouring books. You don't get to fill them with your favourite colours.",
 		author: "Khaled Hosseini",
 	},
-{
-  		text: "It's not what happens to you, but how you react to it that matters.",
+  {
+  	text: "It's not what happens to you, but how you react to it that matters.",
 		author: "Epictetus"
 	},
   {
@@ -1703,9 +1711,9 @@ const quotes = [
 		author: "Confucius"
 	},
 	{ 
-                 text: "Be the change that you wish to see in the world.", 
-                 author: "Mahatma Gandhi" 
-         },
+    text: "Be the change that you wish to see in the world.", 
+    author: "Mahatma Gandhi" 
+  },
 	{
 		text: "I can't hold enough of you in my hands.",
 		author: "Franz Kafka",
@@ -1752,9 +1760,9 @@ const quotes = [
 	},
 	{
 		text:"Fate chooses your relations, you choose your friends.",
-		 author:"Jacques Delille"
-     },
-     {
+		author:"Jacques Delille"
+  },
+  {
 		text: "Never underestimate your problem or your ability to deal with it.",
 		author: "Robert Schuller"
 	},
@@ -1828,34 +1836,50 @@ const quotes = [
 	},
 	{
 		text: "If you feel pain,you're human.If you feel other people's pain, you are Human Being",
-		Author: "Leo Tolstoy"
+		author: "Leo Tolstoy"
 	},
 	{
 		text: "A person's ethics and charecter are not tested in good times.It is only in bad times that a person shows how steadfast he is to his dharma",
-		Author: "Amish Tripathi"
+		author: "Amish Tripathi"
 	},
 	{
 		text: "Everything is easy when you are busy but nothing is easy when you are lazy",
-		Author: "Swami Vivekananda"
+		author: "Swami Vivekananda"
 	},
 	{
 		text: "The greatest sin is to think that you are weak",
-		Author: "Swami Vivekananda"
+		author: "Swami Vivekananda"
 	},
 	{
 		text: "He who struggles is better than he who never attempts",
-		Author: "Swami Vivekananda"
+		author: "Swami Vivekananda"
 	},	
 	{
 		text: "A room without books is like a body without a soul.",
-		Author: "Marcus Tullius Cicero"
+		author: "Marcus Tullius Cicero"
 	},
 	{
 		text: "Whoever is happy will make others happy too",
-		Author: "Anne Frank"
+		author: "Anne Frank"
 	},
-	{	text:"Education is the most powerful weapon which you can use to change the world",
-		Author: "Nelson Mandela"
-		
-	}
+	{	
+    text:"Education is the most powerful weapon which you can use to change the world",
+		author: "Nelson Mandela"
+	},
+  {
+    text: "I've noticed that worrying is like praying for what you don't want to happen.",
+    author: "Robert Downey Jr."
+  },
+  {
+    text: "The lesson is that you can still make mistakes and be forgiven.",
+    author: "Robert Downey Jr."
+  },
+  {
+    text: "Take the attitude of a student, never be too big to ask questions, never know too much to learn something new.",
+    author: "Augustine Og Mandino"
+  },
+	{
+     text: "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
+     author: "Oscar Wilde"
+  }
 ];
