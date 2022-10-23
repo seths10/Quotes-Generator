@@ -2087,6 +2087,86 @@ const quotes = [
     text: "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
     author: "Thomas A. Edison",
   },
+  {
+    text: "Play by the rules, but be ferocious.",
+    author: "Phil Knight",
+  },
+  {
+    text: "Business opportunities are like buses, there’s always another one coming",
+    author: "Richard Branson",
+  },
+  {
+    text: "Every problem is a gift—without problems we would not grow.",
+    author: "Anthony Robbins",
+  },
+  {
+    text: "Success usually comes to those who are too busy to be looking for it.",
+    author: "Henry David Thoreau",
+  },
+  {
+    text: "There’s no shortage of remarkable ideas, what’s missing is the will to execute them.",
+    author: "Seth Godin",
+  },
+  {
+    text: "I don’t know the word ‘quit.’ Either I never did, or I have abolished it.",
+    author: "Susan Butcher",
+  },
+  {
+    text: "If you really look closely, most overnight successes took a long time.",
+    author: "Steve Jobs",
+  },
+  {
+    text: "Even if you are on the right track, you’ll get run over if you just sit there",
+    author: "Will Rodgers",
+  },
+  {
+    text: "The first one gets the oyster, the second gets the shell.",
+    author: "Andrew Carnegie",
+  },
+  {
+    text: "The way to get started is to quit talking and begin doing.",
+    author: "Walt Disney",
+  },
+  {
+    text: "Money is a terrible master but an excellent servant.",
+    author: "P.T. Barnum",
+  },
+  {
+    text: "A man who pays his bills on time is soon forgotten.",
+    author: "Oscar Wilde",
+  },
+  {
+    text: "The most difficult thing is the decision to act, the rest is merely tenacity.",
+    author: "Amelia Earhart",
+  },
+  {
+    text: "Beware of little expenses; a small leak will sink a great ship.",
+    author: "Benjamin Franklin",
+  },
+  {
+    text: "You cannot escape the responsibility of tomorrow by evading it today.",
+    author: "Abraham Lincoln",
+  },
+  {
+    text: "The desire of gold is not for gold. It is for the means of freedom and benefit.",
+    author: "Ralph Waldo Emerson",
+  },
+  {
+    text: "To contract new debts is not the way to pay old ones.",
+    author: "George Washington",
+  },
+  {
+    text: "Fortune befriends the bold.",
+    author: "Emily Dickinson",
+  },
+  {
+    text: "When prosperity comes, do not use all of it.",
+    author: "Confucius",
+  },
+  {
+    text: "Do the best you can, and don’t take life too serious.",
+    author: "Will Rogers",
+  },
 	{
 		text: "Everything in moderation, including moderation.",
 		author: "Oscar Wilde"
