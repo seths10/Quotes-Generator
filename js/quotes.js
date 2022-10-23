@@ -1554,6 +1554,9 @@ const quotes = [
   {
     text: "People who boast about their I.Q. are losers.",
     author: "Stephen Hawking",
+  },{
+    text: "The only true wisdom is in knowing you know nothing.",
+    author: "Socrates",
   },
   {
     text: "The thing about smart people is that they seem like crazy people to dumb people.",
