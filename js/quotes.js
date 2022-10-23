@@ -1984,5 +1984,13 @@ const quotes = [
 }, {
   quote: "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
   name: "Dr. Seuss"
-}
+},
+   {
+    text: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+    author: "Robert Louis Stevenson",
+   },
+   {
+    text: "I have learned over the years that when one's mind is made up, this diminishes fear.",
+    author: "Rosa Parks",
+   }
 ];
