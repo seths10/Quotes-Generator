@@ -1932,6 +1932,10 @@ const quotes = [
 		author: "Todd Anderson"
 	},
 	{
+		text: "When you reach the end of your rope, tie a knot in it and hang on." 
+		author: "Franklin D. Roosevelt"
+	},
+  {
 		text:"Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.",
 		author: "Rabindranath Tagore"
   },
