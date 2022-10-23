@@ -1,6 +1,17 @@
 const quotes = [
+	{
+		text: "To see a world in a grain of sand And a heaven in a wild flower To hold infinity in the palm of your hand And eternity in an hour",
+		author: "William Blake"
+	},
 	{	text: "Everything in moderation, including moderation.",
 	 	author: "Oscar Wilde"
+	},
+	{	text: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+	 	author: "Nelson Mandela"
+	},
+	{
+		text: "Life is what happens when you're busy making other plans.",
+		author: "John Lennon"
 	},
 	{
 		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
@@ -14,14 +25,18 @@ const quotes = [
 		text: "If you wish to make an apple pie from scratch, you must first invent the universe",
 		author: "Carl Sagan"
 	},
-        {     
-                text: "As you walk down the fairway of life you must smell the roses, for you only get to play one round.",
-                author: "Ben Hogan"
-        },
+	{     
+			text: "As you walk down the fairway of life you must smell the roses, for you only get to play one round.",
+			author: "Ben Hogan"
+	},
 	{
 		text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
 		author: "Thomas Edison",
 	},
+{ Text : " While coming to Earth, each person brings a lantern of aladdin ... but very few people can awaken sleeping monsters from that lamps."
+author: " Humayun Ahmed "
+},
+
 	{
 		text: "You can observe a lot just by watching.",
 		author: "Yogi Berra",
@@ -29,6 +44,10 @@ const quotes = [
 	{
 		text: "A house divided against itself cannot stand.",
 		author: "Abraham Lincoln",
+	},
+	{
+		text: "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
+		author: "Oprah Winfrey"
 	},
 	{
 		text: "Difficulties increase the nearer we get to the goal.",
@@ -70,7 +89,7 @@ const quotes = [
 		text: "Think how hard physics would be if particles could think",
 		author: "Murray Gell-Mann",
     },
-{
+	{
 		text: "Life is a series of natural and spontaneous changes. Don't resist them - that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.",
 		author: "Lao Tzu",
 	},
@@ -545,10 +564,6 @@ const quotes = [
 	{
 		text: "No alibi will save you from accepting the responsibility.",
 		author: "Napoleon Hill",
-	},
-	{
-		text: "If you can dream it, you can do it.",
-		author: "Walt Disney",
 	},
 	{
 		text: "It is better to travel well than to arrive.",
@@ -1293,64 +1308,60 @@ const quotes = [
 	{
     text: "I am always doing that which I cannot do, in order that I may learn how to do it.",
     author: "Pablo Picasso",
-  },
-  {
-    text: "A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.",
-    author: "Mahatma Gandhi",
-  },
-  {
-    text: "The greatest weapon against stress is our ability to choose one thought over another.",
-    author: "William James",
-  },
-  {
-    text: "The last of human freedoms—the ability to choose ones attitude in a given set of circumstances.",
-    author: "Viktor E. Frankl",
-  },
-  {
-    text : "First make the change easy (warning: this might be hard), then make the easy change.",
-    author : "Kent Beck"
-  },
-  {
-    text : "Before software can be reusable it first has to be usable.", 
-    author : "Ralph Johnson"
-  },
-  {
-    text : "If it hurts, do it more frequently, and bring the pain forward.", 
-    author : "Jez Humble"
-  },
-  {
-    text : "Good programmers know what to write. Great ones know what to rewrite and reuse.",
-    author : "Eric S. Raymond"
-  },
-  {
-    text: "Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.",
-    author: "Dr. A.P.J Abdul Kalam",
-  },
-  {
-    text: "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.",
-    author: "Dr. A.P.J Abdul Kalam",
-  },
-  {
-    text: "To succeed in your mission, you must have single-minded devotion to your goal.",
-    author: "Dr. A.P.J Abdul Kalam",
-  },
-  {
-    text: "If you fail, never give up because FAIL means First Attempt In Learning.",
-    author: "Dr. A.P.J Abdul Kalam",
-  },
-  {
-    text: "Creativity is seeing the same thing but thinking differently.",
-    author: "Dr. A.P.J Abdul Kalam",
-  },
-  {
-    text: "Failure will never overtake me if my determination to succeed is strong enough.",
-    author: "Dr. A.P.J Abdul Kalam",
-  },
-  {
-    text: "All of us do not have equal talent. But , all of us have an equal opportunity to develop our talents.",
-    author: "Dr. A.P.J Abdul Kalam",
-  },
-{
+	},
+	{
+		text: "A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.",
+		author: "Mahatma Gandhi",
+	},
+	{
+		text: "The last of human freedoms—the ability to choose ones attitude in a given set of circumstances.",
+		author: "Viktor E. Frankl",
+	},
+	{
+		text : "First make the change easy (warning: this might be hard), then make the easy change.",
+		author : "Kent Beck"
+	},
+	{
+		text : "Before software can be reusable it first has to be usable.", 
+		author : "Ralph Johnson"
+	},
+	{
+		text : "If it hurts, do it more frequently, and bring the pain forward.", 
+		author : "Jez Humble"
+	},
+	{
+		text : "Good programmers know what to write. Great ones know what to rewrite and reuse.",
+		author : "Eric S. Raymond"
+	},
+	{
+		text: "Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.",
+		author: "Dr. A.P.J Abdul Kalam",
+	},
+	{
+		text: "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.",
+		author: "Dr. A.P.J Abdul Kalam",
+	},
+	{
+		text: "To succeed in your mission, you must have single-minded devotion to your goal.",
+		author: "Dr. A.P.J Abdul Kalam",
+	},
+	{
+    	text: "If you fail, never give up because FAIL means First Attempt In Learning.",
+    	author: "Dr. A.P.J Abdul Kalam",
+  	},
+  	{
+    	text: "Creativity is seeing the same thing but thinking differently.",
+    	author: "Dr. A.P.J Abdul Kalam",
+  	},
+  	{
+    	text: "Failure will never overtake me if my determination to succeed is strong enough.",
+    	author: "Dr. A.P.J Abdul Kalam",
+  	},
+  	{
+    	text: "All of us do not have equal talent. But , all of us have an equal opportunity to develop our talents.",
+    	author: "Dr. A.P.J Abdul Kalam",
+  	},
+	{
 		text: "Winning isnt everything, but wanting it is.",
 		author: "Arnold Palmer"
 	},
@@ -1565,83 +1576,83 @@ const quotes = [
 	{
 		text: "I don't think the human race will survive the next thousand years, unless we spread into space.",
 		author: "Stephen Hawking"
-  },
-  {
+  	},
+  	{
     text: "There is no avoiding war; it can only be postponed to the advantage of others.",
     author: "Niccolo Machiavelli"
-  },
-  {
+  	},
+  	{
 		text: "Life is trying things to see if they work.",
 		author: "Ray Bradbury"
 	},
-  {
+  	{
 		text: "Strike me down, and I will become more powerful than you could possibly imagine.",
 		author: "Obi-Wan Kenobi"
-  },
-  {
+  	},
+  	{
 		text: "I'd rather be someone that's underrated than overrated.",
 		author: "Clint Dempsey"
 	},
-  {
+  	{
 		text: "To live is to choose. But to choose well, you must know who you are and what you stand for, where you want to go and why you want to get there.",
 		author: "Kofi Annan"
 	},
-  {
+  	{
 		text: "We need to keep hope alive and strive to do better.",
 		author: "Kofi Annan"
 	},
-  {
+  	{
     text: "Change is a process which has to be managed.",
     author: "Kofi Annan"
-  },
-  {
+  	},
+  	{
 		text: "Freedom is not something that one people can bestow on another as a gift. Thy claim it as their own and none can keep it from them.",
 		author: "Kwame Nkrumah"
 	},
-  {
+  	{
     text: "Thought without practice is empty; and action without thought is blind.",
     author: "Kwame Nkrumah"
-  },
-  {
+  	},
+  	{
 		text: "People are worms, and even the God who created them is immensely bored with their antics.",
 		author: "Ama Ata Aidoo"
 	},
-  {
+  	{
 		text: "When evil men destroy, good men must build and bind.",
 		author: "Anas Aremeyaw Anas"
 	},
-  {
+  	{
 		text: "The future belongs to those who believe in the beauty of their dreams.",
 		author: "John Agyekum Kufuor"
 	},
-  {
+  	{
 		text: "All our dreams can come true, if we have the courage to pursue them.",
 		author: "John Agyekum Kufuor"
 	},
-  {
+  	{
 		text: "Dream as if you'll live forever. Live as if you'll die today.",
 		author: "John Agyekum Kufuor"
 	},
-  {
+  	{
 		text: "Success is not final, failure is not fatal. It is the courage to continue that counts.",
 		author: "Winston Churchill"
-  },
-  {
+  	},
+  	{
 		text: "Success is not final, failure is not fatal. It is the courage to continue that counts.",
 		author: "Winston Churchill"
-  },
-  {
+  	},
+  	{
 		text: "Never give up on something that you can't go a day without thinking about.",
 		author: "Winston Churchill"
-  },
-  {
+  	},
+  	{
 		text: "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
 		author: "Dale Carnegie"
-  },
-  {
+  	},
+  	{
 		text: "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
 		author: "Thomas Edison"
-  },
+  	},
 	{	
 		text: "Most people are other people. Their thoughtx are someone else's opinions, their lives a mimicry, their passions a quotation.",
 		author: "Oskar Wilde",
@@ -1665,8 +1676,8 @@ const quotes = [
 	{
 		text: "I have written you down. Now you will live forever.",
 		author: "Bastille",
-  },
-  {
+  	},
+  	{
 		text: "For sale: baby shoes, never worn.",
 		author: "Ernest Hemingway",
 	},
@@ -1682,38 +1693,41 @@ const quotes = [
 		text: "Children are not colouring books. You don't get to fill them with your favourite colours.",
 		author: "Khaled Hosseini",
 	},
-{
-  		text: "It's not what happens to you, but how you react to it that matters.",
+  {
+  	text: "It's not what happens to you, but how you react to it that matters.",
 		author: "Epictetus"
 	},
-  {
+  	{
 		text: "The only true wisdom is in knowing you know nothing.",
 		author: "Socrates"
 	},
-  {
+  	{
 		text: "History repeats itself, first as tragedy, second as farce.",
 		author: "Karl Marx"
 	},
-  {
+  	{
 		text: "To live is to suffer, to survive is to find some meaning in the suffering.",
 		author: "Friedrich Nietzsche"
 	},
-  {
+  	{
 		text: "It does not matter how slowly you go as long as you do not stop.",
 		author: "Confucius"
 	},
 	{ 
-                 text: "Be the change that you wish to see in the world.", 
-                 author: "Mahatma Gandhi" 
-         },
+    text: "Be the change that you wish to see in the world.", 
+    author: "Mahatma Gandhi" 
+  },
+    text: "Be the change that you wish to see in the world.", 
+    author: "Mahatma Gandhi" 
+  },
 	{
 		text: "I can't hold enough of you in my hands.",
 		author: "Franz Kafka",
 	},
-  {
+  	{	
 		text: "You make a choice: continue living your life feeling muddled in this abyss of self-misunderstanding, or you find your identity independent of it. You draw your own box.",
 		author: "Duchess Meghan"
-},
+	},
 	{
 		text: "I construct my memories with my present.",
 		author: "Jean-Paul Sartre"
@@ -1722,11 +1736,11 @@ const quotes = [
 		text: "I am a man, Jupiter, and each man must invent his own path.",
 		author: "Jean-Paul Sartre"
     },
-  {
+  	{
 		text: "We live in a world where people can ridicule you at the push of the button. They can question you at the push of a button.",
 		author: "Chadwick Boseman"
 	},
-  {
+  	{
 		text: "The only difference between the hero and the villain is that the villain chooses to use that power in a way that is selfish and hurts other people.",
 		author: "Chadwick Boseman"
 	},
@@ -1743,18 +1757,14 @@ const quotes = [
 		 author:"Walt Disney"
 	},
 	{
-		text:"Life is what happens when you're busy making other plans.",
-		 author:"John Lennon"
-	},
-	{
 		text:"You only live once - but if you work it right, once is enough.",
 		 author:"Joe E. Lewis"
 	},
 	{
 		text:"Fate chooses your relations, you choose your friends.",
-		 author:"Jacques Delille"
-     },
-     {
+		author:"Jacques Delille"
+  },
+  {
 		text: "Never underestimate your problem or your ability to deal with it.",
 		author: "Robert Schuller"
 	},
@@ -1828,30 +1838,195 @@ const quotes = [
 	},
 	{
 		text: "If you feel pain,you're human.If you feel other people's pain, you are Human Being",
-		Author: "Leo Tolstoy"
+		author: "Leo Tolstoy"
 	},
 	{
 		text: "A person's ethics and charecter are not tested in good times.It is only in bad times that a person shows how steadfast he is to his dharma",
-		Author: "Amish Tripathi"
+		author: "Amish Tripathi"
 	},
 	{
 		text: "Everything is easy when you are busy but nothing is easy when you are lazy",
-		Author: "Swami Vivekananda"
+		author: "Swami Vivekananda"
 	},
 	{
 		text: "The greatest sin is to think that you are weak",
-		Author: "Swami Vivekananda"
+		author: "Swami Vivekananda"
 	},
 	{
 		text: "He who struggles is better than he who never attempts",
-		Author: "Swami Vivekananda"
+		author: "Swami Vivekananda"
 	},	
 	{
 		text: "A room without books is like a body without a soul.",
-		Author: "Marcus Tullius Cicero"
+		author: "Marcus Tullius Cicero"
 	},
 	{
 		text: "Whoever is happy will make others happy too",
 		Author: "Anne Frank"
-	}
+	},
+	{
+		text: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+		Author: "James Cameron"
+	},
+	{
+		text:"The unseen enemy is always the most fearsome.",
+		Author: "George R.R. Martin"
+	},
+	{
+		text: "The soul is stronger than its surroundings.", 
+		author:"William James" 
+	},
+	{
+		text:"The last of human freedoms—the ability to choose one’s attitude in a given set of circumstances",
+		Author:"Viktor E. Frankl"
+	},
+	{
+		text:"We meet no ordinary people in our lives",
+		Author:"C.S. Lewis"
+	},
+	{
+		text:"I believe every human has a finite number of heartbeats. I don’t intend to waste any of mine",
+		Author:"Neil Armstrong"
+	},
+	{
+		text:"We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+		Author:"Aristotle"
+	},
+	{
+		text:"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life",
+		Author:"Eleanor Roosevelt"
+	},
+	{
+		text:"The mind is not a vessel to be filled but a fire to be kindled",
+		Author:"Plutarch"
+	},
+	{
+		text:"It's the little details that are vital. Little things make big things happen",
+		Author:"John Wooden"
+	},
+	{
+		text:"History will be kind to me for I intend to write it",
+		Author:"Winston Churchill"
+	},
+	{
+		text:"Mystery creates wonder and wonder is the basis of man’s desire to understand",
+		Author:"Neil Armstrong"
+	},
+	{
+		text:"Friends are as companions on a journey, who ought to aid each other to persevere in the road to a happier life",
+		Author:"Pythagoras"
+	},
+	{
+		text:"We build too many walls and not enough bridges",
+		Author:"Isaac Newton"
+	},
+	{
+		text:"If we all did the things we are capable of, we would literally astound ourselves",
+		Author:"Thomas Edison"
+	},
+	{
+		text:"Only those who will risk going too far can possibly find out how far one can go",
+		Author:"T.S. Eliot"
+	},
+	{
+		text:"My thoughts disentangle themselves as they pass through my lips and fingertips",
+		Author:"Dawson Trotman"
+	},
+	{
+		text:"Before anything else, preparation is the key to success",
+		Author:"Alexander Graham Bell"
+	},
+	{
+		text:"“If you want to increase your success rate, double your failure rate",
+		Author:"Thomas J. Watson"
+	},
+	{
+		text:"It is during our darkest moments that we must focus to see the light.",
+		Author:"Aristotle"
+	},
+	{
+		text:"Peace is not merely a distant goal that we seek, but a means by which we arrive at that goal",
+		Author:"Martin Luther King, Jr."
+	},
+	{
+		text:"Peace begins with a smile",
+		Author:"Mother Teresa"
+	},
+	{
+		text:"Learning never exhausts the mind",
+		Author:"Leonardo da Vinci"
+
+	},
+	{
+		text:"Tomorrow hopes we have learned something from yesterday",
+		Author:"John Wayne"
+	},
+	{
+		text:"Each life is made up of mistakes and learning, waiting and growing, practicing patience and being persistent",
+		Author:"Billy Graham"
+	},
+	{
+		text:"Think, think, think",
+		Author:"A.A. Milne, Winnie-the-Pooh"
+	},
+	{
+		text:"Change happens in an instant. It happens the moment you DECIDE to change.",
+		Author:"Allyson Lewis"
+	},
+	{
+		text:"We meet no ordinary people in our lives.",
+		Author:"C.S. Lewis"
+	},
+	{
+		text:"The secret of getting ahead is getting started",
+		Author:"Mark Twain"
+	},
+	{
+		text:"If you fell down yesterday, stand up today",
+		Author:"H.G. Wells"
+	},
+	{
+		text:"Don’t let others decide who you are",
+		Author:"Dennis Rodman"
+	},
+	{
+		text:"If my life is going to mean anything, I have to live it myself",
+		Author:"Rick Riordan"
+	},
+	{
+		text:"Courage of the heart is very rare. Let it guide you",
+		Author:"Sarah J. Maas"
+	},
+	{
+		text:"Like water, every moment is precious",
+		Author:"Michael Bassey Johnson"
+	},
+	{
+		text:"You may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you",
+		Author:"Walt Disney"
+	},
+	{
+		text:"The foolish man seeks happiness in the distance, the wise grows it under his feet",
+		Author:"James Oppenheim"
+	},
+	{	
+    text:"Education is the most powerful weapon which you can use to change the world",
+		author: "Nelson Mandela"
+	},
+  {
+    text: "I've noticed that worrying is like praying for what you don't want to happen.",
+    author: "Robert Downey Jr."
+  },
+  {
+    text: "The lesson is that you can still make mistakes and be forgiven.",
+    author: "Robert Downey Jr."
+  },
+  {
+    text: "Take the attitude of a student, never be too big to ask questions, never know too much to learn something new.",
+    author: "Augustine Og Mandino"
+  },
+	{
+     text: "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
+     author: "Oscar Wilde"
+  }
 ];
