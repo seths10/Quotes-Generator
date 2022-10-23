@@ -20,6 +20,10 @@ const quotes = [
 		author: "Ben Hogan"
 	},
 	{
+		text: "Nothing is impossible. The word itself says 'I'm possible!'",
+		author: "Audrey Hepburn"
+	},
+	{
 		text: "The art of life is to know how to enjoy a little and to endure very much.",
 		author: "William Hazlitt"
 	},
