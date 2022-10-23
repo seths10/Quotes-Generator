@@ -1720,7 +1720,7 @@ const quotes = [
 
  },
 
-  },
+  {
     text: "Be the change that you wish to see in the world.", 
     author: "Mahatma Gandhi" 
   },
@@ -1894,9 +1894,10 @@ const quotes = [
 		Author: "Andrew Tate"
 	},
 	{
-		text: "When you reach the end of your rope, tie a knot in it and hang on." 
+		text: "When you reach the end of your rope, tie a knot in it and hang on." ,
 		author: "Franklin D. Roosevelt"
 	},
+	{
 		text: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
 		Author: "James Cameron"
 	},
@@ -2060,5 +2061,9 @@ const quotes = [
 	{
      text: "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
      author: "Oscar Wilde"
+  },
+  	{
+	text: "Make sure you dont mistake soy sauce for sugar.",
+	author: "Yui Hirasawa"
   }
 ];
