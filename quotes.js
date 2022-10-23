@@ -2060,5 +2060,9 @@ const quotes = [
 	{
      text: "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
      author: "Oscar Wilde"
+  },
+  {
+     text: "You do not rise to the level of your goals. You fall to the level of your systems.",
+     author: "James Clear"
   }
 ];
