@@ -8,6 +8,10 @@ const quotes = [
 		author: "Emil Cioran"
 	},
 	{
+		text: "In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.",
+		author: "Andrew Hunt"
+	},
+	{
 		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
 		author: "Emil Cioran"
 	},
