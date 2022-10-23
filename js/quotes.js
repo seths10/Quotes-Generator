@@ -1983,6 +1983,34 @@ const quotes = [
 		text: "You have to dream before your dreams can come true",
 		author: "A. P. J. Abdul Kalam"
 	},
+  {
+    quote: "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
+    name: "Albert Einstein"
+  },
+  {
+    quote: "“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”",
+    name: " Bernard M. Baruch"
+  },
+  {
+    quote: "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
+    name: "Dr. Seuss"
+	},
+	{
+		text: "Strength is Life, Weakness is Death. Expansion is Life, Contraction is Death. Love is Life, Hatred is Death.",
+		author: "Swami Vivekananda"
+	},
+	{
+		text: "Truth can be stated in a thousand different ways, yet each one can be true.",
+		author: "Swami Vivekananda"
+	},
+	{
+		text: "In a day, when you don't come across any problems - you can be sure that you are travelling in a wrong path.",
+		author: "Swami Vivekananda"
+	},
+	{
+		text: "Talk to yourself once in a day, otherwise you may miss meeting an intelligent person in this world.",
+		author: "Swami Vivekananda"
+	},
 	{
 		text: "We have to dare to be ourselves, however frightening or strange that self may prove to be.",
 		author: "May Sarton"
