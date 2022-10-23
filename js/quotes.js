@@ -4055,7 +4055,19 @@ const quotes = [
 		text: "You have to dream before your dreams can come true",
 		author: "A. P. J. Abdul Kalam"
 	},
-		{
+	{
+		text: "We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.",
+		author: "Swami Vivekananda"
+	},
+	{
+		text: "The whole secret of existence is to have no fear. Never fear what will become of you, depend on no one. Only the moment you reject all help are you freed.",
+		author: "Swami Vivekananda"
+	},
+	{
+		text: "All the powers in the universe are already ours. It is we who have put our hands before our eyes and cry that it is dark.",
+    author: null,
+  },
+	{
 		text: "Don't judge each day by the harvest you reap but by the seeds that you plant",
 		author: "Robert Louis Stevenson"
 	},
@@ -4116,6 +4128,29 @@ const quotes = [
 		author: "Swami Vivekananda"
 	},
 	{
+		text: "If faith in ourselves had been more extensively taught and practiced, I am sure a very large portion of the evils and miseries that we have would have vanished.",
+		author: "Swami Vivekananda"
+	},
+	{
+		text: "As different streams having different sources all mingle their waters in the sea, so different tendencies, various though they appear, crooked or straight, all lead to God.",
+		author: "Swami Vivekananda"
+	},
+	{
+		text: "External nature is only internal nature writ large.",
+		author: "Swami Vivekananda"
+	},
+	{
+		text: "The will is not free - it is a phenomenon bound by cause and effect - but there is something behind the will which is free.",
+		author: "Swami Vivekananda"
+	},
+	{
+		text: "Never think there is anything impossible for the soul. It is the greatest heresy to think so. If there is sin, this is the only sin; to say that you are weak, or others are weak.",
+		author: "Swami Vivekananda"
+	},
+	{
+		text: "Our duty is to encourage every one in his struggle to live up to his own highest idea, and strive at the same time to make the ideal as near as possible to the Truth.",
+		author: "Swami Vivekananda"
+	}
 		text: "In a day, when you don't come across any problems - you can be sure that you are travelling in a wrong path.",
 		author: "Swami Vivekananda"
 	},
