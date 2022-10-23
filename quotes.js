@@ -1890,6 +1890,9 @@ const quotes = [
 		Author: "Anne Frank"
 	},
 	{
+		text: "When you reach the end of your rope, tie a knot in it and hang on." 
+		author: "Franklin D. Roosevelt"
+	},
 		text: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
 		Author: "James Cameron"
 	},
