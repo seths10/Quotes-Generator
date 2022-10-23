@@ -3,6 +3,10 @@ const quotes = [
 	 	author: "Oscar Wilde"
 	},
 	{
+		text: "Life is what happens when you're busy making other plans.",
+		author: "John Lennon"
+	},
+	{
 		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
 		author: "Emil Cioran"
 	},
