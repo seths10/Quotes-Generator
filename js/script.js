@@ -63,6 +63,4 @@ function copyQuote() {
 
   // Copy quote to clipboard
   navigator.clipboard.writeText(copiedQuote);
-  copyBtn.style.backgroundColor = '#74B72E';
-  copyBtn.innerHTML = "Copied to clipboard!!";
 }
