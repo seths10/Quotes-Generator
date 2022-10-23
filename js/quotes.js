@@ -4,6 +4,10 @@ const quotes = [
 		author: "Oscar Wilde"
 	},
 	{
+		text: "It's the imperfections that make things beautiful",
+		author: "Jenny Han"
+	},
+	{
 		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
 		author: "Emil Cioran"
 	},
