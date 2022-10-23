@@ -29,9 +29,10 @@ const quotes = [
 		text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
 		author: "Thomas Edison",
 	},
-{ Text : " While coming to Earth, each person brings a lantern of aladdin ... but very few people can awaken sleeping monsters from that lamps."
-author: " Humayun Ahmed "
-},
+	{ 
+		text : " While coming to Earth, each person brings a lantern of aladdin ... but very few people can awaken sleeping monsters from that lamps.",
+		author: " Humayun Ahmed "
+	},
 
 	{
 		text: "You can observe a lot just by watching.",
@@ -1720,7 +1721,7 @@ author: " Humayun Ahmed "
 	{ 
     text: "Be the change that you wish to see in the world.", 
     author: "Mahatma Gandhi" 
-  },
+ },
 	{
 		text: "I can't hold enough of you in my hands.",
 		author: "Franz Kafka",
@@ -1831,6 +1832,26 @@ author: " Humayun Ahmed "
 	},
 	{
 		text: "Remember that wherever your heart is, there you will find your treasure.",
+		author: "Paulo Coelho"
+	},
+	{
+		text: "If you are brave enough to say goodbye, life will reward you with a new hello.",
+		author: "Paulo Coelho"
+	},
+	{
+		text: "Sometimes you have to travel a long way to find what is near.",
+		author: "Paulo Coelho"
+	},
+	{
+		text: "It is what you do in the present that will redeem the past and thereby change the future.",
+		author: "Paulo Coelho"
+	},
+	{
+		text: "A life without a cause is a life without effect.",
+		author: "Paulo Coelho"
+	},
+	{
+		text: "The danger of an adventure is worth a thousand days of ease and comfort.",
 		author: "Paulo Coelho"
 	},
 	{
