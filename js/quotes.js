@@ -8,6 +8,10 @@ const quotes = [
 		author: "Emil Cioran"
 	},
 	{
+		text: "In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.",
+		author: "Andrew Hunt"
+	},
+	{
 		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
 		author: "Emil Cioran"
 	},
@@ -18,6 +22,10 @@ const quotes = [
 	{
 		text: "As you walk down the fairway of life you must smell the roses, for you only get to play one round.",
 		author: "Ben Hogan"
+	},
+	{
+		text: "Nothing is impossible. The word itself says 'I'm possible!'",
+		author: "Audrey Hepburn"
 	},
 	{
 		text: "The art of life is to know how to enjoy a little and to endure very much.",
@@ -2047,6 +2055,24 @@ const quotes = [
 		text:"I'm not trying to be different. To me, I'm just being myself.",
 		author: "Jaylen Brown"
 	},
-
-	
+  {
+    quote: "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
+    name: "Albert Einstein"
+  },
+  {
+    quote: "“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”",
+    name: " Bernard M. Baruch"
+  },
+  {
+    quote: "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
+    name: "Dr. Seuss"
+  },
+  {
+    text: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+    author: "Robert Louis Stevenson",
+  },
+  {
+    text: "I have learned over the years that when one's mind is made up, this diminishes fear.",
+    author: "Rosa Parks",
+  }
 ];
