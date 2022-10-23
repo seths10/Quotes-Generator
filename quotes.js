@@ -1753,10 +1753,6 @@ author: " Humayun Ahmed "
 		 author:"Walt Disney"
 	},
 	{
-		text:"Life is what happens when you're busy making other plans.",
-		 author:"John Lennon"
-	},
-	{
 		text:"You only live once - but if you work it right, once is enough.",
 		 author:"Joe E. Lewis"
 	},
@@ -1862,7 +1858,15 @@ author: " Humayun Ahmed "
 	},
 	{
 		text: "Whoever is happy will make others happy too",
-		author: "Anne Frank"
+		Author: "Anne Frank"
+	},
+	{
+		text: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+		Author: "James Cameron"
+	},
+	{
+		text:"The unseen enemy is always the most fearsome.",
+		Author: "George R.R. Martin"
 	},
 	{
 		text: "The soul is stronger than its surroundings.", 
