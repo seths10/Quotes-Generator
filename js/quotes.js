@@ -4,8 +4,16 @@ const quotes = [
 		author: "Oscar Wilde"
 	},
 	{
+		text: "It's the imperfections that make things beautiful",
+		author: "Jenny Han"
+	},
+	{
 		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
 		author: "Emil Cioran"
+	},
+	{
+		text: "In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.",
+		author: "Andrew Hunt"
 	},
 	{
 		text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
@@ -18,6 +26,10 @@ const quotes = [
 	{
 		text: "As you walk down the fairway of life you must smell the roses, for you only get to play one round.",
 		author: "Ben Hogan"
+	},
+	{
+		text: "Nothing is impossible. The word itself says 'I'm possible!'",
+		author: "Audrey Hepburn"
 	},
 	{
 		text: "The art of life is to know how to enjoy a little and to endure very much.",
@@ -1924,6 +1936,10 @@ const quotes = [
 		author: "Todd Anderson"
 	},
 	{
+		text: "When you reach the end of your rope, tie a knot in it and hang on." 
+		author: "Franklin D. Roosevelt"
+	},
+  {
 		text:"Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.",
 		author: "Rabindranath Tagore"
   },
@@ -1967,15 +1983,17 @@ const quotes = [
 		text: "You have to dream before your dreams can come true",
 		author: "A. P. J. Abdul Kalam"
 	},
-        {
-  quote: "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
-  name: "Albert Einstein"
-}, {
-  quote: "“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”",
-  name: " Bernard M. Baruch"
-}, {
-  quote: "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
-  name: "Dr. Seuss"
+  {
+    quote: "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
+    name: "Albert Einstein"
+  },
+  {
+    quote: "“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”",
+    name: " Bernard M. Baruch"
+  },
+  {
+    quote: "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
+    name: "Dr. Seuss"
 	},
 	{
 		text: "Strength is Life, Weakness is Death. Expansion is Life, Contraction is Death. Love is Life, Hatred is Death.",
@@ -1992,5 +2010,145 @@ const quotes = [
 	{
 		text: "Talk to yourself once in a day, otherwise you may miss meeting an intelligent person in this world.",
 		author: "Swami Vivekananda"
-	}
+	},
+	{
+		text: "We have to dare to be ourselves, however frightening or strange that self may prove to be.",
+		author: "May Sarton"
+	},
+	{
+		text: "There is nothing either good or bad, but thinking makes it so.",
+		author: "William Shakespeare"
+	},
+	{
+		text: "Man suffers only because he takes seriously what the gods made for fun.",
+		author: "Alan Wilson Watts"
+	},
+	{
+    text: "The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.",
+		author: "Carl Sagan"
+	},
+	{
+    text: "I was never aware of any other option but to question everything.",
+		author: "Noam Chomsky"
+	},
+	{
+    text: "The question isn't who is going to let me; it's who is going to stop me.",
+		author: "Ayn Rand"
+	},
+	{
+    text: "A surplus of effort could overcome a deficit of confidence.",
+		author: "Sonia Sotomayor"
+	},
+	{
+    text: "If your dreams do not scare you, they are not big enough",
+		author: "Ellen Johnson Sirleaf"
+	},
+	{
+    text: "Trying to define yourself is like trying to bite your own teeth.",
+		author: "Alan Wilson Watts"
+	},
+	{
+    text: "Muddy water is best cleared by leaving it alone.",
+		author: "Alan Wilson Watts"
+	},
+  {
+    text: "When the going gets weird, the weird turn pro.",
+		author: "Hunter S. Thompson"
+	},
+	{
+		text: "There is nothing more helpless and irresponsible than a man in the depths of an ether binge.",
+		author: "Hunter S. Thompson"
+	},
+	{
+		text: "If you're going through hell, keep going.",
+		author: "Winston Churchill"
+	},
+	{
+		text: "Be happy for this moment. This moment is your life.",
+		author: "Omar Khayyam"
+	},
+	{
+		text: "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+		author: "Lao Tzu"
+	},
+	{
+		text: "Tis better to have loved and lost than never to have loved at all.",
+		author: "Alfred Lord Tennyson"
+	},
+	{
+		text: "Let us always meet each other with smile, for the smile is the beginning of love.",
+		author: "Mother Teresa"
+	},
+	{
+		text: "You can't blame gravity for falling in love.",
+		author: "Albert Einstein"
+	},
+	{
+		text: "Hope is a waking dream.",
+		author: "Aristotle"
+	},
+	{
+		text: "Hope is being able to see that there is light despite all of the darkness.",
+		author: "Desmond Tutu"
+	},
+	{
+		text: "Hope is like the sun, which, as we journey toward it, casts the shadow of our burden behind us.",
+		author: "Samuel Smiles"
+	},
+	{
+		text: "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for.",
+		author: "Epicurus"
+	},
+	{
+		text:"Hope springs eternal in the human breast: Man never is, but always to be blest.",
+		author: "Alexander Pope"
+	},
+	{
+		text:"Hope is not the conviction that something will turn out well but the certainty that something makes sense, regardless of how it turns out.",
+		author: "Vaclav Havel"
+	},
+	{
+		text:"A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
+		author: "Elbert Hubbard"
+	},
+	{
+		text:"Strive not to be a success, but rather to be of value.",
+		author: "Albert Einstein"
+	},
+	{
+		text:"All you need in this life is ignorance and confidence, and then success is sure.",
+		author: "Mark Twain"
+	},
+	{
+		text:"He who has a why to live can bear almost any how.",
+		author: "Friedrich Nietzsche"
+	},
+	{
+		text:"To live is to suffer, to survive is to find some meaning in the suffering.",
+		author: "Friedrich Nietzsche"
+	},
+	{
+		text:"I'm not trying to be different. To me, I'm just being myself.",
+		author: "Jaylen Brown"
+	},
+  {
+    quote: "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
+    name: "Albert Einstein"
+  },
+  {
+    quote: "“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”",
+    name: " Bernard M. Baruch"
+  },
+  {
+    quote: "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
+    name: "Dr. Seuss"
+  },
+  {
+    text: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+    author: "Robert Louis Stevenson",
+  },
+  {
+    text: "I have learned over the years that when one's mind is made up, this diminishes fear.",
+    author: "Rosa Parks",
+  }
 ];
