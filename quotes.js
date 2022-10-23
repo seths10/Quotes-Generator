@@ -1858,12 +1858,20 @@ author: " Humayun Ahmed "
 		text: "Whoever is happy will make others happy too",
 		Author: "Anne Frank"
 	},
-    {
-        text: "Take the attitude of a student, never be too big to ask questions, never know too much to learn something new.",
-        Author: "Augustine Og Mandino"
-    },
+  {
+          text: "I've noticed that worrying is like praying for what you don't want to happen.",
+          author: "Robert Downey Jr."
+  },
+  {
+          text: "The lesson is that you can still make mistakes and be forgiven.",
+          author: "Robert Downey Jr."
+  },
+  {
+      text: "Take the attitude of a student, never be too big to ask questions, never know too much to learn something new.",
+      Author: "Augustine Og Mandino"
+  },
 	{
         text: "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
         Author: "Oscar Wilde"
-    }
+   }
 ];
