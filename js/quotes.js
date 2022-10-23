@@ -4377,5 +4377,26 @@ const quotes = [
   {
     text: "I have learned over the years that when one's mind is made up, this diminishes fear.",
     author: "Rosa Parks",
+  },
+  {
+  text: " Wealth grows wherever men exert energy.",
+  author: "George S. Clason"
+  },
+  {
+   text:"The greatest loss that we all have to deal with is the loss of the image of ourselves as a perfect person.",
+   author:"Fred Rogers"
+  },
+  {
+  text:"The only risk of failure is promotion.",
+  author:"Scot Adams"
+  },
+  {
+  text:"We all have our time machines. Some take us back, they're called memories. Some take us forward, they're called dreams.",
+  author:"Jeremy Irons"
+  },
+  {
+  text:"Do not brood over your past mistakes and failures as this will only fill your mind with grief, regret and depression. Do not repeat them in the future.",
+  author:"Sri Swami Sivananda"
   }
+	  
 ];
