@@ -1991,16 +1991,38 @@ const quotes = [
 		text: "When you reach the end of your rope, tie a knot in it and hang on",
 		author: "Franklin D. Roosevelt"
 	},
-        {
-  quote: "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
-  name: "Albert Einstein"
-}, {
-  quote: "“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”",
-  name: " Bernard M. Baruch"
-}, {
-  quote: "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
-  name: "Dr. Seuss"
-},
+  {
+    quote: "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
+	  name: "Albert Einstein"
+	}, 
+	{
+	  quote: "“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”",
+	  name: " Bernard M. Baruch"
+	}, 
+	{
+	  quote: "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
+	  name: "Dr. Seuss"
+	},
+	{
+		text: "Don't judge each day by the harvest you reap but by the seeds that you plant",
+		author: "Robert Louis Stevenson"
+	},
+	{
+		text: "When you reach the end of your rope, tie a knot in it and hang on",
+		author: "Franklin D. Roosevelt"
+	},
+  {
+    quote: "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
+    name: "Albert Einstein"
+  }, 
+  {
+    quote: "“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”",
+    name: " Bernard M. Baruch"
+  }, 
+  {
+    quote: "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
+    name: "Dr. Seuss"
+  },
   {
     quote: "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
     name: "Albert Einstein"
