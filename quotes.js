@@ -1861,5 +1861,9 @@ author: " Humayun Ahmed "
     {
         text: "Take the attitude of a student, never be too big to ask questions, never know too much to learn something new.",
         Author: "Augustine Og Mandino"
+    },
+	{
+        text: "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
+        Author: "Oscar Wilde"
     }
 ];
