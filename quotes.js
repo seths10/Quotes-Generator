@@ -2060,5 +2060,9 @@ const quotes = [
 	{
      text: "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
      author: "Oscar Wilde"
+  },
+	  	{
+     text: "Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.",
+     author: "A. P. J. Abdul Kalam"
   }
 ];
