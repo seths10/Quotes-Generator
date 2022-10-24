@@ -4313,6 +4313,30 @@ const quotes = [
     author: 'Thomas Edison',
   },
   {
+  text:"Do not brood over your past mistakes and failures as this will only fill your mind with grief, regret and depression. Do not repeat them in the future.",
+  author:"Sri Swami Sivananda"
+  },
+ {
+  text:“Be yourself; everyone else is already taken.”,
+  author:"Oscar Wilde"
+ },
+ {
+  text:“Love is not an emotion. It is your very existence.”,
+  author:"Sri Sri Ravi Shankar"
+ },
+ {
+  text:“So many books, so little time”,
+  author:"Frank Zappa"
+ } ,
+{
+  text:“Life is nothing to be very serious about. Life is a ball in your hands to play with. Don’t hold on to the ball”,
+  author:"Sri Sri Ravi Shankar"
+ },
+ {
+  text:“A friend is someone who knows all about you and still loves you”,
+  author:"Elbert Hubbard"
+ },
+  {
     text: 'You can observe a lot just by watching.',
     author: 'Yogi Berra',
   },
@@ -6564,5 +6588,5 @@ const quotes = [
   {
     text: 'Do not brood over your past mistakes and failures as this will only fill your mind with grief, regret and depression. Do not repeat them in the future.',
     author: 'Sri Swami Sivananda',
-  },
+  }
 ];
