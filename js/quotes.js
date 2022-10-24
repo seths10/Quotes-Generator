@@ -4400,6 +4400,23 @@ const quotes = [
     author: 'Fred Rogers',
   },
   {
+	  text:"It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment"
+	  author:"Carl Friedrich Gauss"
+  },
+  {
+	  text:"If I have seen further, it is by standing on the shoulders of giants."
+	  author:"Isaac Newton"
+	  
+  },
+  {
+	  text:"Absence of evidence is not the evidence of absence"
+	  author:"Carl Sagan"
+  },
+  {
+    text:"The only risk of failure is promotion.",
+    author:"Scot Adams"
+  },
+  {
     text: 'The only risk of failure is promotion.',
     author: 'Scot Adams',
   },
