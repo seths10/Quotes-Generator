@@ -24,6 +24,30 @@ const quotes = [
     author: 'William Hazlitt',
   },
   {
+    text: "I'm telling you it is going to be easy. I'm telling you it is going to be worth it.",
+    author: "Art Williams",
+  },
+  {
+    text: "Don't focus on the pain, Focus on the Progress.",
+    author: "Dwayne Johnson",
+  },
+  {
+    text: "It always seems impossible until it's done.",
+    author: "Nelson Mandela",
+  },
+  {
+    text: "Work hard in silence. Let your success be noise.",
+    author: "Frank Ocean",
+  },
+  {
+    text: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
+    author: "Jim Rohn",
+  },
+  {
+    text: "Genius is one percent inspiration and ninety-nine percent perspiration.",
+    author: "Thomas Edison",
+  },
+  {
     text: 'Genius is one percent inspiration and ninety-nine percent perspiration.',
     author: 'Thomas Edison',
   },
