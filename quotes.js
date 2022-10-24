@@ -2064,5 +2064,9 @@ const quotes = [
   {
      text: "You do not rise to the level of your goals. You fall to the level of your systems.",
      author: "James Clear"
+  },
+	{
+     text: "Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.",
+     author: "A. P. J. Abdul Kalam"
   }
 ];
