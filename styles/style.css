@@ -118,6 +118,10 @@ body {
     padding: 10px 0;
 }
 
+.button-area button:hover {
+  background-color: hsla(25, 100%, 51%, 0.841);
+}
+
 .allBtn {
   background-color: hsl(25, 97%, 53%);
   color: #fff;
