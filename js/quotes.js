@@ -4088,7 +4088,7 @@ const quotes = [
 		author: "Todd Anderson"
 	},
 	{
-		text: "When you reach the end of your rope, tie a knot in it and hang on." 
+		text: "When you reach the end of your rope, tie a knot in it and hang on." ,
 		author: "Franklin D. Roosevelt"
 	},
   {
@@ -4230,7 +4230,8 @@ const quotes = [
 	{
 		text: "Our duty is to encourage every one in his struggle to live up to his own highest idea, and strive at the same time to make the ideal as near as possible to the Truth.",
 		author: "Swami Vivekananda"
-	}
+	},
+  {
 		text: "In a day, when you don't come across any problems - you can be sure that you are travelling in a wrong path.",
 		author: "Swami Vivekananda"
 	},
@@ -4397,6 +4398,36 @@ const quotes = [
   {
   text:"Do not brood over your past mistakes and failures as this will only fill your mind with grief, regret and depression. Do not repeat them in the future.",
   author:"Sri Swami Sivananda"
-  }
+  },
+  {
+    text:"Sorrow spares no one, and scars respect no person.",
+    author:"Sherrilyn Kenyon"
+  },
+  {
+    text:"The worst wounds, the deadliest of them, aren't the ones people see on the outside. They're the ones that make us bleed internally.",
+    author:"Sherrilyn Kenyon"
+  },
+  {
+    text:"Life is pain. Anyone who says differently is selling something.",
+    author:"Sherrilyn Kenyon"
+  },
+  {
+    text:"In the land of Bad Ass, Acheron reigned supreme.",
+    author:"Sherrilyn Kenyon"
+  },
+  {
+    text:"Better to be judged by twelve than carried by six",
+    author:"Sherrilyn Kenyon"
+  },
+  {
+    text:"All of us have darkness inside us, and at times it possesses and seduces us in ways we never thought possible.",
+    author:"Sherrilyn Kenyon"
+  },
+  {
+    text:"Life isn't a puzzle to be solved. It's an adventure to be savored.",
+    author:"Sherrilyn Kenyon"
+  },
+
+  
 	  
 ];
