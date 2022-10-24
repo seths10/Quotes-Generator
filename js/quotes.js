@@ -6620,4 +6620,8 @@ const quotes = [
 		text: 'Do not brood over your past mistakes and failures as this will only fill your mind with grief, regret and depression. Do not repeat them in the future.',
 		author: 'Sri Swami Sivananda',
 	},
+	{
+		text: 'He who cannot rest, cannot work; he who cannot let go, cannot hold on; he who cannot find footing, cannot go forward.',
+		author: 'Harry Emerson Fosdick',
+	},
 ];
