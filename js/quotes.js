@@ -6621,7 +6621,11 @@ const quotes = [
 		author: 'Sri Swami Sivananda',
 	},
 	{
-		text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
+		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
+		author: 'Will Smith',
+  },
+  {		
+    text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
 	},
 ];
