@@ -6621,11 +6621,19 @@ const quotes = [
 		author: 'Sri Swami Sivananda',
 	},
 	{
-		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
+		text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
+		author: 'Ryan Holiday',
+	},
+	{
+		text: 'The obstacle in the path becomes the path.',
+		author: 'Ryan Holiday',
+  },
+  {
+    text: 'You’ll never achieve 100 percent if 99 percent is okay.',
 		author: 'Will Smith',
   },
   {		
     text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
-	},
+	}
 ];
