@@ -2,9 +2,20 @@
 
 This is a website for generating random quotes which can be tweeted.
 
-Please give this project a star 🌟 and don't forget to follow me 😊. 
+This is a website for generating random quotes which can be tweeted.
+Using basic HTML,CSS,JS with a few helpful packages
 
-If you are looking to make your first contribution, follow the steps below. 
+The generate button picks text and author out of a list of quotes from quote.js
+
+The tweet this. redirect you to tweet text box url with the quote you generated
+
+copy qoute basically copies the current quote
+
+the download button uses the package [npm-text-image](https://www.npmjs.com/package/text-image) to capture and format the quote to image/png and saves it to your local storage.
+
+Please give this project a star 🌟 and don't forget to follow me 😊.
+
+If you are looking to make your first contribution, follow the steps below.
 Check the CONTRIBUTING.md file file if you are already familiar with the git workflow.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
@@ -101,6 +112,7 @@ Now submit the pull request.
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
 ## Run In Docker
+
 ```
 docker build -t quotegen ./
 docker run -p 8080:80 quotegen
