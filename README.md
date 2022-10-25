@@ -5,7 +5,7 @@ This is a website for generating random quotes which can be tweeted.
 This is a website for generating random quotes which can be tweeted.
 Using basic HTML,CSS,JS with a few helpful packages
 
-The generate button picks text and author out of a list of quotes from quote.js
+`Generate` button picks text and author out of a list of quotes from quote.js
 
 The tweet this. redirect you to tweet text box url with the quote you generated
 
