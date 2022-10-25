@@ -1681,7 +1681,7 @@ const quotes = [
 	},
 	{
 		text: "Most people are other people. Their thoughtx are someone else's opinions, their lives a mimicry, their passions a quotation.",
-		author: 'Oskar Wilde',
+		author: 'Oscar Wilde',
 	},
 	{
 		text: "We accept the reality of the world with which we are presented. It's as simple as that.",
@@ -3845,7 +3845,7 @@ const quotes = [
 	},
 	{
 		text: "Most people are other people. Their thoughtx are someone else's opinions, their lives a mimicry, their passions a quotation.",
-		author: 'Oskar Wilde',
+		author: 'Oscar Wilde',
 	},
 	{
 		text: "We accept the reality of the world with which we are presented. It's as simple as that.",
@@ -5974,7 +5974,7 @@ const quotes = [
 	},
 	{
 		text: "Most people are other people. Their thoughtx are someone else's opinions, their lives a mimicry, their passions a quotation.",
-		author: 'Oskar Wilde',
+		author: 'Oscar Wilde',
 	},
 	{
 		text: "We accept the reality of the world with which we are presented. It's as simple as that.",
@@ -6619,5 +6619,9 @@ const quotes = [
 	{
 		text: 'Do not brood over your past mistakes and failures as this will only fill your mind with grief, regret and depression. Do not repeat them in the future.',
 		author: 'Sri Swami Sivananda',
+	},
+	{
+		text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
+		author: 'Thomas Edison',
 	},
 ];
