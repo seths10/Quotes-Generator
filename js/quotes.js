@@ -6621,7 +6621,11 @@ const quotes = [
 		author: 'Sri Swami Sivananda',
 	},
 	{
-		text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
+		text: 'He who cannot rest, cannot work; he who cannot let go, cannot hold on; he who cannot find footing, cannot go forward.',
+		author: 'Harry Emerson Fosdick',
+	},
+  }
+    text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
 		author: 'Ryan Holiday',
 	},
 	{
