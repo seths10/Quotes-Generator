@@ -6620,4 +6620,12 @@ const quotes = [
 		text: 'Do not brood over your past mistakes and failures as this will only fill your mind with grief, regret and depression. Do not repeat them in the future.',
 		author: 'Sri Swami Sivananda',
 	},
+	{
+		text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
+		author: 'Ryan Holiday',
+	},
+	{
+		text: 'The obstacle in the path becomes the path.',
+		author: 'Ryan Holiday',
+	},
 ];
