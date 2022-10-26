@@ -6667,6 +6667,6 @@ const quotes = [
   	{		
     text: "What counts in life is not the mere fact that we have lived. It is what difference we have made to the lives of others.",
 		author: 'Nelson Mandela',
-	},
+	}
 
 ];
