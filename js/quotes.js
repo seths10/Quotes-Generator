@@ -1400,10 +1400,6 @@ const quotes = [
 		author: 'Pablo Picasso',
 	},
 	{
-		text: 'A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.',
-		author: 'Mahatma Gandhi',
-	},
-	{
 		text: 'The greatest weapon against stress is our ability to choose one thought over another.',
 		author: 'William James',
 	},
@@ -3496,10 +3492,6 @@ const quotes = [
 		author: 'Pablo Picasso',
 	},
 	{
-		text: 'A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.',
-		author: 'Mahatma Gandhi',
-	},
-	{
 		text: 'The greatest weapon against stress is our ability to choose one thought over another.',
 		author: 'William James',
 	},
@@ -3570,10 +3562,6 @@ const quotes = [
 	{
 		text: 'I am always doing that which I cannot do, in order that I may learn how to do it.',
 		author: 'Pablo Picasso',
-	},
-	{
-		text: 'A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.',
-		author: 'Mahatma Gandhi',
 	},
 	{
 		text: 'The greatest weapon against stress is our ability to choose one thought over another.',
@@ -5625,10 +5613,6 @@ const quotes = [
 		author: 'Pablo Picasso',
 	},
 	{
-		text: 'A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.',
-		author: 'Mahatma Gandhi',
-	},
-	{
 		text: 'The greatest weapon against stress is our ability to choose one thought over another.',
 		author: 'William James',
 	},
@@ -5699,10 +5683,6 @@ const quotes = [
 	{
 		text: 'I am always doing that which I cannot do, in order that I may learn how to do it.',
 		author: 'Pablo Picasso',
-	},
-	{
-		text: 'A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.',
-		author: 'Mahatma Gandhi',
 	},
 	{
 		text: 'The greatest weapon against stress is our ability to choose one thought over another.',
