@@ -1,5 +1,9 @@
 const quotes = [
 	{
+		text: 'Most of modern life, all our diseases, are diseases of abundance, not diseases of scarcity.',
+		author: 'Naval Ravikant',
+	},
+	{
 		text: 'Everything in moderation, including moderation.',
 		author: 'Oscar Wilde',
 	},
