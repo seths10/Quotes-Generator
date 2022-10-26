@@ -54,7 +54,8 @@ body {
 
 }
 
-@media screen and (max-width: 500px) {
+
+@media screen and (max-width: 480px) {
   .main-content {
     width: 90%;
     margin: 0 auto;
@@ -156,7 +157,7 @@ body {
 
   .main-content {
     width: 100%;
-    height: 25vh;
+    height: 40vh;
     padding: 50px 40px;
     background-color: hsl(208, 18%, 12%);
     border-radius: 15px;
@@ -165,7 +166,7 @@ body {
 
   .text-area {
     text-align: center;
-    font-size: 3rem;
+    font-size: 2rem;
     color: #fff;
     line-height: 1.5;
   }
@@ -181,7 +182,7 @@ body {
   .main-content .button-area {
     display: grid;
     place-items: center;
-    margin-top: 29px;
+    margin-top: 7%;
     padding: 28px 0;
   }
 }
