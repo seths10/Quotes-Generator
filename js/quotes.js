@@ -2028,6 +2028,10 @@ const quotes = [
 		author: 'Mother Teresa',
 	},
 	{
+		text: 'Kind words can be short and easy to speak, but their echoes are truly endless.',
+		author: 'Mother Teresa',
+	},
+	{
 		text: "You can't blame gravity for falling in love.",
 		author: 'Albert Einstein',
 	},
