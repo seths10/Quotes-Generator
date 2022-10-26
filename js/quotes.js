@@ -6639,5 +6639,45 @@ const quotes = [
   {		
     text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
+	},
+	{
+		text: 'Youth has no age',
+		author: null,
+	},
+	{
+		text: 'You are too concerned with what was and what will be. Yesterday is history, tomorrow is a mystery. But today- today is a gift! That is why it is called present',
+		author: 'Kung fu Panda',
+	},
+	{
+		text: 'Success is stumbling from failure to failure with no loss of enthusiasm.',
+		author: 'Winston Churchill'
+	},
+	{
+		text: 'If you fall, I will be there -ground',
+		author: null
+	},
+	{
+		text: 'In the beginning I looked around and, not finding the automobile of my dreams, decided to build it myself.',
+		author: 'Ferdinand Porsche',
+	},
+	{
+		text: 'I have written you down. Now you will live forever.',
+		author: 'Bastille',
+	},
+	{
+		text: 'Education is not the filling of a pail, but the lighting of a fire.',
+		author: 'William Butler Yeats',
+	},
+	{
+		text: 'The aim of science is not to open the door to infinite wisdom, but to set a limit to infinite error.',
+		author: 'Bertolt Brecht',
+	},
+	{
+		text: 'Youth is happy because it has the capacity to see beauty. Anyone who keeps the ability to see beauty never grows old.',
+		author: 'Franz Kafka',
+	},
+	{
+		text: 'Reading gives us someplace to go when we have to stay where we are.',
+		author: 'Mason Cooley',
 	}
 ];
