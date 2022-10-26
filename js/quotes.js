@@ -6639,5 +6639,13 @@ const quotes = [
   {		
     text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
+	},
+	{
+		text: "Success is not final; Failure is not fatal: It is the courage to continue that counts.",
+		author: 'Winston S. Churchill',
+	},
+	{
+		text: "Aspire to Inspire before you Expire!",
+		author: 'Eugene Bell Jr.',
 	}
 ];
