@@ -6624,20 +6624,28 @@ const quotes = [
 		text: 'He who cannot rest, cannot work; he who cannot let go, cannot hold on; he who cannot find footing, cannot go forward.',
 		author: 'Harry Emerson Fosdick',
 	},
-  }
-    text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
+	}
+		text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
 		author: 'Ryan Holiday',
 	},
 	{
 		text: 'The obstacle in the path becomes the path.',
 		author: 'Ryan Holiday',
-  },
-  {
-    text: 'You’ll never achieve 100 percent if 99 percent is okay.',
+ 	},
+  	{
+    		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
 		author: 'Will Smith',
-  },
-  {		
-    text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
+  	},
+  	{		
+    		text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
-	}
+	},
+		{		
+    		text: "We are healed of a suffering only by experiencing it to the full.",
+		author: 'Marcel Proust',
+	},
+	{
+		text: "Life can only be understood backwards; but it must be lived forwards.",
+		author: 'Soren Kierkegaard',
+		}
 ];
