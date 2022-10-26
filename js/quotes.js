@@ -6624,20 +6624,49 @@ const quotes = [
 		text: 'He who cannot rest, cannot work; he who cannot let go, cannot hold on; he who cannot find footing, cannot go forward.',
 		author: 'Harry Emerson Fosdick',
 	},
-  }
+	{
     text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
 		author: 'Ryan Holiday',
 	},
 	{
 		text: 'The obstacle in the path becomes the path.',
 		author: 'Ryan Holiday',
-  },
-  {
+  	},
+  	{
     text: 'You’ll never achieve 100 percent if 99 percent is okay.',
 		author: 'Will Smith',
-  },
-  {		
+  	},
+  	{		
     text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
-	}
+	},
+  	{		
+    text: "Education is the most powerful weapon which you can use to change the world.",
+		author: 'Nelson Mandela',
+	},
+  	{		
+    text: "It is in your hands, to make a better world for all who live in it.",
+		author: 'Nelson Mandela',
+	},
+  	{		
+    text: "A winner is a dreamer who never gives up.",
+		author: 'Nelson Mandela',
+	},
+  	{		
+    text: "Overcoming poverty is not a task of charity, it is an act of justice.",
+		author: 'Nelson Mandela',
+	},
+  	{		
+    text: "One cannot be prepared for something while secretly believing it will not happen.",
+		author: 'Nelson Mandela',
+	},
+  	{		
+    text: "Do not judge me by my successes, judge me by how many times I fell down and got back up again.",
+		author: 'Nelson Mandela',
+	},
+  	{		
+    text: "What counts in life is not the mere fact that we have lived. It is what difference we have made to the lives of others.",
+		author: 'Nelson Mandela',
+	},
+
 ];
