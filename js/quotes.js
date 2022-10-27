@@ -6624,7 +6624,7 @@ const quotes = [
 		text: 'He who cannot rest, cannot work; he who cannot let go, cannot hold on; he who cannot find footing, cannot go forward.',
 		author: 'Harry Emerson Fosdick',
 	},
-  }
+  {
     text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
 		author: 'Ryan Holiday',
 	},
@@ -6639,5 +6639,18 @@ const quotes = [
   {		
     text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
+	},
+	{		
+		text: "If you do not come out of your shell, you are just a nut.",
+			author: 'Sadhguru(Jagdish Vasudev)',
+	},
+	{		
+		text: "The secrets of life will not yield to a flirtatious mind.It needs the attention of a dedicated lover.",
+			author: 'Sadhguru(Jagdish Vasudev)',
+	},
+	{		
+		text: "This is a brief life. What you make out of it is completely in your hands.",
+			author: 'Sadhguru(Jagdish Vasudev)',
 	}
+
 ];
