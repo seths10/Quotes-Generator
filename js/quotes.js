@@ -6636,6 +6636,10 @@ const quotes = [
     text: 'You’ll never achieve 100 percent if 99 percent is okay.',
 		author: 'Will Smith',
   },
+	    {
+    text: 'just move on and dont look back',
+		author: 'Cary salvatore ',
+  },
   {		
     text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
