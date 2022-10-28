@@ -6624,7 +6624,7 @@ const quotes = [
 		text: 'He who cannot rest, cannot work; he who cannot let go, cannot hold on; he who cannot find footing, cannot go forward.',
 		author: 'Harry Emerson Fosdick',
 	},
-  }
+   {
     text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
 		author: 'Ryan Holiday',
 	},
@@ -6639,5 +6639,13 @@ const quotes = [
   {		
     text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
+	},
+	{
+		text: "People are drawn deeper into tragedy not by their defects but by their virtues.",
+		author: 'Haruki Murakami',
+	},
+	{
+		text: "It’s like my identity’s an orbit that I’ve strayed far away from.",
+		author: 'Haruki Murakami',
 	}
 ];
