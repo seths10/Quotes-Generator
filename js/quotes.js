@@ -6625,19 +6625,19 @@ const quotes = [
 		author: 'Harry Emerson Fosdick',
 	},
 	{
-    text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
+    		text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
 		author: 'Ryan Holiday',
 	},
 	{
 		text: 'The obstacle in the path becomes the path.',
 		author: 'Ryan Holiday',
-  },
-  {
-    text: 'You’ll never achieve 100 percent if 99 percent is okay.',
+ 	},
+ 	{
+   		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
 		author: 'Will Smith',
-  },
-  {		
-    text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
+  	},
+  	{		
+    		text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
 	},
 	{
@@ -6648,4 +6648,17 @@ const quotes = [
 		text:"Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
 		author:"Jean-Paul Sartre"
 	}
+	{
+		text:"If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
+		author:"Simon Sinek"
+	}
+	{
+		text:"Innovative people struggle to stick to conventional wisdom when needed.",
+		author:"Kunal Shah"
+	}
+	{
+		text:"Courage isn't having the strength to go on, it is going on when you don't have strength.",
+		author:"Napoleon Bonaparte"
+	}
+
 ];
