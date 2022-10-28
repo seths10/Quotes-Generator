@@ -6625,6 +6625,10 @@ const quotes = [
 		author: 'Harry Emerson Fosdick',
 	},
 	{
+		text: 'You are not your thoughts.',
+		author: 'Frances Trussell',
+	},
+	{
     text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
 		author: 'Ryan Holiday',
 	},
