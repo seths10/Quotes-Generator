@@ -1388,6 +1388,10 @@ const quotes = [
 		author: 'Christopher Columbus',
 	},
 	{
+		text: "The world isn't perfect. But it's there for us, doing the best it can… thats what makes it so damn beautiful.",
+		author: 'Roy Mustang',
+	},
+	{
 		text: 'Great sea captains are made in rough waters and deep seas.',
 		author: 'Kathryn Kuhlman',
 	},
@@ -1710,6 +1714,10 @@ const quotes = [
 	{
 		text: 'In the end, we will remember not the words of our enemies, but the silence of our friends.',
 		author: 'Martin Luther King Jr.',
+	},
+	{
+		text: 'A person can change, at the moment when the person wishes to change.',
+		author: 'Haruhi Fujioka',
 	},
 	{
 		text: 'Music is a hogher revelation than all wisdom and philosophy. Music is the electrical soil in which the spirit lives, thinks and invents.',
@@ -6625,27 +6633,27 @@ const quotes = [
 		author: 'Harry Emerson Fosdick',
 	},
 	{
-    text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
+		text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
 		author: 'Ryan Holiday',
 	},
 	{
 		text: 'The obstacle in the path becomes the path.',
 		author: 'Ryan Holiday',
-  },
-  {
-    text: 'You’ll never achieve 100 percent if 99 percent is okay.',
+	},
+	{
+		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
 		author: 'Will Smith',
-  },
-  {		
-    text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
+	},
+	{
+		text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
 	},
 	{
-		text:"I am a cage, in search of a bird.",
-		author:"Franz Kafka"
+		text: "I am a cage, in search of a bird.",
+		author: "Franz Kafka"
 	},
 	{
-		text:"Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
-		author:"Jean-Paul Sartre"
+		text: "Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
+		author: "Jean-Paul Sartre"
 	}
 ];
