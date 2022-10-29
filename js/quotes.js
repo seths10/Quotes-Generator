@@ -6625,6 +6625,22 @@ const quotes = [
 		author: 'Harry Emerson Fosdick',
 	},
 	{
+		text: "Money is one thing which rarely unites and mostly divides people.",
+		author: 'Sudha Murty',
+	},
+	{
+		text: "You will never win if you never begin.",
+		author: 'Helen Rowland',
+	},
+	{
+		text: "Moments, when lost, can't be found again. They're just gone.",
+		author: 'Jenny Han',
+	},
+	{
+		text: "You told me once that I bring out the worst in you. Well, you bring out the best in me.",
+		author: 'Anna Todd',
+	},
+	{
     text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
 		author: 'Ryan Holiday',
 	},
