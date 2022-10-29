@@ -6647,5 +6647,9 @@ const quotes = [
 	{
 		text:"Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
 		author:"Jean-Paul Sartre"
+	},
+		{
+		text:"Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through this.",
+		author:"Celine Dion"
 	}
 ];
