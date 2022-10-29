@@ -6647,5 +6647,10 @@ const quotes = [
 	{
 		text:"Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
 		author:"Jean-Paul Sartre"
+	},
+		{
+		text:"In order to write about life first you must live it.",
+		author:"Ernest Hemingway"
 	}
+	
 ];
