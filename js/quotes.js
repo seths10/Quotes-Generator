@@ -6647,5 +6647,29 @@ const quotes = [
 	{
 		text:"Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
 		author:"Jean-Paul Sartre"
-	}
+	},
+	{
+        text:"It is not in the stars to hold our destiny but in ourselves.",
+        author:"William Shakespeare"
+    },
+    {
+        text:"Never give up on something that you can't go a day without thinking about.",
+        author:"Winston Churchill"
+    },
+    {
+        text:"Success is a lousy teache. It seduces smart peopleinto thinking they can't loose.",
+        author:"Bill Gates"
+    },
+    {
+        text:"If you want to live a happy life,tie it to a goal.Not to people or things.",
+        author:"Albert Einstein"
+    },
+    {
+        text:"You can't edit a blank page.",
+        author:"Jodi Picoult"
+    },
+    {
+        text:"In a gentle way, you can shake the world.",
+        author:"Mahatma gandhi"
+    },
 ];
