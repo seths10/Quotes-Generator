@@ -6647,5 +6647,9 @@ const quotes = [
 	{
 		text:"Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
 		author:"Jean-Paul Sartre"
+	},
+		{
+		text:"Life is not a problem to be solved, but a reality to be experienced.",
+		author:"Soren Kierkegaard"
 	}
 ];
