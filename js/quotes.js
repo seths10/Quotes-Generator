@@ -109,7 +109,7 @@ const quotes = [
   },
 
 
-	 {
+{
     text: "To doubt is better, because it helps understand, aids searching. Question is everything, answer is maturity",
     author: "Laxmi Prasad Devkota",
   },
