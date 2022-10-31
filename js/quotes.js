@@ -6693,7 +6693,7 @@ const quotes = [
 	{
 		text: 'The obstacle in the path becomes the path.',
 		author: 'Ryan Holiday',
-  	},
+ 	},
   	{
    		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
 		author: 'Will Smith',
@@ -6701,6 +6701,14 @@ const quotes = [
   	{		
     		text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
+	},
+	{		
+    		text: "We are healed of a suffering only by experiencing it to the full.",
+		author: 'Marcel Proust',
+	},
+	{
+		text: "Life can only be understood backwards; but it must be lived forwards.",
+		author: 'Soren Kierkegaard',
 	},
 	{
 		text: 'I see now that the circumstances of one\'s birth are irrelevant. It is what you do with the gift of life that determines who you are.',
@@ -6710,23 +6718,23 @@ const quotes = [
     text: "Education is the most powerful weapon which you can use to change the world.",
 		author: 'Nelson Mandela',
 	},
-  	{		
+  {		
     text: "It is in your hands, to make a better world for all who live in it.",
 		author: 'Nelson Mandela',
 	},
-  	{		
+  {		
     text: "A winner is a dreamer who never gives up.",
 		author: 'Nelson Mandela',
 	},
-  	{		
+  {		
     text: "Overcoming poverty is not a task of charity, it is an act of justice.",
 		author: 'Nelson Mandela',
 	},
-  	{		
+  {		
     text: "One cannot be prepared for something while secretly believing it will not happen.",
 		author: 'Nelson Mandela',
 	},
-  	{		
+  {		
     text: "Do not judge me by my successes, judge me by how many times I fell down and got back up again.",
 		author: 'Nelson Mandela',
 	},
