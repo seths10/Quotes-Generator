@@ -6675,6 +6675,10 @@ const quotes = [
 		author: 'Harry Emerson Fosdick',
 	},
 	{
+		text: 'You are not your thoughts.',
+		author: 'Frances Trussell',
+	},
+	{
 		text: "Money is one thing which rarely unites and mostly divides people.",
 		author: 'Sudha Murty',
 	},
