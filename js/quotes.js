@@ -28,6 +28,10 @@ const quotes = [
 		author: 'William Hazlitt',
 	},
 	{
+		text: 'Write books only if you are going to say in them the things you would never tell anyone',
+		author: 'Emil Cioran',
+	},
+	{
 		text: "I'm telling you it is going to be easy. I'm telling you it is going to be worth it.",
 		author: 'Art Williams',
 	},
