@@ -36,8 +36,24 @@ const quotes = [
 		author: 'Nelson Mandela',
 	},
 	{
+		text: "Everything is hard before it is easy.",
+		author: 'Johann Wolfgang von Goethe',
+	},
+	{
 		text: 'Work hard in silence. Let your success be noise.',
 		author: 'Frank Ocean',
+	},
+	{
+		text: "Life is never fair, and perhaps it is a good thing for most of us that it is not.",
+		author: 'Oscar Wilde',
+	},
+	{
+		text: 'Maybe it’s not about having a beautiful day, but about finding beautiful moments. Maybe a whole day is just too much to ask. I could choose to believe that in every day, in all things, no matter how dark and ugly, there are shards of beauty if I look for them.',
+		author: 'Anna White',
+	},
+	{
+		text: "I've had the sort of day that would make St. Francis of Assisi kick babies.",
+		author: 'JDouglas Adams',
 	},
 	{
 		text: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
@@ -67,6 +83,32 @@ const quotes = [
 		text: 'Fate is in your hands and no one elses',
 		author: 'Byron Pulsifer',
 	},
+	{
+    text: "Be worthy of the people and things you get in your life.",
+    author: "Sulabh Bashyal",
+  },
+	 {
+    text: "Without music, life would be a mistake.",
+    author: "Friedrich Nietzsche",
+  },
+	 {
+    text: "A question that sometimes drives me hazy: am I or are the others crazy?",
+    author: "Albert Einstein",
+  },
+	{
+    text: "We are surrounded by story.",
+    author: "Alice McDermott",
+  },
+	{
+    text: "The past beats inside me like a second heart.",
+    author: "John Banville",
+  }
+
+
+	 {
+    text: "To doubt is better, because it helps understand, aids searching. Question is everything, answer is maturity",
+    author: "Laxmi Prasad Devkota",
+  },
 	{
 		text: 'Be the chief but never the lord.',
 		author: 'Lao Tzu',
@@ -6667,5 +6709,9 @@ const quotes = [
 	{
 		text:"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
 		author:"Albert Schweitzer"
+  },
+  {
+		text:"I don't like to commit myself about heaven and hell- you see, I have friends in both places.",
+		author:"Mark Twain"
 	}
 ];
