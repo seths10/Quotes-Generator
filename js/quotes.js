@@ -6705,15 +6705,19 @@ const quotes = [
 	{
 		text: 'The obstacle in the path becomes the path.',
 		author: 'Ryan Holiday',
-  },
-  {
-    text: 'You’ll never achieve 100 percent if 99 percent is okay.',
+  	},
+  	{
+   		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
 		author: 'Will Smith',
-  },
-  {		
-    text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
+  	},
+  	{		
+    		text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
 	},
+	{
+		text: 'I see now that the circumstances of one\'s birth are irrelevant. It is what you do with the gift of life that determines who you are.',
+		author: 'Mewtwo',
+  },
   {		
     text: "Education is the most powerful weapon which you can use to change the world.",
 		author: 'Nelson Mandela',
