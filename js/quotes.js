@@ -1,5 +1,9 @@
 const quotes = [
 	{
+		text: 'Most of modern life, all our diseases, are diseases of abundance, not diseases of scarcity.',
+		author: 'Naval Ravikant',
+	},
+	{
 		text: 'Everything in moderation, including moderation.',
 		author: 'Oscar Wilde',
 	},
@@ -36,8 +40,24 @@ const quotes = [
 		author: 'Nelson Mandela',
 	},
 	{
+		text: "Everything is hard before it is easy.",
+		author: 'Johann Wolfgang von Goethe',
+	},
+	{
 		text: 'Work hard in silence. Let your success be noise.',
 		author: 'Frank Ocean',
+	},
+	{
+		text: "Life is never fair, and perhaps it is a good thing for most of us that it is not.",
+		author: 'Oscar Wilde',
+	},
+	{
+		text: 'Maybe it’s not about having a beautiful day, but about finding beautiful moments. Maybe a whole day is just too much to ask. I could choose to believe that in every day, in all things, no matter how dark and ugly, there are shards of beauty if I look for them.',
+		author: 'Anna White',
+	},
+	{
+		text: "I've had the sort of day that would make St. Francis of Assisi kick babies.",
+		author: 'JDouglas Adams',
 	},
 	{
 		text: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
@@ -67,6 +87,32 @@ const quotes = [
 		text: 'Fate is in your hands and no one elses',
 		author: 'Byron Pulsifer',
 	},
+	{
+    text: "Be worthy of the people and things you get in your life.",
+    author: "Sulabh Bashyal",
+  },
+	 {
+    text: "Without music, life would be a mistake.",
+    author: "Friedrich Nietzsche",
+  },
+	 {
+    text: "A question that sometimes drives me hazy: am I or are the others crazy?",
+    author: "Albert Einstein",
+  },
+	{
+    text: "We are surrounded by story.",
+    author: "Alice McDermott",
+  },
+	{
+    text: "The past beats inside me like a second heart.",
+    author: "John Banville",
+  }
+
+
+	 {
+    text: "To doubt is better, because it helps understand, aids searching. Question is everything, answer is maturity",
+    author: "Laxmi Prasad Devkota",
+  },
 	{
 		text: 'Be the chief but never the lord.',
 		author: 'Lao Tzu',
@@ -1388,6 +1434,10 @@ const quotes = [
 		author: 'Christopher Columbus',
 	},
 	{
+		text: "The world isn't perfect. But it's there for us, doing the best it can… thats what makes it so damn beautiful.",
+		author: 'Roy Mustang',
+	},
+	{
 		text: 'Great sea captains are made in rough waters and deep seas.',
 		author: 'Kathryn Kuhlman',
 	},
@@ -1398,10 +1448,6 @@ const quotes = [
 	{
 		text: 'I am always doing that which I cannot do, in order that I may learn how to do it.',
 		author: 'Pablo Picasso',
-	},
-	{
-		text: 'A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.',
-		author: 'Mahatma Gandhi',
 	},
 	{
 		text: 'The greatest weapon against stress is our ability to choose one thought over another.',
@@ -1710,6 +1756,10 @@ const quotes = [
 	{
 		text: 'In the end, we will remember not the words of our enemies, but the silence of our friends.',
 		author: 'Martin Luther King Jr.',
+	},
+	{
+		text: 'A person can change, at the moment when the person wishes to change.',
+		author: 'Haruhi Fujioka',
 	},
 	{
 		text: 'Music is a hogher revelation than all wisdom and philosophy. Music is the electrical soil in which the spirit lives, thinks and invents.',
@@ -2025,6 +2075,10 @@ const quotes = [
 	},
 	{
 		text: 'Let us always meet each other with smile, for the smile is the beginning of love.',
+		author: 'Mother Teresa',
+	},
+	{
+		text: 'Kind words can be short and easy to speak, but their echoes are truly endless.',
 		author: 'Mother Teresa',
 	},
 	{
@@ -3496,10 +3550,6 @@ const quotes = [
 		author: 'Pablo Picasso',
 	},
 	{
-		text: 'A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.',
-		author: 'Mahatma Gandhi',
-	},
-	{
 		text: 'The greatest weapon against stress is our ability to choose one thought over another.',
 		author: 'William James',
 	},
@@ -3570,10 +3620,6 @@ const quotes = [
 	{
 		text: 'I am always doing that which I cannot do, in order that I may learn how to do it.',
 		author: 'Pablo Picasso',
-	},
-	{
-		text: 'A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.',
-		author: 'Mahatma Gandhi',
 	},
 	{
 		text: 'The greatest weapon against stress is our ability to choose one thought over another.',
@@ -5625,10 +5671,6 @@ const quotes = [
 		author: 'Pablo Picasso',
 	},
 	{
-		text: 'A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.',
-		author: 'Mahatma Gandhi',
-	},
-	{
 		text: 'The greatest weapon against stress is our ability to choose one thought over another.',
 		author: 'William James',
 	},
@@ -5699,10 +5741,6 @@ const quotes = [
 	{
 		text: 'I am always doing that which I cannot do, in order that I may learn how to do it.',
 		author: 'Pablo Picasso',
-	},
-	{
-		text: 'A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history.',
-		author: 'Mahatma Gandhi',
 	},
 	{
 		text: 'The greatest weapon against stress is our ability to choose one thought over another.',
@@ -6621,10 +6659,34 @@ const quotes = [
 		author: 'Sri Swami Sivananda',
 	},
 	{
+		text: 'It is not important to be better than someone else, but to be better than yesterday.',
+		author: 'Jigoro Kano',
+	},
+	{
 		text: 'He who cannot rest, cannot work; he who cannot let go, cannot hold on; he who cannot find footing, cannot go forward.',
 		author: 'Harry Emerson Fosdick',
 	},
-	}
+	{
+		text: 'You are not your thoughts.',
+		author: 'Frances Trussell',
+	},
+	{
+		text: "Money is one thing which rarely unites and mostly divides people.",
+		author: 'Sudha Murty',
+	},
+	{
+		text: "You will never win if you never begin.",
+		author: 'Helen Rowland',
+	},
+	{
+		text: "Moments, when lost, can't be found again. They're just gone.",
+		author: 'Jenny Han',
+	},
+	{
+		text: "You told me once that I bring out the worst in you. Well, you bring out the best in me.",
+		author: 'Anna Todd',
+	},
+	{
 		text: 'If we are emotional, subjective and short-sighted, we only add to our troubles.',
 		author: 'Ryan Holiday',
 	},
@@ -6633,19 +6695,215 @@ const quotes = [
 		author: 'Ryan Holiday',
  	},
   	{
-    		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
+   		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
 		author: 'Will Smith',
   	},
   	{		
     		text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
 	},
-		{		
+	{		
     		text: "We are healed of a suffering only by experiencing it to the full.",
 		author: 'Marcel Proust',
 	},
 	{
 		text: "Life can only be understood backwards; but it must be lived forwards.",
 		author: 'Soren Kierkegaard',
-		}
+	},
+	{
+		text: 'I see now that the circumstances of one\'s birth are irrelevant. It is what you do with the gift of life that determines who you are.',
+		author: 'Mewtwo',
+  },
+  {		
+    text: "Education is the most powerful weapon which you can use to change the world.",
+		author: 'Nelson Mandela',
+	},
+  {		
+    text: "It is in your hands, to make a better world for all who live in it.",
+		author: 'Nelson Mandela',
+	},
+  {		
+    text: "A winner is a dreamer who never gives up.",
+		author: 'Nelson Mandela',
+	},
+  {		
+    text: "Overcoming poverty is not a task of charity, it is an act of justice.",
+		author: 'Nelson Mandela',
+	},
+  {		
+    text: "One cannot be prepared for something while secretly believing it will not happen.",
+		author: 'Nelson Mandela',
+	},
+  {		
+    text: "Do not judge me by my successes, judge me by how many times I fell down and got back up again.",
+		author: 'Nelson Mandela',
+	},
+  {		
+    text: "What counts in life is not the mere fact that we have lived. It is what difference we have made to the lives of others.",
+		author: 'Nelson Mandela',
+ 	},
+ 	{
+   	text: 'You’ll never achieve 100 percent if 99 percent is okay.',
+		author: 'Will Smith',
+  },
+	{
+    text: 'just move on and dont look back',
+		author: 'Cary salvatore ',
+  },
+	{
+		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
+		author: 'Will Smith',
+	},
+	{
+		text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
+		author: 'Thomas Edison',
+	},
+	{		
+		text: "If you do not come out of your shell, you are just a nut.",
+			author: 'Sadhguru(Jagdish Vasudev)',
+	},
+	{		
+		text: "The secrets of life will not yield to a flirtatious mind.It needs the attention of a dedicated lover.",
+			author: 'Sadhguru(Jagdish Vasudev)',
+	},
+	{		
+		text: "This is a brief life. What you make out of it is completely in your hands.",
+		author: 'Sadhguru(Jagdish Vasudev)',
+  },
+	{
+		text: 'Youth has no age',
+		author: null,
+	},
+	{
+		text: 'You are too concerned with what was and what will be. Yesterday is history, tomorrow is a mystery. But today- today is a gift! That is why it is called present',
+		author: 'Kung fu Panda',
+	},
+	{
+		text: 'Success is stumbling from failure to failure with no loss of enthusiasm.',
+		author: 'Winston Churchill'
+	},
+	{
+		text: 'If you fall, I will be there -ground',
+		author: null
+	},
+	{
+		text: 'In the beginning I looked around and, not finding the automobile of my dreams, decided to build it myself.',
+		author: 'Ferdinand Porsche',
+	},
+	{
+		text: 'I have written you down. Now you will live forever.',
+		author: 'Bastille',
+	},
+	{
+		text: 'Education is not the filling of a pail, but the lighting of a fire.',
+		author: 'William Butler Yeats',
+	},
+	{
+		text: 'The aim of science is not to open the door to infinite wisdom, but to set a limit to infinite error.',
+		author: 'Bertolt Brecht',
+	},
+	{
+		text: 'Youth is happy because it has the capacity to see beauty. Anyone who keeps the ability to see beauty never grows old.',
+		author: 'Franz Kafka',
+	},
+	{
+		text: 'Reading gives us someplace to go when we have to stay where we are.',
+		author: 'Mason Cooley',
+  },
+  {
+		text: "I am a cage, in search of a bird.",
+		author: "Franz Kafka",
+	},
+	{
+		text: "Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
+		author: "Jean-Paul Sartre",
+  },
+  {
+		text:"Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
+		author:"Jean-Paul Sartre",
+	},
+	{
+		text:"If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
+		author:"Simon Sinek",
+	},
+	{
+		text:"Innovative people struggle to stick to conventional wisdom when needed.",
+		author:"Kunal Shah",
+	},
+	{
+		text:"Courage isn't having the strength to go on, it is going on when you don't have strength.",
+		author:"Napoleon Bonaparte",
+	},
+  }
+		text: "People are drawn deeper into tragedy not by their defects but by their virtues.",
+		author: 'Haruki Murakami',
+	},
+	{
+		text: "It’s like my identity’s an orbit that I’ve strayed far away from.",
+		author: 'Haruki Murakami',
+  },
+  {
+      text:"It is not in the stars to hold our destiny but in ourselves.",
+      author:"William Shakespeare",
+  },
+  {
+      text:"Never give up on something that you can't go a day without thinking about.",
+      author:"Winston Churchill",
+  },
+  {
+      text:"Success is a lousy teache. It seduces smart peopleinto thinking they can't loose.",
+      author:"Bill Gates",
+  },
+  {
+      text:"If you want to live a happy life,tie it to a goal.Not to people or things.",
+      author:"Albert Einstein",
+  },
+  {
+      text:"You can't edit a blank page.",
+      author:"Jodi Picoult",
+  },
+  {
+      text:"In a gentle way, you can shake the world.",
+      author:"Mahatma gandhi",
+  },
+  }
+		text:"In order to write about life first you must live it.",
+		author:"Ernest Hemingway",
+  },
+	{
+		text:"Life is not a problem to be solved, but a reality to be experienced.",
+		author:"Soren Kierkegaard",
+  },
+	{
+		text:"Turn your wounds into wisdom.",
+		author:"Oprah Winfrey",
+	},
+	{
+		text:"Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through this.",
+		author:"Celine Dion",
+  },
+	{
+		text:"The path to success is to take massive, determined actions.",
+		author:"Tony Robbins",
+	},
+	{
+		text:"People may doubt what you say, but they will believe what you do.",
+		author:"Lewis Cass",
+	},
+	{
+		text:"Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.",
+		author:"Joel A. Barker",
+	},
+	{
+		text:"Progress is impossible without change, and those who cannot change their minds cannot change anything.",
+		author:"George Bernard Shaw",
+	},
+	{
+		text:"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+		author:"Albert Schweitzer",
+  },
+  {
+		text:"I don't like to commit myself about heaven and hell- you see, I have friends in both places.",
+		author:"Mark Twain",
+	}
 ];
