@@ -317,6 +317,37 @@ const quotes = [
 		text: 'He is able who thinks he is able.',
 		author: 'Buddha',
 	},
+		{
+
+text:"You know, Hobbes, some days even my lucky rocketship underpants don't help.",
+author:"Bill Watterson"
+
+},
+{
+
+text:"I haven't had a very good day. I think I might still be hungover and everyone's dead and my root beer's gone.",
+author:Holly Black""
+
+},
+{
+
+text:"Even if we don't have the power to choose where we come from, we can still choose where we go from there",
+author:"Stephen Chbosky"
+
+},
+{
+
+text:"And now that you don't have to be perfect, you can be good.",
+author:"John Steinbeck"
+
+},
+{
+
+text:"Outside the windows the day was bright: golden sunshine, blue sky, pleasant wind... I wanted to punch the happy day in the face, grab it by the hair, and beat it until it told me what the hell it was so happy about.
+",
+author:"Ilona Andrews"
+
+},
 	{
 		text: 'A goal without a plan is just a wish.',
 		author: 'Larry Elder',
@@ -513,6 +544,7 @@ const quotes = [
 		text: 'You can do it if you believe you can!',
 		author: 'Napoleon Hill',
 	},
+		
 	{
 		text: "Set your goals high, and don't stop till you get there.",
 		author: 'Bo Jackson',
