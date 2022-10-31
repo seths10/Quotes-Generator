@@ -6691,6 +6691,26 @@ const quotes = [
 		author:"Jean-Paul Sartre"
 	},
 	{
+		text:"The path to success is to take massive, determined actions.",
+		author:"Tony Robbins"
+	},
+	{
+		text:"People may doubt what you say, but they will believe what you do.",
+		author:"Lewis Cass"
+	},
+	{
+		text:"Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.",
+		author:"Joel A. Barker"
+	},
+	{
+		text:"Progress is impossible without change, and those who cannot change their minds cannot change anything.",
+		author:"George Bernard Shaw"
+	},
+	{
+		text:"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+		author:"Albert Schweitzer"
+  },
+  {
 		text:"I don't like to commit myself about heaven and hell- you see, I have friends in both places.",
 		author:"Mark Twain"
 	}
