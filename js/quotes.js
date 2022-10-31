@@ -4,10 +4,6 @@ const quotes = [
 		author: 'Naval Ravikant',
 	},
 	{
-		text: 'Everything in moderation, including moderation.',
-		author: 'Oscar Wilde',
-	},
-	{
 		text: 'Write books only if you are going to say in them the things you would never dare confide to anyone',
 		author: 'Emil Cioran',
 	},
@@ -26,6 +22,10 @@ const quotes = [
 	{
 		text: 'The art of life is to know how to enjoy a little and to endure very much.',
 		author: 'William Hazlitt',
+	},
+	{
+		text: 'Write books only if you are going to say in them the things you would never tell anyone',
+		author: 'Emil Cioran',
 	},
 	{
 		text: "I'm telling you it is going to be easy. I'm telling you it is going to be worth it.",
@@ -106,7 +106,7 @@ const quotes = [
 	{
     text: "The past beats inside me like a second heart.",
     author: "John Banville",
-  }
+  },
 
 
 	 {
@@ -248,6 +248,10 @@ const quotes = [
 	{
 		text: 'One today is worth two tomorrows.',
 		author: 'Benjamin Franklin',
+	},
+	{
+		text: 'The art of life is to know how to enjoy a little',
+		author: 'William Hazlitt',
 	},
 	{
 		text: 'Once you choose hope, anythings possible.',
@@ -6834,7 +6838,7 @@ const quotes = [
 		text:"Courage isn't having the strength to go on, it is going on when you don't have strength.",
 		author:"Napoleon Bonaparte",
 	},
-  }
+  {
 		text: "People are drawn deeper into tragedy not by their defects but by their virtues.",
 		author: 'Haruki Murakami',
 	},
@@ -6866,7 +6870,7 @@ const quotes = [
       text:"In a gentle way, you can shake the world.",
       author:"Mahatma gandhi",
   },
-  }
+  {
 		text:"In order to write about life first you must live it.",
 		author:"Ernest Hemingway",
   },
