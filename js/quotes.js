@@ -106,10 +106,10 @@ const quotes = [
 	{
     text: "The past beats inside me like a second heart.",
     author: "John Banville",
-  }
+  },
 
 
-	 {
+{
     text: "To doubt is better, because it helps understand, aids searching. Question is everything, answer is maturity",
     author: "Laxmi Prasad Devkota",
   },
@@ -6834,7 +6834,7 @@ const quotes = [
 		text:"Courage isn't having the strength to go on, it is going on when you don't have strength.",
 		author:"Napoleon Bonaparte",
 	},
-  }
+  {
 		text: "People are drawn deeper into tragedy not by their defects but by their virtues.",
 		author: 'Haruki Murakami',
 	},
@@ -6866,7 +6866,7 @@ const quotes = [
       text:"In a gentle way, you can shake the world.",
       author:"Mahatma gandhi",
   },
-  }
+  {
 		text:"In order to write about life first you must live it.",
 		author:"Ernest Hemingway",
   },
