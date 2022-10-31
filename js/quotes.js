@@ -6703,6 +6703,10 @@ const quotes = [
 		author:"Jean-Paul Sartre"
 	},
 	{
+		text:"Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through this.",
+		author:"Celine Dion"
+  },
+	{
 		text:"The path to success is to take massive, determined actions.",
 		author:"Tony Robbins"
 	},
