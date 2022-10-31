@@ -1978,14 +1978,6 @@ author:"Ilona Andrews"
 		author: 'Kanye West',
 	},
 	{
-		text: "There's no fangs. I don't have fangs. I'm a porcupine. I'm a blowfish. Like, I'm a — what's the fish that blows up? I'm a blowfish. I'm not a shark, I'm a blowfish.",
-		author: 'Kanye West',
-	},
-	{
-		text: 'I don’t want to say these really big, over-the-top statements that end up getting quoted.',
-		author: 'Kanye West',
-	},
-	{
 		text: 'Perform your obligatory duty, because action is indeed better than inaction.',
 		author: 'Shri Krishna (Bhagavad Gita)',
 	},
