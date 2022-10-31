@@ -6703,6 +6703,10 @@ const quotes = [
 		author:"Jean-Paul Sartre"
 	},
 	{
+		text:"Life is not a problem to be solved, but a reality to be experienced.",
+		author:"Soren Kierkegaard"
+  },
+	{
 		text:"Turn your wounds into wisdom.",
 		author:"Oprah Winfrey"
 	},
