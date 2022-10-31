@@ -6671,6 +6671,10 @@ const quotes = [
 		author: 'Sri Swami Sivananda',
 	},
 	{
+		text: 'It is not important to be better than someone else, but to be better than yesterday.',
+		author: 'Jigoro Kano',
+	},
+	{
 		text: 'He who cannot rest, cannot work; he who cannot let go, cannot hold on; he who cannot find footing, cannot go forward.',
 		author: 'Harry Emerson Fosdick',
 	},
