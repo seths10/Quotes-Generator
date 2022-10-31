@@ -6723,6 +6723,14 @@ const quotes = [
 		author:"Jean-Paul Sartre"
 	},
 	{
+		text: "People are drawn deeper into tragedy not by their defects but by their virtues.",
+		author: 'Haruki Murakami',
+	},
+	{
+		text: "It’s like my identity’s an orbit that I’ve strayed far away from.",
+		author: 'Haruki Murakami',
+  },
+  {
       text:"It is not in the stars to hold our destiny but in ourselves.",
       author:"William Shakespeare"
   },
