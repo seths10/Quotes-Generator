@@ -6707,6 +6707,10 @@ const quotes = [
 		author: 'Will Smith',
   },
 	{
+    text: 'just move on and dont look back',
+		author: 'Cary salvatore ',
+  },
+	{
 		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
 		author: 'Will Smith',
 	},
