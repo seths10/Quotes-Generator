@@ -36,8 +36,24 @@ const quotes = [
 		author: 'Nelson Mandela',
 	},
 	{
+		text: "Everything is hard before it is easy.",
+		author: 'Johann Wolfgang von Goethe',
+	},
+	{
 		text: 'Work hard in silence. Let your success be noise.',
 		author: 'Frank Ocean',
+	},
+	{
+		text: "Life is never fair, and perhaps it is a good thing for most of us that it is not.",
+		author: 'Oscar Wilde',
+	},
+	{
+		text: 'Maybe it’s not about having a beautiful day, but about finding beautiful moments. Maybe a whole day is just too much to ask. I could choose to believe that in every day, in all things, no matter how dark and ugly, there are shards of beauty if I look for them.',
+		author: 'Anna White',
+	},
+	{
+		text: "I've had the sort of day that would make St. Francis of Assisi kick babies.",
+		author: 'JDouglas Adams',
 	},
 	{
 		text: "If you really want to do something, you'll find a way. If you don't, you'll find an excuse.",
