@@ -6775,28 +6775,68 @@ const quotes = [
 		author: 'Sadhguru(Jagdish Vasudev)',
   },
 	{
+		text: 'Youth has no age',
+		author: null,
+	},
+	{
+		text: 'You are too concerned with what was and what will be. Yesterday is history, tomorrow is a mystery. But today- today is a gift! That is why it is called present',
+		author: 'Kung fu Panda',
+	},
+	{
+		text: 'Success is stumbling from failure to failure with no loss of enthusiasm.',
+		author: 'Winston Churchill'
+	},
+	{
+		text: 'If you fall, I will be there -ground',
+		author: null
+	},
+	{
+		text: 'In the beginning I looked around and, not finding the automobile of my dreams, decided to build it myself.',
+		author: 'Ferdinand Porsche',
+	},
+	{
+		text: 'I have written you down. Now you will live forever.',
+		author: 'Bastille',
+	},
+	{
+		text: 'Education is not the filling of a pail, but the lighting of a fire.',
+		author: 'William Butler Yeats',
+	},
+	{
+		text: 'The aim of science is not to open the door to infinite wisdom, but to set a limit to infinite error.',
+		author: 'Bertolt Brecht',
+	},
+	{
+		text: 'Youth is happy because it has the capacity to see beauty. Anyone who keeps the ability to see beauty never grows old.',
+		author: 'Franz Kafka',
+	},
+	{
+		text: 'Reading gives us someplace to go when we have to stay where we are.',
+		author: 'Mason Cooley',
+  },
+  {
 		text: "I am a cage, in search of a bird.",
-		author: "Franz Kafka"
+		author: "Franz Kafka",
 	},
 	{
 		text: "Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
-		author: "Jean-Paul Sartre"
+		author: "Jean-Paul Sartre",
   },
   {
 		text:"Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
-		author:"Jean-Paul Sartre"
+		author:"Jean-Paul Sartre",
 	},
 	{
 		text:"If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
-		author:"Simon Sinek"
+		author:"Simon Sinek",
 	},
 	{
 		text:"Innovative people struggle to stick to conventional wisdom when needed.",
-		author:"Kunal Shah"
+		author:"Kunal Shah",
 	},
 	{
 		text:"Courage isn't having the strength to go on, it is going on when you don't have strength.",
-		author:"Napoleon Bonaparte"
+		author:"Napoleon Bonaparte",
 	},
   }
 		text: "People are drawn deeper into tragedy not by their defects but by their virtues.",
@@ -6808,66 +6848,66 @@ const quotes = [
   },
   {
       text:"It is not in the stars to hold our destiny but in ourselves.",
-      author:"William Shakespeare"
+      author:"William Shakespeare",
   },
   {
       text:"Never give up on something that you can't go a day without thinking about.",
-      author:"Winston Churchill"
+      author:"Winston Churchill",
   },
   {
       text:"Success is a lousy teache. It seduces smart peopleinto thinking they can't loose.",
-      author:"Bill Gates"
+      author:"Bill Gates",
   },
   {
       text:"If you want to live a happy life,tie it to a goal.Not to people or things.",
-      author:"Albert Einstein"
+      author:"Albert Einstein",
   },
   {
       text:"You can't edit a blank page.",
-      author:"Jodi Picoult"
+      author:"Jodi Picoult",
   },
   {
       text:"In a gentle way, you can shake the world.",
-      author:"Mahatma gandhi"
+      author:"Mahatma gandhi",
   },
   }
 		text:"In order to write about life first you must live it.",
-		author:"Ernest Hemingway"
+		author:"Ernest Hemingway",
   },
 	{
 		text:"Life is not a problem to be solved, but a reality to be experienced.",
-		author:"Soren Kierkegaard"
+		author:"Soren Kierkegaard",
   },
 	{
 		text:"Turn your wounds into wisdom.",
-		author:"Oprah Winfrey"
+		author:"Oprah Winfrey",
 	},
 	{
 		text:"Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through this.",
-		author:"Celine Dion"
+		author:"Celine Dion",
   },
 	{
 		text:"The path to success is to take massive, determined actions.",
-		author:"Tony Robbins"
+		author:"Tony Robbins",
 	},
 	{
 		text:"People may doubt what you say, but they will believe what you do.",
-		author:"Lewis Cass"
+		author:"Lewis Cass",
 	},
 	{
 		text:"Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.",
-		author:"Joel A. Barker"
+		author:"Joel A. Barker",
 	},
 	{
 		text:"Progress is impossible without change, and those who cannot change their minds cannot change anything.",
-		author:"George Bernard Shaw"
+		author:"George Bernard Shaw",
 	},
 	{
 		text:"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
-		author:"Albert Schweitzer"
+		author:"Albert Schweitzer",
   },
   {
 		text:"I don't like to commit myself about heaven and hell- you see, I have friends in both places.",
-		author:"Mark Twain"
+		author:"Mark Twain",
 	}
 ];
