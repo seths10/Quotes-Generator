@@ -94,9 +94,14 @@ body {
   font-size: 25px;
 }
 
+.button-container{
+  display: flex;
+  gap: 15px;
+}
+
 .main-content .button-area {
   display: grid;
-  gap: 15px;
+  gap: 20px;
   place-items: center;
   margin-top: 20px;
   padding: 10px 0;
