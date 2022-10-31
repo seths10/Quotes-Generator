@@ -6719,6 +6719,30 @@ const quotes = [
 		author:"Jean-Paul Sartre"
 	},
 	{
+      text:"It is not in the stars to hold our destiny but in ourselves.",
+      author:"William Shakespeare"
+  },
+  {
+      text:"Never give up on something that you can't go a day without thinking about.",
+      author:"Winston Churchill"
+  },
+  {
+      text:"Success is a lousy teache. It seduces smart peopleinto thinking they can't loose.",
+      author:"Bill Gates"
+  },
+  {
+      text:"If you want to live a happy life,tie it to a goal.Not to people or things.",
+      author:"Albert Einstein"
+  },
+  {
+      text:"You can't edit a blank page.",
+      author:"Jodi Picoult"
+  },
+  {
+      text:"In a gentle way, you can shake the world.",
+      author:"Mahatma gandhi"
+  },
+  }
 		text:"In order to write about life first you must live it.",
 		author:"Ernest Hemingway"
   },
@@ -6758,5 +6782,4 @@ const quotes = [
 		text:"I don't like to commit myself about heaven and hell- you see, I have friends in both places.",
 		author:"Mark Twain"
 	}
-	
 ];
