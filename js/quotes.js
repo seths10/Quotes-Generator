@@ -6703,6 +6703,10 @@ const quotes = [
 		author:"Jean-Paul Sartre"
 	},
 	{
+		text:"Turn your wounds into wisdom.",
+		author:"Oprah Winfrey"
+	},
+	{
 		text:"Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through this.",
 		author:"Celine Dion"
   },
