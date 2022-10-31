@@ -6703,6 +6703,10 @@ const quotes = [
 		author:"Jean-Paul Sartre"
 	},
 	{
+		text:"In order to write about life first you must live it.",
+		author:"Ernest Hemingway"
+  },
+	{
 		text:"Life is not a problem to be solved, but a reality to be experienced.",
 		author:"Soren Kierkegaard"
   },
@@ -6738,4 +6742,5 @@ const quotes = [
 		text:"I don't like to commit myself about heaven and hell- you see, I have friends in both places.",
 		author:"Mark Twain"
 	}
+	
 ];
