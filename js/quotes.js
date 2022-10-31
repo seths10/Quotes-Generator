@@ -6714,6 +6714,18 @@ const quotes = [
 		text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
 	},
+	{		
+		text: "If you do not come out of your shell, you are just a nut.",
+			author: 'Sadhguru(Jagdish Vasudev)',
+	},
+	{		
+		text: "The secrets of life will not yield to a flirtatious mind.It needs the attention of a dedicated lover.",
+			author: 'Sadhguru(Jagdish Vasudev)',
+	},
+	{		
+		text: "This is a brief life. What you make out of it is completely in your hands.",
+		author: 'Sadhguru(Jagdish Vasudev)',
+  },
 	{
 		text: "I am a cage, in search of a bird.",
 		author: "Franz Kafka"
