@@ -6689,5 +6689,9 @@ const quotes = [
 	{
 		text:"Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
 		author:"Jean-Paul Sartre"
+	},
+	{
+		text:"I don't like to commit myself about heaven and hell- you see, I have friends in both places.",
+		author:"Mark Twain"
 	}
 ];
