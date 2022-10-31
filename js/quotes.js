@@ -254,6 +254,10 @@ const quotes = [
 		author: 'Benjamin Franklin',
 	},
 	{
+		text: 'The art of life is to know how to enjoy a little',
+		author: 'William Hazlitt',
+	},
+	{
 		text: 'Once you choose hope, anythings possible.',
 		author: 'Christopher Reeve',
 	},
