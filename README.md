@@ -14,7 +14,7 @@ This is a website for generating random quotes which can be tweeted. It uses bas
 Please give this project a star 🌟 and don't forget to follow me 😊.
 
 If you are looking to make your first contribution, follow the steps below.
-Check the CONTRIBUTING.md file file if you are already familiar with the git workflow.
+Check the CONTRIBUTING.md file if you are already familiar with the git workflow.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
