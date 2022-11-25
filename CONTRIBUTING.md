@@ -5,7 +5,7 @@ This repository was created to help developers get started with Open Source duri
 
 ## Submitting a pull request
 
-* [Fork](https://github.com/seths10/Quotes-Generator/fork) and clone the repository.
+* [Fork](https://github.com/seths10/Quotes-Generator/fork) and clone the repository
 * Create a new branch: `git checkout -b my-branch-name`.
 * Add your quotes to the `quotes.js` file in the `js` folder
 * Please do not submit more than 10 quotes at a time, if you have more quotes, create a new PR. 
