@@ -25,7 +25,7 @@ const quotes = [
 	},
 	{
 		text: 'Write books only if you are going to say in them the things you would never tell anyone',
-		author: 'Emil Cioran',.
+		author: 'Emil Cioran',
 	},
 	{
 		text: "I'm telling you it is going to be easy. I'm telling you it is going to be worth it.",
@@ -330,7 +330,7 @@ author:"Bill Watterson"
 {
 
 text:"I haven't had a very good day. I think I might still be hungover and everyone's dead and my root beer's gone.",
-author:Holly Black""
+author:"Holly Black"
 
 },
 {
@@ -347,8 +347,7 @@ author:"John Steinbeck"
 },
 {
 
-text:"Outside the windows the day was bright: golden sunshine, blue sky, pleasant wind... I wanted to punch the happy day in the face, grab it by the hair, and beat it until it told me what the hell it was so happy about.
-",
+text:"Outside the windows the day was bright: golden sunshine, blue sky, pleasant wind... I wanted to punch the happy day in the face, grab it by the hair, and beat it until it told me what the hell it was so happy about.",
 author:"Ilona Andrews"
 
 },
