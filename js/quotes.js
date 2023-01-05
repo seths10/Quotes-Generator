@@ -267,7 +267,7 @@ const quotes = [
 	},
 	{
 		text: 'From small beginnings come great things.',
-		author: null,
+		author: 'William Bradford',
 	},
 	{
 		text: 'Learning is a treasure that will follow its owner everywhere',
