@@ -179,15 +179,15 @@ const quotes = [
 	},
 	{
 		text: 'Today is the tomorrow we worried about yesterday.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: "It's easier to see the mistakes on someone else's paper.",
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Every man dies. Not every man really lives.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'To lead people walk behind them.',
@@ -227,7 +227,7 @@ const quotes = [
 	},
 	{
 		text: 'The day is already blessed, find peace within it.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'From error to error one discovers the entire truth.',
@@ -267,7 +267,7 @@ const quotes = [
 	},
 	{
 		text: 'From small beginnings come great things.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Learning is a treasure that will follow its owner everywhere',
@@ -501,11 +501,11 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'It takes both sunshine and rain to make a rainbow.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'A beautiful thing is never perfect.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Only do what your heart tells you.',
@@ -554,7 +554,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Every new day is another chance to change your life.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Smile, breathe, and go slowly.',
@@ -574,7 +574,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Some pursue happiness, others create it.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'He that is giddy thinks the world turns round.',
@@ -590,7 +590,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'We do what we do because we believe.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Do one thing every day that scares you.',
@@ -618,7 +618,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'The harder you fall, the higher you bounce.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Trusting our intuition often saves us from disaster.',
@@ -646,7 +646,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Everyone smiles in the same language.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Yesterday I dared to struggle. Today I dare to win.',
@@ -718,7 +718,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: "You can do what's reasonable or you can decide what's possible.",
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'he purpose of our lives is to be happy.',
@@ -858,15 +858,15 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Today is the tomorrow we worried about yesterday.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: "It's easier to see the mistakes on someone else's paper.",
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Every man dies. Not every man really lives.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'To lead people walk behind them.',
@@ -906,7 +906,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'The day is already blessed, find peace within it.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'From error to error one discovers the entire truth.',
@@ -942,7 +942,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'From small beginnings come great things.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Learning is a treasure that will follow its owner everywhere',
@@ -1130,11 +1130,11 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'It takes both sunshine and rain to make a rainbow.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'A beautiful thing is never perfect.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Only do what your heart tells you.',
@@ -1182,7 +1182,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Every new day is another chance to change your life.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Smile, breathe, and go slowly.',
@@ -1202,7 +1202,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Some pursue happiness, others create it.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'He that is giddy thinks the world turns round.',
@@ -1218,7 +1218,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'We do what we do because we believe.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Do one thing every day that scares you.',
@@ -1246,7 +1246,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'The harder you fall, the higher you bounce.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Trusting our intuition often saves us from disaster.',
@@ -1274,7 +1274,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Everyone smiles in the same language.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Yesterday I dared to struggle. Today I dare to win.',
@@ -1346,7 +1346,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: "You can do what's reasonable or you can decide what's possible.",
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Make your life a dream, and a dream, a reality.',
@@ -1858,7 +1858,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'We are not given a short life, but we make it short, and we are not ill-supplied but wasteful of it.',
-		author: 'Null',
+		author: 'Anonymous',
 	},
 	{
 		text: 'The way to get started is to quit talking and begin doing.',
@@ -2402,7 +2402,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'The day is already blessed, find peace within it.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'From error to error one discovers the entire truth.',
@@ -2438,7 +2438,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'From small beginnings come great things.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Learning is a treasure that will follow its owner everywhere',
@@ -2646,7 +2646,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'A beautiful thing is never perfect.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Only do what your heart tells you.',
@@ -2694,7 +2694,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Every new day is another chance to change your life.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Smile, breathe, and go slowly.',
@@ -2714,7 +2714,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Some pursue happiness, others create it.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'He that is giddy thinks the world turns round.',
@@ -2730,7 +2730,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'We do what we do because we believe.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Do one thing every day that scares you.',
@@ -2758,7 +2758,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'The harder you fall, the higher you bounce.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Trusting our intuition often saves us from disaster.',
@@ -2786,7 +2786,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Everyone smiles in the same language.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Yesterday I dared to struggle. Today I dare to win.',
@@ -2858,7 +2858,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: "You can do what's reasonable or you can decide what's possible.",
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'he purpose of our lives is to be happy.',
@@ -3034,7 +3034,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'The day is already blessed, find peace within it.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'From error to error one discovers the entire truth.',
@@ -3070,7 +3070,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'From small beginnings come great things.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Learning is a treasure that will follow its owner everywhere',
@@ -3258,7 +3258,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'A beautiful thing is never perfect.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Only do what your heart tells you.',
@@ -3306,7 +3306,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Every new day is another chance to change your life.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Smile, breathe, and go slowly.',
@@ -3326,7 +3326,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Some pursue happiness, others create it.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'He that is giddy thinks the world turns round.',
@@ -3342,7 +3342,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'We do what we do because we believe.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Do one thing every day that scares you.',
@@ -3370,7 +3370,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'The harder you fall, the higher you bounce.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Trusting our intuition often saves us from disaster.',
@@ -3398,7 +3398,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Everyone smiles in the same language.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Yesterday I dared to struggle. Today I dare to win.',
@@ -3470,7 +3470,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: "You can do what's reasonable or you can decide what's possible.",
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Make your life a dream, and a dream, a reality.',
@@ -3962,7 +3962,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'We are not given a short life, but we make it short, and we are not ill-supplied but wasteful of it.',
-		author: 'Null',
+		author: 'Anonymous',
 	},
 	{
 		text: 'The way to get started is to quit talking and begin doing.',
@@ -4202,7 +4202,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'All the powers in the universe are already ours. It is we who have put our hands before our eyes and cry that it is dark.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: "Don't judge each day by the harvest you reap but by the seeds that you plant",
@@ -4523,7 +4523,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'The day is already blessed, find peace within it.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'From error to error one discovers the entire truth.',
@@ -4559,7 +4559,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'From small beginnings come great things.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Learning is a treasure that will follow its owner everywhere',
@@ -4767,7 +4767,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'A beautiful thing is never perfect.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Only do what your heart tells you.',
@@ -4815,7 +4815,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Every new day is another chance to change your life.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Smile, breathe, and go slowly.',
@@ -4835,7 +4835,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Some pursue happiness, others create it.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'He that is giddy thinks the world turns round.',
@@ -4851,7 +4851,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'We do what we do because we believe.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Do one thing every day that scares you.',
@@ -4879,7 +4879,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'The harder you fall, the higher you bounce.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Trusting our intuition often saves us from disaster.',
@@ -4907,7 +4907,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Everyone smiles in the same language.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Yesterday I dared to struggle. Today I dare to win.',
@@ -4979,7 +4979,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: "You can do what's reasonable or you can decide what's possible.",
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'he purpose of our lives is to be happy.',
@@ -5155,7 +5155,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'The day is already blessed, find peace within it.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'From error to error one discovers the entire truth.',
@@ -5191,7 +5191,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'From small beginnings come great things.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Learning is a treasure that will follow its owner everywhere',
@@ -5379,7 +5379,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'A beautiful thing is never perfect.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Only do what your heart tells you.',
@@ -5427,7 +5427,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Every new day is another chance to change your life.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Smile, breathe, and go slowly.',
@@ -5447,7 +5447,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Some pursue happiness, others create it.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'He that is giddy thinks the world turns round.',
@@ -5463,7 +5463,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'We do what we do because we believe.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Do one thing every day that scares you.',
@@ -5491,7 +5491,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'The harder you fall, the higher you bounce.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Trusting our intuition often saves us from disaster.',
@@ -5519,7 +5519,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'Everyone smiles in the same language.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Yesterday I dared to struggle. Today I dare to win.',
@@ -5591,7 +5591,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: "You can do what's reasonable or you can decide what's possible.",
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'Make your life a dream, and a dream, a reality.',
@@ -6083,7 +6083,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'We are not given a short life, but we make it short, and we are not ill-supplied but wasteful of it.',
-		author: 'Null',
+		author: 'Anonymous',
 	},
 	{
 		text: 'The way to get started is to quit talking and begin doing.',
@@ -6323,7 +6323,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'All the powers in the universe are already ours. It is we who have put our hands before our eyes and cry that it is dark.',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: "Don't judge each day by the harvest you reap but by the seeds that you plant",
@@ -6751,7 +6751,7 @@ author:"Ilona Andrews"
   },
 	{
 		text: 'Youth has no age',
-		author: null,
+		author: 'Anonymous',
 	},
 	{
 		text: 'You are too concerned with what was and what will be. Yesterday is history, tomorrow is a mystery. But today- today is a gift! That is why it is called present',
@@ -6763,7 +6763,7 @@ author:"Ilona Andrews"
 	},
 	{
 		text: 'If you fall, I will be there -ground',
-		author: null
+		author: 'Anonymous'
 	},
 	{
 		text: 'In the beginning I looked around and, not finding the automobile of my dreams, decided to build it myself.',
