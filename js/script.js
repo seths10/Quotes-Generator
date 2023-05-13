@@ -7,6 +7,17 @@ let mode = document.getElementById("mode");
 let buttons = document.querySelectorAll(".allBtn");
 let copyBtn = document.querySelector('#Cbtn');
 
+let quotes = []
+
+window.onload = () => {
+    fetch('./js/quotes.json')
+        .then((response) => response.json())
+        .then((json) => {
+            // console.log(json)
+            quotes = json
+        });
+}
+
 btn.addEventListener('click', function () {
   let random = Math.floor(Math.random() * quotes.length);
   quote.innerHTML = quotes[random].text;
