@@ -1,4 +1,3 @@
-
 let btn = document.querySelector("#Qbtn");
 let quote = document.querySelector(".quote");
 let writer = document.querySelector(".writer");
@@ -15,17 +14,14 @@ btn.addEventListener('click', function () {
   copyBtn.innerHTML = "Copy to Clipboard";
 });
 
-
 twitterBtn.addEventListener('click', tweetQuote);
 copyBtn.addEventListener('click', copyQuote);
-
 
 // Tweet Quote
 function tweetQuote() {
   const twitterUrl = `https://twitter.com/intent/tweet?text=${quote.innerText} ${writer.innerText}`;
   window.open(twitterUrl, "_blank");
 }
-
 
 // change mode
 mode.addEventListener("click", () => {
