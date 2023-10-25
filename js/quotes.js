@@ -88,31 +88,31 @@ const quotes = [
 		author: 'Byron Pulsifer',
 	},
 	{
-    text: "Be worthy of the people and things you get in your life.",
-    author: "Sulabh Bashyal",
-  },
-	 {
-    text: "Without music, life would be a mistake.",
-    author: "Friedrich Nietzsche",
-  },
-	 {
-    text: "A question that sometimes drives me hazy: am I or are the others crazy?",
-    author: "Albert Einstein",
-  },
+		text: "Be worthy of the people and things you get in your life.",
+		author: "Sulabh Bashyal",
+	},
 	{
-    text: "We are surrounded by story.",
-    author: "Alice McDermott",
-  },
+		text: "Without music, life would be a mistake.",
+		author: "Friedrich Nietzsche",
+	},
 	{
-    text: "The past beats inside me like a second heart.",
-    author: "John Banville",
-  },
+		text: "A question that sometimes drives me hazy: am I or are the others crazy?",
+		author: "Albert Einstein",
+	},
+	{
+		text: "We are surrounded by story.",
+		author: "Alice McDermott",
+	},
+	{
+		text: "The past beats inside me like a second heart.",
+		author: "John Banville",
+	},
 
 
-{
-    text: "To doubt is better, because it helps understand, aids searching. Question is everything, answer is maturity",
-    author: "Laxmi Prasad Devkota",
-  },
+	{
+		text: "To doubt is better, because it helps understand, aids searching. Question is everything, answer is maturity",
+		author: "Laxmi Prasad Devkota",
+	},
 	{
 		text: 'Be the chief but never the lord.',
 		author: 'Lao Tzu',
@@ -321,36 +321,36 @@ const quotes = [
 		text: 'He is able who thinks he is able.',
 		author: 'Buddha',
 	},
-		{
+	{
 
-text:"You know, Hobbes, some days even my lucky rocketship underpants don't help.",
-author:"Bill Watterson"
+		text: "You know, Hobbes, some days even my lucky rocketship underpants don't help.",
+		author: "Bill Watterson"
 
-},
-{
+	},
+	{
 
-text:"I haven't had a very good day. I think I might still be hungover and everyone's dead and my root beer's gone.",
-author:"Holly Black"
+		text: "I haven't had a very good day. I think I might still be hungover and everyone's dead and my root beer's gone.",
+		author: "Holly Black"
 
-},
-{
+	},
+	{
 
-text:"Even if we don't have the power to choose where we come from, we can still choose where we go from there",
-author:"Stephen Chbosky"
+		text: "Even if we don't have the power to choose where we come from, we can still choose where we go from there",
+		author: "Stephen Chbosky"
 
-},
-{
+	},
+	{
 
-text:"And now that you don't have to be perfect, you can be good.",
-author:"John Steinbeck"
+		text: "And now that you don't have to be perfect, you can be good.",
+		author: "John Steinbeck"
 
-},
-{
+	},
+	{
 
-text:"Outside the windows the day was bright: golden sunshine, blue sky, pleasant wind... I wanted to punch the happy day in the face, grab it by the hair, and beat it until it told me what the hell it was so happy about.",
-author:"Ilona Andrews"
+		text: "Outside the windows the day was bright: golden sunshine, blue sky, pleasant wind... I wanted to punch the happy day in the face, grab it by the hair, and beat it until it told me what the hell it was so happy about.",
+		author: "Ilona Andrews"
 
-},
+	},
 	{
 		text: 'A goal without a plan is just a wish.',
 		author: 'Larry Elder',
@@ -547,7 +547,7 @@ author:"Ilona Andrews"
 		text: 'You can do it if you believe you can!',
 		author: 'Napoleon Hill',
 	},
-		
+
 	{
 		text: "Set your goals high, and don't stop till you get there.",
 		author: 'Bo Jackson',
@@ -6672,17 +6672,17 @@ author:"Ilona Andrews"
 	{
 		text: 'The obstacle in the path becomes the path.',
 		author: 'Ryan Holiday',
- 	},
-  	{
-   		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
+	},
+	{
+		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
 		author: 'Will Smith',
-  	},
-  	{		
-    		text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
+	},
+	{
+		text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
 	},
-	{		
-    		text: "We are healed of a suffering only by experiencing it to the full.",
+	{
+		text: "We are healed of a suffering only by experiencing it to the full.",
 		author: 'Marcel Proust',
 	},
 	{
@@ -6692,43 +6692,43 @@ author:"Ilona Andrews"
 	{
 		text: 'I see now that the circumstances of one\'s birth are irrelevant. It is what you do with the gift of life that determines who you are.',
 		author: 'Mewtwo',
-  },
-  {		
-    text: "Education is the most powerful weapon which you can use to change the world.",
-		author: 'Nelson Mandela',
 	},
-  {		
-    text: "It is in your hands, to make a better world for all who live in it.",
-		author: 'Nelson Mandela',
-	},
-  {		
-    text: "A winner is a dreamer who never gives up.",
-		author: 'Nelson Mandela',
-	},
-  {		
-    text: "Overcoming poverty is not a task of charity, it is an act of justice.",
-		author: 'Nelson Mandela',
-	},
-  {		
-    text: "One cannot be prepared for something while secretly believing it will not happen.",
-		author: 'Nelson Mandela',
-	},
-  {		
-    text: "Do not judge me by my successes, judge me by how many times I fell down and got back up again.",
-		author: 'Nelson Mandela',
-	},
-  {		
-    text: "What counts in life is not the mere fact that we have lived. It is what difference we have made to the lives of others.",
-		author: 'Nelson Mandela',
- 	},
- 	{
-   	text: 'You’ll never achieve 100 percent if 99 percent is okay.',
-		author: 'Will Smith',
-  },
 	{
-    text: 'just move on and dont look back',
+		text: "Education is the most powerful weapon which you can use to change the world.",
+		author: 'Nelson Mandela',
+	},
+	{
+		text: "It is in your hands, to make a better world for all who live in it.",
+		author: 'Nelson Mandela',
+	},
+	{
+		text: "A winner is a dreamer who never gives up.",
+		author: 'Nelson Mandela',
+	},
+	{
+		text: "Overcoming poverty is not a task of charity, it is an act of justice.",
+		author: 'Nelson Mandela',
+	},
+	{
+		text: "One cannot be prepared for something while secretly believing it will not happen.",
+		author: 'Nelson Mandela',
+	},
+	{
+		text: "Do not judge me by my successes, judge me by how many times I fell down and got back up again.",
+		author: 'Nelson Mandela',
+	},
+	{
+		text: "What counts in life is not the mere fact that we have lived. It is what difference we have made to the lives of others.",
+		author: 'Nelson Mandela',
+	},
+	{
+		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
+		author: 'Will Smith',
+	},
+	{
+		text: 'just move on and dont look back',
 		author: 'Cary salvatore ',
-  },
+	},
 	{
 		text: 'You’ll never achieve 100 percent if 99 percent is okay.',
 		author: 'Will Smith',
@@ -6737,18 +6737,18 @@ author:"Ilona Andrews"
 		text: "Many of life's failures are people who did not realize how close to success they were when they gave up.",
 		author: 'Thomas Edison',
 	},
-	{		
+	{
 		text: "If you do not come out of your shell, you are just a nut.",
-			author: 'Sadhguru(Jagdish Vasudev)',
+		author: 'Sadhguru(Jagdish Vasudev)',
 	},
-	{		
+	{
 		text: "The secrets of life will not yield to a flirtatious mind.It needs the attention of a dedicated lover.",
-			author: 'Sadhguru(Jagdish Vasudev)',
+		author: 'Sadhguru(Jagdish Vasudev)',
 	},
-	{		
+	{
 		text: "This is a brief life. What you make out of it is completely in your hands.",
 		author: 'Sadhguru(Jagdish Vasudev)',
-  },
+	},
 	{
 		text: 'Youth has no age',
 		author: 'Anonymous',
@@ -6788,101 +6788,142 @@ author:"Ilona Andrews"
 	{
 		text: 'Reading gives us someplace to go when we have to stay where we are.',
 		author: 'Mason Cooley',
-  },
-  {
+	},
+	{
 		text: "I am a cage, in search of a bird.",
 		author: "Franz Kafka",
 	},
 	{
 		text: "Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
 		author: "Jean-Paul Sartre",
-  },
-  {
-		text:"Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
-		author:"Jean-Paul Sartre",
 	},
 	{
-		text:"If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
-		author:"Simon Sinek",
+		text: "Every existing thing is born without reason, prolongs itself out of weakness, and dies by chance.",
+		author: "Jean-Paul Sartre",
 	},
 	{
-		text:"Innovative people struggle to stick to conventional wisdom when needed.",
-		author:"Kunal Shah",
+		text: "If your actions inspire others to dream more, learn more, do more and become more, you are a leader.",
+		author: "Simon Sinek",
 	},
 	{
-		text:"Courage isn't having the strength to go on, it is going on when you don't have strength.",
-		author:"Napoleon Bonaparte",
+		text: "Innovative people struggle to stick to conventional wisdom when needed.",
+		author: "Kunal Shah",
 	},
-  {
+	{
+		text: "Courage isn't having the strength to go on, it is going on when you don't have strength.",
+		author: "Napoleon Bonaparte",
+	},
+	{
 		text: "People are drawn deeper into tragedy not by their defects but by their virtues.",
 		author: 'Haruki Murakami',
 	},
 	{
 		text: "It’s like my identity’s an orbit that I’ve strayed far away from.",
 		author: 'Haruki Murakami',
-  },
-  {
-      text:"It is not in the stars to hold our destiny but in ourselves.",
-      author:"William Shakespeare",
-  },
-  {
-      text:"Never give up on something that you can't go a day without thinking about.",
-      author:"Winston Churchill",
-  },
-  {
-      text:"Success is a lousy teache. It seduces smart peopleinto thinking they can't loose.",
-      author:"Bill Gates",
-  },
-  {
-      text:"If you want to live a happy life,tie it to a goal.Not to people or things.",
-      author:"Albert Einstein",
-  },
-  {
-      text:"You can't edit a blank page.",
-      author:"Jodi Picoult",
-  },
-  {
-      text:"In a gentle way, you can shake the world.",
-      author:"Mahatma gandhi",
-  },
-  {
-		text:"In order to write about life first you must live it.",
-		author:"Ernest Hemingway",
-  },
-	{
-		text:"Life is not a problem to be solved, but a reality to be experienced.",
-		author:"Soren Kierkegaard",
-  },
-	{
-		text:"Turn your wounds into wisdom.",
-		author:"Oprah Winfrey",
 	},
 	{
-		text:"Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through this.",
-		author:"Celine Dion",
-  },
-	{
-		text:"The path to success is to take massive, determined actions.",
-		author:"Tony Robbins",
+		text: "It is not in the stars to hold our destiny but in ourselves.",
+		author: "William Shakespeare",
 	},
 	{
-		text:"People may doubt what you say, but they will believe what you do.",
-		author:"Lewis Cass",
+		text: "Never give up on something that you can't go a day without thinking about.",
+		author: "Winston Churchill",
 	},
 	{
-		text:"Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.",
-		author:"Joel A. Barker",
+		text: "Success is a lousy teache. It seduces smart peopleinto thinking they can't loose.",
+		author: "Bill Gates",
 	},
 	{
-		text:"Progress is impossible without change, and those who cannot change their minds cannot change anything.",
-		author:"George Bernard Shaw",
+		text: "If you want to live a happy life,tie it to a goal.Not to people or things.",
+		author: "Albert Einstein",
 	},
 	{
-		text:"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
-		author:"Albert Schweitzer",
-  },
-  {
-		text:"I don't like to commit myself about heaven and hell- you see, I have friends in both places.",
-		author:"Mark Twain",
+		text: "You can't edit a blank page.",
+		author: "Jodi Picoult",
+	},
+	{
+		text: "In a gentle way, you can shake the world.",
+		author: "Mahatma gandhi",
+	},
+	{
+		text: "In order to write about life first you must live it.",
+		author: "Ernest Hemingway",
+	},
+	{
+		text: "Life is not a problem to be solved, but a reality to be experienced.",
+		author: "Soren Kierkegaard",
+	},
+	{
+		text: "Turn your wounds into wisdom.",
+		author: "Oprah Winfrey",
+	},
+	{
+		text: "Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through this.",
+		author: "Celine Dion",
+	},
+	{
+		text: "The path to success is to take massive, determined actions.",
+		author: "Tony Robbins",
+	},
+	{
+		text: "People may doubt what you say, but they will believe what you do.",
+		author: "Lewis Cass",
+	},
+	{
+		text: "Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world.",
+		author: "Joel A. Barker",
+	},
+	{
+		text: "Progress is impossible without change, and those who cannot change their minds cannot change anything.",
+		author: "George Bernard Shaw",
+	},
+	{
+		text: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+		author: "Albert Schweitzer",
+	},
+	{
+		text: "I don't like to commit myself about heaven and hell- you see, I have friends in both places.",
+		author: "Mark Twain",
+	}
+	,
+	{
+		text: "Money is numbers and numbers never end. If it takes money to be happy, your search for happiness will never end.",
+		author: "Bob Marley"
+	},
+	{
+		text: "A Tree that is unbending is easily broken",
+		author: "Lao Tzu"
+	},
+	{
+		text: "You may learn much more from a game you lose than from a game you win. You will have to lose hundreds of games before becoming a good player.",
+		author: "José Raúl Capablanca"
+	},
+	{
+		text: "People throw stones at you and You convert them into Milestones",
+		author: "Sachin Tendulkar"
+	},
+	{
+		text: "Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.",
+		author: "Thomas Jefferson"
+	},
+	{
+		text: "Dead people receive more flowers than the living ones because regret is stronger than gratitude.",
+		author: "Anne Frank"
+	},
+	{
+		text: "Nobody can go back and start a new beginning, but anyone can start today and make a new ending.",
+		author: "Maria Robinson"
+	},
+	{
+		text: "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
+		author: "Helen Keller"
+	},
+	{
+		text: "Poor people have big TV's. Rich people have big libraries.",
+		author: "Jim Rohn"
+	},
+	{
+		text: "The more I learn about people, the more I like my dog.",
+		author: "Mark Twain"
 	}
 ];
