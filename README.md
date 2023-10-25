@@ -2,13 +2,12 @@
 
 This is a website for generating random quotes which can then be tweeted. This is built with basic HTML, CSS, and JS with a few helpful packages.
 
-`Generate` : picks text and an author out of a list of quotes. (from the quotes.js file)
-
-`tweet this` : redirects you to a tweet text box url with the quote that was generated.
-
-`copy` : copies the current quote to your clipboard.
-
-`Download` : uses the package [npm-text-image](https://www.npmjs.com/package/text-image) to capture and format the quote to image/png and saves it to your local storage.
+| Function            | Description                                                                                        |
+|---------------------|----------------------------------------------------------------------------------------------------|
+| Generate             | Picks a random quote (text and author) from a list of quotes in the `quotes.js` file.             |
+| Tweet This           | Redirects you to a tweet text box URL with the quote that was generated.                            |
+| Copy                | Copies the current quote (text and author) to your clipboard.                                      |
+| Download            | Uses the package [npm-text-image](https://www.npmjs.com/package/text-image) to capture and format the quote into an image (PNG format) and saves it to your local storage. |
 
 **Please give this project a star 🌟 and don't forget to follow me 😊.**
 
