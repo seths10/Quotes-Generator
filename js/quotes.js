@@ -188,6 +188,7 @@ const quotes = [
 	{
 		text: 'Every man dies. Not every man really lives.',
 		author: 'William Wallace',
+	},
 	{
 		text: 'To lead people walk behind them.',
 		author: 'Lao Tzu',
@@ -6776,5 +6777,25 @@ const quotes = [
 	{
 		text: "The more I learn about people, the more I like my dog.",
 		author: "Mark Twain"
-	}
+	},
+	{
+		"text": "The only thing constant is change.",
+		"author": "Heraclitus"
+	},
+	{
+		"text": "The best way to predict the future is to create it.",
+		"author": "Peter Drucker"
+	},
+	{
+		"text": "If you want to go fast, go alone. If you want to go far, go together.",
+		"author": "African proverb"
+	},
+	{
+		"text": "The journey of a thousand miles begins with a single step.",
+		"author": "Lao Tzu"
+	},
+	{
+		"text": "The only way to do great work is to love what you do.",
+		"author": "Steve Jobs"
+	}					
 ];
