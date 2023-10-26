@@ -1,7 +1,7 @@
 let btn = document.querySelector("#Qbtn");
 let quote = document.querySelector(".quote");
 let writer = document.querySelector(".writer");
-let twitterBtn = document.querySelector("#Tbtn");
+let xBtn = document.querySelector("#Xbtn");
 let mode = document.getElementById("mode");
 let buttons = document.querySelectorAll(".allBtn");
 let copyBtn = document.querySelector('#Cbtn');
@@ -14,19 +14,26 @@ btn.addEventListener('click', function () {
   copyBtn.innerHTML = "Copy to Clipboard";
 });
 
-twitterBtn.addEventListener('click', tweetQuote);
+xBtn.addEventListener('click', postQuote);
 copyBtn.addEventListener('click', copyQuote);
 
-// Tweet Quote
-function tweetQuote() {
-  const twitterUrl = `https://twitter.com/intent/tweet?text=${quote.innerText} ${writer.innerText}`;
-  window.open(twitterUrl, "_blank");
+// Post Quote on X (Twitter)
+function postQuote() {
+  const xUrl = `https://twitter.com/intent/tweet?text=${quote.innerText} ${writer.innerText}`;
+  window.open(xUrl, "_blank");
 }
 
 // change mode
 mode.addEventListener("click", () => {
   let element = document.body;
   element.classList.toggle("dark");
+
+  const xLogo = document.getElementById("x-logo");
+  if (element.classList.contains("dark")){
+    xLogo.src = "./icons/x-twitter-light-mode.svg";
+  } else {
+    xLogo.src = "./icons/x-twitter-dark-mode.svg";
+  }
 
   let buttons = document.querySelectorAll(".allBtn");
   let modeText = document.querySelector("#modeText");
