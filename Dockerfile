@@ -5,6 +5,9 @@ WORKDIR /usr/share/nginx/html
 # Remove default nginx static assets
 RUN rm -rf ./*
 
+# Adding icons directory to get the X logos to load
+ADD icons ./icons
+
 # Copy static assets over
 COPY ./index.html ./
 RUN mkdir styles
