@@ -927,7 +927,7 @@ const quotes = [
 	},
 	{
 		text: 'From small beginnings come great things.',
-		author: 'T.E. Lawrence', 
+		author: 'T.E. Lawrence',
 		author: 'Chinese proverb',
 	},
 	{
@@ -6797,5 +6797,25 @@ const quotes = [
 	{
 		"text": "The only way to do great work is to love what you do.",
 		"author": "Steve Jobs"
-	}					
+	},
+	{
+		"text": "If you're not embarrassed by the first version of your product, you've launched too late.",
+		"author": "Reid Hoffman"
+	},
+	{
+		"text": "Failure is simply the opportunity to begin again, this time more intelligently.",
+		"author": "Henry Ford"
+	},
+	{
+		"text": "Don't be afraid to give up the good to go for the great.",
+		"author": "John D. Rockefeller"
+	},
+	{
+		"text": "The only person you are destined to become is the person you decide to be.",
+		"author": "Ralph Waldo Emerson"
+	},
+	{
+		"text": "The world is full of magic, but only for those who look for it.",
+		"author": "Albert Einstein"
+	}
 ];
