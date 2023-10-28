@@ -6852,7 +6852,7 @@ author:"Ilona Andrews"
 	{
 		text:"Life is not a problem to be solved, but a reality to be experienced.",
 		author:"Soren Kierkegaard",
-  },
+  	},
 	{
 		text:"Turn your wounds into wisdom.",
 		author:"Oprah Winfrey",
@@ -6860,7 +6860,7 @@ author:"Ilona Andrews"
 	{
 		text:"Life imposes things on you that you can’t control, but you still have the choice of how you’re going to live through this.",
 		author:"Celine Dion",
-  },
+  	},
 	{
 		text:"The path to success is to take massive, determined actions.",
 		author:"Tony Robbins",
@@ -6880,9 +6880,29 @@ author:"Ilona Andrews"
 	{
 		text:"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
 		author:"Albert Schweitzer",
-  },
-  {
+  	},
+  	{
 		text:"I don't like to commit myself about heaven and hell- you see, I have friends in both places.",
 		author:"Mark Twain",
+	},
+	{
+		text:"The human heart has no metrics, nor forms of measure; everyone is entitled to their own sorrow.",
+		author:"Monty Oum",
+	},
+	{
+		text:"To expect the unexpected shows a thoroughly modern intellect.",
+		author:"Oscar Wilde",
+	},
+	{
+		text:"People who work together will win, whether it be against complex football defenses, or the problems of modern society.",
+		author:"Vince Lombardi",
+	},
+	{
+		text:"Experience is the name everyone gives to their mistakes.",
+		author:"Oscar Wilde",
+	},
+	{
+		text:"Today you are you! That is trueer than true. There is no one alive who is you-er than you!",
+		author:"Dr. Seuss",
 	}
 ];
