@@ -6817,5 +6817,25 @@ const quotes = [
 	{
 		"text": "The world is full of magic, but only for those who look for it.",
 		"author": "Albert Einstein"
+	},
+	{
+		text:"The human heart has no metrics, nor forms of measure; everyone is entitled to their own sorrow.",
+		author:"Monty Oum",
+	},
+	{
+		text:"To expect the unexpected shows a thoroughly modern intellect.",
+		author:"Oscar Wilde",
+	},
+	{
+		text:"People who work together will win, whether it be against complex football defenses, or the problems of modern society.",
+		author:"Vince Lombardi",
+	},
+	{
+		text:"Experience is the name everyone gives to their mistakes.",
+		author:"Oscar Wilde",
+	},
+	{
+		text:"Today you are you! That is trueer than true. There is no one alive who is you-er than you!",
+		author:"Dr. Seuss",
 	}
 ];
