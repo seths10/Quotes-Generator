@@ -6837,5 +6837,26 @@ const quotes = [
 	{
 		text:"Today you are you! That is trueer than true. There is no one alive who is you-er than you!",
 		author:"Dr. Seuss",
-	}
+	},
+	{
+		text:"It is in your moments of decision that your destiny is shaped.",
+		author:"Tony Robbins",
+	},
+	{
+		text:"Freeing yourself was one thing, claiming ownership of that freed self was another.",
+		author:"Toni Morrison",
+	},
+	{
+		text:"Definitions belong to the definers, not the defined.",
+		author:"Toni Morrison",
+	},
+	{
+		text:"If you cry because the sun has gone out of your life, your tears will prevent you from seeing the stars.",
+		author:"Rabindranath Tagore",
+	},
+	{
+		text:"No tree, it is said, can grow to heaven unless its roots reach down to hell.",
+		author:"Carl Jung",
+	},
+	
 ];
