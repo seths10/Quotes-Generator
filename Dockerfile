@@ -15,6 +15,7 @@ RUN mkdir js
 COPY styles ./styles
 COPY js ./js
 
+EXPOSE 80/tcp
 
 # Containers run nginx with global directives and daemon off
 ENTRYPOINT ["nginx", "-g", "daemon off;"]
