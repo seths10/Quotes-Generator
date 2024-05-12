@@ -17,6 +17,56 @@ btn.addEventListener('click', function () {
 xBtn.addEventListener('click', postQuote);
 copyBtn.addEventListener('click', copyQuote);
 
+// Download Image
+const downloadImage = () => {
+  const quoteText = document.querySelector(".quote").innerText;
+  const writer = document.querySelector(".writer").innerText.substring(1).toLowerCase();
+
+  // Create canvas element
+  const canvas = document.createElement("canvas");
+  const context = canvas.getContext("2d");
+  
+  // Set canvas dimensions
+  canvas.width = 500; // Adjust as needed
+  canvas.height = 200; // Adjust as needed
+  
+  // Set text style
+  context.font = "16px 'Helvetica Neue'";
+  context.fillStyle = "black";
+  context.textAlign = "center";
+  context.textBaseline = "middle";
+
+  // Split quote into lines
+  const words = quoteText.split(" ");
+  let lines = [];
+  let line = "";
+  for (let i = 0; i < words.length; i++) {
+    const testLine = line + words[i] + " ";
+    const metrics = context.measureText(testLine);
+    const testWidth = metrics.width;
+    if (testWidth > canvas.width && i > 0) {
+      lines.push(line);
+      line = words[i] + " ";
+    } else {
+      line = testLine;
+    }
+  }
+  lines.push(line);
+
+  // Draw text onto canvas
+  context.clearRect(0, 0, canvas.width, canvas.height);
+  context.fillText(lines.join("\n"), canvas.width / 2, canvas.height / 2);
+
+  // Convert canvas to data URL
+  const dataURL = canvas.toDataURL();
+
+  // Create anchor element to download image
+  const link = document.createElement("a");
+  link.download = `${writer}-quote.png`;
+  link.href = dataURL;
+  link.click();
+};
+  
 // Post Quote on X (Twitter)
 function postQuote() {
   const xUrl = `https://twitter.com/intent/tweet?text=${quote.innerText} ${writer.innerText}`;
