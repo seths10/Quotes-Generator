@@ -14,4 +14,4 @@ This repository was created to help developers get started with Open Source duri
 
 > Tips: Make sure that you are submitting and committing things that are of quality substance, otherwise maintainers can invalidate your pull request
 
-* Pat yourself on the back and wait for your `pull request` to be reviewed and merged.
+* Pat yourself on the back and wait for your `pull request (PR)` to be reviewed and merged.
