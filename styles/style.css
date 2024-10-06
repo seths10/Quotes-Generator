@@ -17,12 +17,12 @@ body {
 
 .dark {
   background-color: #fff;
-  color: #222;
+  color: #fff;
 }
 
 .container {
 
-  width: 40rem;
+  width: 50%;
   height: fit-content;
   margin-left: auto;
   margin-top: 1vh;
@@ -110,7 +110,7 @@ body {
 
 .button-area .btn button {
 
-    background-color: #fb7413;
+    background-color: #13fb9a;
     color: #fff;
     border-radius: 5px;
     font-size: 16px;
@@ -125,12 +125,12 @@ body {
 }
 
 .button-area button:hover {
-  background-color: hsla(25, 100%, 51%, 0.841);
+  background-color: hsla(36, 100%, 51%, 0.841);
 }
 
 .allBtn {
-  background-color: hsl(25, 97%, 53%);
-  color: #fff;
+  background-color: hsla(36, 100%, 51%, 0.841);
+  color: #040303;
   border-radius: 5px;
   font-size: 16px;
 
@@ -162,7 +162,7 @@ body {
 }
 
 .button-area button:active {
-  background-color: rgba(215, 97, 12, 0.879);
+  background-color: hsla(36, 100%, 51%, 0.841);
 }
 
 /* Center the content of the "Post This" button with the X logo*/
